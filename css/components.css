@@ -1,0 +1,37 @@
+.clock {
+    text-align: center;
+}
+
+.time {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.date {
+    margin-top: 4px;
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 500px 200px;
+    grid-template-rows: 200px 200px 200px;
+    justify-content: center;
+    align-content: center;
+}
+
+.time {
+    font-family: "jost", sans-serif;
+    letter-spacing: 0.03em;
+    color: #fff;
+}
+
+.card_clock {
+    margin: 20px;
+    padding: 20px;
+    background-color: #2525252d;
+    backdrop-filter: blur(3px);
+    text-align: center;
+    border-radius: 17px;
+}
