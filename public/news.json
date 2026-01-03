@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-03T20:46:29.527Z",
+  "updated": "2026-01-03T20:56:08.889Z",
   "items": [
     {
       "title": "【詳報】トランプ大統領 “ベネズエラで軍事作戦 大統領拘束”",
@@ -13,11 +13,6 @@
       "pubDate": "Sun, 04 Jan 2026 03:09:51 +0900"
     },
     {
-      "title": "“ベネズエラに大規模攻撃 大統領を拘束” 米トランプ大統領",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015018411000",
-      "pubDate": "Sun, 04 Jan 2026 03:40:31 +0900"
-    },
-    {
       "title": "東京 あきる野 住宅で火災 焼け跡から2人の遺体",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018511000",
       "pubDate": "Sun, 04 Jan 2026 05:05:55 +0900"
@@ -26,6 +21,11 @@
       "title": "東電 原発事故から15年 原発再稼働と廃炉など問われる1年",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018471000",
       "pubDate": "Sun, 04 Jan 2026 05:01:30 +0900"
+    },
+    {
+      "title": "政府 予防医療に注力 健康寿命を延ばす環境整備へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015018451000",
+      "pubDate": "Sun, 04 Jan 2026 05:36:05 +0900"
     },
     {
       "title": "“ローン・オフェンダー”対策 警察庁 AI活用しSNS投稿分析へ",
