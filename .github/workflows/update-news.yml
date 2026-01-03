@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 20
 
-      - run: node tools/fetch-nhk-news.js
+      - run: node js/fetch-nhk-news.js
 
       - run: |
           git config user.name "github-actions"
