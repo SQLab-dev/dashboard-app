@@ -1,5 +1,6 @@
 :root {
     --font-en: "jost", sans-serif;
+    --font-base: "Noto Sans JP", sans-serif;
 }
 
 .clock {
@@ -15,6 +16,12 @@
     margin-top: 4px;
     font-size: 0.9rem;
     color: #aaa;
+}
+
+.news_title{
+    color: #fff;
+    font-family: var(--font-base);
+    font-size: 0.8rem;
 }
 
 .grid-container {
