@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # 30分ごと
-  workflow_dispatch:        # 手動実行もOK
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   update:
