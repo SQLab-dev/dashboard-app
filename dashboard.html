@@ -4,10 +4,10 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NowBoard</title>
-        <link rel="stylesheet" href="/css/reset.css">
-        <link rel="stylesheet" href="/css/base.css">
-        <link rel="stylesheet" href="/css/components.css">
-        <link rel="stylesheet" href="/css/layout.css">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/base.css">
+        <link rel="stylesheet" href="css/components.css">
+        <link rel="stylesheet" href="css/layout.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -15,18 +15,22 @@
     <body>
         <main>
             <div class="grid-container">
-                <div class="card_clock">
-                    <p>ああああ</p>
+                <div class="card">
+                    <p>ニュースとか<br>表示したいね</p>
                 </div>
-                <div class="card_clock">
-                    <div class="time" id="time">00:00:00</div>
-                    <div class="date" id="date">0000-00-00</div>
+                <div class="card">
+                    <div class="time_text" id="time"></div>
                 </div>
-                <div class="card_clock">
-                    <p>ああああ</p>
+                <div class="card">
+                    <div class="weather_location">
+                        <img class="pin" src="images/pin.png">
+                        <div class="reason_text">東京</div>
+                    </div>
+                    <div class="temp_text" id="day">1°</div>
                 </div>
             </div>
         </main>
-        <script src="/js/main.js"></script>
+        <script src="js/main.js" defer></script>
+        <script src="js/load-news.js"></script>
     </body>
 </html>

@@ -1,3 +1,7 @@
+:root {
+    --font-en: "jost", sans-serif;
+}
+
 .clock {
     text-align: center;
 }
@@ -21,17 +25,47 @@
     align-content: center;
 }
 
-.time {
-    font-family: "jost", sans-serif;
+.time_text {
+    font-family: var(--font-en);
     letter-spacing: 0.03em;
+    font-size: 4.6rem;
+    font-weight: 600;
     color: #fff;
+    text-shadow: 4px 4px 20px #666666;
 }
 
-.card_clock {
+.weather_location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img.pin {
+    width: 27%;
+    padding-right: 5px;
+    filter: brightness(0.9);
+    position: relative;
+    top: 1px;
+}
+
+.reason_text {
+    color: #fff;
+    font-size: 0.8rem;
+}
+
+.temp_text {
+    font-family: var(--font-en);
+    color: #fff;
+    font-size: 4rem;
+}
+
+.card {
     margin: 20px;
     padding: 20px;
     background-color: #2525252d;
     backdrop-filter: blur(3px);
     text-align: center;
     border-radius: 17px;
+    display: grid;
+    place-items: center;
 }

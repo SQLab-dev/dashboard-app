@@ -1,6 +1,4 @@
 function updateClock() {
-    const now = new Date();
-
     const hh = String(now.getHours()).padStart(2, "0");
     const mm = String(now.getMinutes()).padStart(2, "0");
 
@@ -8,14 +6,13 @@ function updateClock() {
 
     const y = now.getFullYear();
     const m = now.getMonth() + 1;
-    const d = now.getDate();
-    const week = ["日","月","火","水","木","金","土"][now.getDay()];
 
-    const dateText = `${y}/${m}/${d} (${week})`;
-
-    document.getElementById("time").textContent = timeText;
-    document.getElementById("date").textContent = dateText;
+    timeId.textContent = timeText;
 }
 
-updateClock();               // 初回即表示
+const now = new Date();
+const timeId = document.getElementById("time")
+const dayId = document.getElementById("day")
+
+updateClock();
     setInterval(updateClock, 1000);
