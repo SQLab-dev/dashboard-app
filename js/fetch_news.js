@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const RSS_URL = "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE5mTTJRU0FtcGhLQUFQAQ?hl=ja&gl=JP&ceid=JP:ja";
+const RSS_URL = "https://news.web.nhk/n-data/conf/na/rss/cat0.xml";
 const OUTPUT_DIR = "public";
 const OUTPUT_FILE = "public/news.json";
 
