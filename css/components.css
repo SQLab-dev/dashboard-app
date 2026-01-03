@@ -21,7 +21,11 @@
 .news_title{
     color: #fff;
     font-family: var(--font-base);
-    font-size: 0.8rem;
+    font-size: 1.1rem;
+    width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .grid-container {
@@ -29,7 +33,6 @@
     grid-template-columns: 200px 500px 200px;
     grid-template-rows: 200px 200px 200px;
     justify-content: center;
-    align-content: center;
 }
 
 .time_text {

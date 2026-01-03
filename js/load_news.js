@@ -1,16 +1,16 @@
-async function showLatestNewsTitle() {
-    try {
-        const res = await fetch("./public/news.json");
-        const data = await res.json();
+async function showNews() {
+    const res = await fetch("./public/news.json");
+    const data = await res.json();
 
-        const latestTitle = data.items[0]?.title ?? "ニュースを取得できません";
+    const latest = data.items[0];
 
-        document.getElementById("news_title").textContent = latestTitle;
+    document.getElementById("news_title").textContent =
+        latest.title;
 
-    } catch (err) {
-        console.error(err);
-        document.getElementById("news_title").textContent = "ニュース読み込み失敗";
-    }
+    const date = new Date(latest.pubDate);
+
+    document.getElementById("news_meta").textContent =
+        `${data.source}｜${date.toLocaleString("ja-JP")}`;
 }
 
-showLatestNewsTitle();
+showNews();

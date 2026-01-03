@@ -16,16 +16,21 @@ async function main() {
 
     const xml = await res.text();
 
+    const channelTitle =
+        xml.match(/<channel>[\s\S]*?<title>(.*?)<\/title>/)?.[1]
+        ?? "NHK";
+
     const items = [...xml.matchAll(
-        /<item>[\s\S]*?<title>(.*?)<\/title>[\s\S]*?<link>(.*?)<\/link>/g
-    )].map(match => ({
-        title: match[1],
-        link: match[2]
+        /<item>[\s\S]*?<title>(.*?)<\/title>[\s\S]*?<link>(.*?)<\/link>[\s\S]*?<pubDate>(.*?)<\/pubDate>/g
+    )].map(m => ({
+        title: m[1],
+        link: m[2],
+        pubDate: m[3]
     }));
 
     const data = {
+        source: channelTitle,
         updated: new Date().toISOString(),
-        count: items.length,
         items
     };
 
