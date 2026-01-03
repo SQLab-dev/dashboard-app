@@ -24,15 +24,8 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-image: url(/images/landscape_00031.jpg);
+    background-image: url(../images/landscape_00031.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(50px) brightness(0.95);
-}
-
-@font-face {
-    font-family: "Gen gothic";
-    src: url("../assets/SourceHanSansJP-Bold.otf") format("opentype");
-    font-weight: normal;
-    font-style: normal;
 }

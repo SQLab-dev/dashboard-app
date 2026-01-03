@@ -28,6 +28,11 @@
     text-overflow: ellipsis;
 }
 
+.news_meta {
+    color: #fff;
+    font-family: "jost", "Noto Sans JP", sans-serif;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: 200px 500px 200px;
