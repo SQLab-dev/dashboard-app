@@ -87,3 +87,26 @@ img.pin {
     place-items: center;
     box-shadow: 8px 8px 32px 0 #0000001f;
 }
+
+.setting-button {
+    text-align: center;
+}
+
+#open-settings {
+    background: none;
+    border: none;
+    cursor: pointer;
+    background-color: #2525252d;
+    backdrop-filter: blur(15px);
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+    box-shadow: 4px 4px 16px 0 #0000001f;
+}
+
+#open-settings img {
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+    filter: brightness(0.91);
+}
