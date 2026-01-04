@@ -1,18 +1,13 @@
 function updateClock() {
+    const now = new Date();
+
     const hh = String(now.getHours()).padStart(2, "0");
     const mm = String(now.getMinutes()).padStart(2, "0");
 
-    const timeText = `${hh}:${mm}`;
-
-    const y = now.getFullYear();
-    const m = now.getMonth() + 1;
-
-    timeId.textContent = timeText;
+    timeId.textContent = `${hh}:${mm}`;
 }
 
-const now = new Date();
-const timeId = document.getElementById("time")
-const dayId = document.getElementById("day")
+const timeId = document.getElementById("time");
 
 updateClock();
-    setInterval(updateClock, 1000);
+setInterval(updateClock, 1000);
