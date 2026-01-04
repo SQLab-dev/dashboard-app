@@ -58,14 +58,14 @@
 }
 
 img.pin {
-    width: 27%;
+    width: 24%;
     padding-right: 5px;
     filter: brightness(0.9);
     position: relative;
     top: 1px;
 }
 
-.reason_text {
+.city_text {
     color: #fff;
     font-size: 0.8rem;
 }

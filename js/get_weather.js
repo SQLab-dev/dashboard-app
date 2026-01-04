@@ -1,29 +1,18 @@
-let latestTemp = null;
-const temperatureId = document.getElementById("temperature");
+async function getWeather(lat, lon) {
+    const res = await fetch(
+        `https://weather-proxy.spdev-3141.workers.dev?lat=${lat}&lon=${lon}`
+    );
+    const data = await res.json();
 
-function getWeather() {
-    fetch("https://weather-proxy.spdev-3141.workers.dev")
-        .then(res => res.json())
-        .then(data => {
-            const temp =
-                data?.timelines?.minutely?.[0]?.values?.temperature;
+    const city = data.city;
+    const temperature = Math.floor(data.temperature);
 
-            if (temp != null) {
-                latestTemp = Math.floor(temp);
-            }
+    console.log(city, temperature);
 
-            else {
-                console.error("Failed to get temperature from weather data:", data);
-                latestTemp = "-";
-            }
-        });
+    return { city, temperature };
 }
 
-getWeather();
-setInterval(getWeather, 600_000);
-
-setInterval(() => {
-    if (latestTemp != null) {
-        temperatureId.textContent = latestTemp + "°";
-    }
-}, 1000);
+getWeather(26.212, 127.681).then(({ city, temperature }) => {
+    document.getElementById("city").textContent = city;
+    document.getElementById("temperature").textContent = temperature + "°";
+});
