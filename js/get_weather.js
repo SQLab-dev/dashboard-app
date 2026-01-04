@@ -1,23 +1,28 @@
-let latestTemp = "null";
+let latestTemp = null;
 const temperatureId = document.getElementById("temperature");
 
-function getweather() {
+function getWeather() {
     fetch("https://weather-proxy.spdev-3141.workers.dev")
         .then(res => res.json())
         .then(data => {
-        const temp =
-            data?.timelines?.minutely?.[0]?.values?.temperature;
+            const temp =
+                data?.timelines?.minutely?.[0]?.values?.temperature;
 
-        if (temp != null) {
-            latestTemp = temp;
-        }
+            if (temp != null) {
+                latestTemp = Math.floor(temp);
+            }
+
+            else {
+                console.error("Failed to get temperature from weather data:", data);
+                latestTemp = "-";
+            }
         });
-    }
+}
 
-    getweather();
-    setInterval(getweather, 60_000);
+getWeather();
+setInterval(getWeather, 600_000);
 
-    setInterval(() => {
+setInterval(() => {
     if (latestTemp != null) {
         temperatureId.textContent = latestTemp + "°";
     }
