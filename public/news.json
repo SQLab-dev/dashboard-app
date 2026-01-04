@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-04T18:51:25.890Z",
+  "updated": "2026-01-04T19:07:57.149Z",
   "items": [
     {
       "title": "【詳細】トランプ政権 ベネズエラの大統領を拘束 NYに移送",
@@ -11,11 +11,6 @@
       "title": "【反応】アメリカ ベネズエラで軍事作戦 マドゥーロ大統領拘束",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018521000",
       "pubDate": "Sun, 04 Jan 2026 20:41:10 +0900"
-    },
-    {
-      "title": "北朝鮮 少なくとも2発の弾道ミサイル発射 EEZ外に落下と推定",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015018571000",
-      "pubDate": "Sun, 04 Jan 2026 22:13:31 +0900"
     },
     {
       "title": "能登半島地震から2年 和倉温泉 全館休業続く老舗旅館のいま",
@@ -36,6 +31,11 @@
       "title": "水戸 女性殺人事件 複数の凶器を準備して襲撃か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018771000",
       "pubDate": "Sun, 04 Jan 2026 18:22:14 +0900"
+    },
+    {
+      "title": "静岡 長泉町 約1000万円強盗事件 17歳の少年3人を逮捕",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015018741000",
+      "pubDate": "Sun, 04 Jan 2026 20:05:25 +0900"
     }
   ]
 }
