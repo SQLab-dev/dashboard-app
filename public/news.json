@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T08:29:09.020Z",
+  "updated": "2026-01-05T08:58:53.401Z",
   "items": [
     {
       "title": "中部電力 “浜岡原発 地震評価のデータ選定などで不適切事案”",
@@ -18,6 +18,11 @@
       "pubDate": "Mon, 05 Jan 2026 16:24:11 +0900"
     },
     {
+      "title": "足立区 車暴走14人死傷 歩道に進入し時速64キロで男性に衝突か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019051000",
+      "pubDate": "Mon, 05 Jan 2026 17:38:30 +0900"
+    },
+    {
       "title": "ホンダ 半導体不足で中国の3つの工場の生産停止を2週間延長へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019271000",
       "pubDate": "Mon, 05 Jan 2026 16:20:47 +0900"
@@ -28,14 +33,9 @@
       "pubDate": "Mon, 05 Jan 2026 17:00:24 +0900"
     },
     {
-      "title": "日銀 植田総裁 今後も状況見ながら利上げ検討の姿勢改めて示す",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019241000",
-      "pubDate": "Mon, 05 Jan 2026 15:32:14 +0900"
-    },
-    {
-      "title": "ラグビー リーグワン 流大と中村亮土が今季かぎりで現役を引退",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019311000",
-      "pubDate": "Mon, 05 Jan 2026 17:14:02 +0900"
+      "title": "年末年始 空の便 国内線・国際線ともに前年より利用者数増加",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019331000",
+      "pubDate": "Mon, 05 Jan 2026 17:49:19 +0900"
     }
   ]
 }
