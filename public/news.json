@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T19:48:52.775Z",
+  "updated": "2026-01-05T19:59:12.939Z",
   "items": [
     {
       "title": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
@@ -23,6 +23,11 @@
       "pubDate": "Mon, 05 Jan 2026 15:57:57 +0900"
     },
     {
+      "title": "ウクライナの首都と周辺へ攻撃で2人死亡 欧米諸国に支援求める",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019681000",
+      "pubDate": "Tue, 06 Jan 2026 04:29:48 +0900"
+    },
+    {
       "title": "スイス 40人死亡火災 経営者2人を過失致死などの疑いで捜査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019651000",
       "pubDate": "Mon, 05 Jan 2026 23:45:31 +0900"
@@ -31,11 +36,6 @@
       "title": "札幌市 8年前の性被害申し立て 一転し いじめ「重大事態」判断",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019631000",
       "pubDate": "Mon, 05 Jan 2026 23:23:59 +0900"
-    },
-    {
-      "title": "水戸 女性殺害事件 室内に残されたスマホの解析進める",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019411000",
-      "pubDate": "Mon, 05 Jan 2026 21:08:45 +0900"
     }
   ]
 }
