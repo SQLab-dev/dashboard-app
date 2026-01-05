@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T21:34:05.016Z",
+  "updated": "2026-01-05T21:48:36.026Z",
   "items": [
     {
       "title": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
@@ -11,6 +11,11 @@
       "title": "国連安保理が緊急会合 大統領拘束で国際法違反などの声相次ぐ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019591000",
       "pubDate": "Tue, 06 Jan 2026 06:08:20 +0900"
+    },
+    {
+      "title": "中部電力浜岡原発の不適切事案 規制委は審査を中断 対応協議へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019571000",
+      "pubDate": "Tue, 06 Jan 2026 05:18:15 +0900"
     },
     {
       "title": "政府 トランプ政権のベネズエラ軍事作戦 関係国の動向など注視",
@@ -31,11 +36,6 @@
       "title": "損保大手が合併へ 持ち株会社社長“商品やサービス開発強化”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019501000",
       "pubDate": "Tue, 06 Jan 2026 06:03:30 +0900"
-    },
-    {
-      "title": "中部電力浜岡原発の不適切事案 規制委は審査を中断 対応協議へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019571000",
-      "pubDate": "Tue, 06 Jan 2026 05:18:15 +0900"
     }
   ]
 }
