@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T05:20:46.126Z",
+  "updated": "2026-01-05T05:53:11.389Z",
   "items": [
+    {
+      "title": "【ライブ配信】高市首相 年頭記者会見",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015018991000",
+      "pubDate": "Mon, 05 Jan 2026 14:30:30 +0900"
+    },
     {
       "title": "長期金利 2.125％まで上昇 約27年ぶり1999年2月以来の高水準に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019171000",
@@ -28,14 +33,9 @@
       "pubDate": "Mon, 05 Jan 2026 12:43:04 +0900"
     },
     {
-      "title": "株価 1500円以上値上がり 半導体や輸出関連の銘柄に買い注文",
+      "title": "株価 一時1600円以上値上がり 半導体や輸出関連銘柄に買い注文",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018961000",
-      "pubDate": "Mon, 05 Jan 2026 14:10:08 +0900"
-    },
-    {
-      "title": "トランプ大統領 “絶対に必要”グリーンランド取得の意欲示す",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015018941000",
-      "pubDate": "Mon, 05 Jan 2026 12:23:22 +0900"
+      "pubDate": "Mon, 05 Jan 2026 14:45:50 +0900"
     }
   ]
 }
