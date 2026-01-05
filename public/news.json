@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T14:12:22.386Z",
+  "updated": "2026-01-05T14:44:59.128Z",
   "items": [
+    {
+      "title": "札幌市 8年前の性被害申し立て 一転し いじめ「重大事態」判断",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019631000",
+      "pubDate": "Mon, 05 Jan 2026 23:23:59 +0900"
+    },
     {
       "title": "ベネズエラ マドゥーロ大統領 米連邦地方裁判所に到着",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019621000",
@@ -31,11 +36,6 @@
       "title": "北海道小樽 男児死亡事故 スキー場運営会社の関係先を捜索へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019531000",
       "pubDate": "Mon, 05 Jan 2026 20:50:57 +0900"
-    },
-    {
-      "title": "東証で大発会 大手証券会社トップからは株価上昇に期待する声",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019031000",
-      "pubDate": "Mon, 05 Jan 2026 19:41:24 +0900"
     }
   ]
 }
