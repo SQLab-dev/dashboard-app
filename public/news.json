@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T17:38:49.155Z",
+  "updated": "2026-01-05T17:53:42.325Z",
   "items": [
     {
-      "title": "ベネズエラ マドゥーロ大統領 米連邦地方裁判所に到着",
+      "title": "ベネズエラ マドゥーロ大統領 米連邦地裁で起訴内容すべて否認",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019621000",
-      "pubDate": "Mon, 05 Jan 2026 22:48:48 +0900"
+      "pubDate": "Tue, 06 Jan 2026 02:48:59 +0900"
+    },
+    {
+      "title": "NY原油先物 一時約2％上昇 ベネズエラ政情不安で悪影響を懸念",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019691000",
+      "pubDate": "Tue, 06 Jan 2026 02:33:49 +0900"
     },
     {
       "title": "トランプ大統領 ベネズエラめぐり“あらゆることへ関与必要”",
@@ -31,11 +36,6 @@
       "title": "水戸 女性殺害事件 室内に残されたスマホの解析進める",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019411000",
       "pubDate": "Mon, 05 Jan 2026 21:08:45 +0900"
-    },
-    {
-      "title": "中国 習近平国家主席と韓国 イ・ジェミョン大統領が会談",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019351000",
-      "pubDate": "Mon, 05 Jan 2026 22:28:57 +0900"
     }
   ]
 }
