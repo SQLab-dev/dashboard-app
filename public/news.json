@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T05:53:11.389Z",
+  "updated": "2026-01-05T06:30:17.165Z",
   "items": [
     {
-      "title": "【ライブ配信】高市首相 年頭記者会見",
+      "title": "トランプ大統領 ベネズエラめぐり“あらゆることへ関与必要”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015018871000",
+      "pubDate": "Mon, 05 Jan 2026 15:13:33 +0900"
+    },
+    {
+      "title": "高市首相 年頭会見 “政治の安定を” 野党に協力呼びかけ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018991000",
-      "pubDate": "Mon, 05 Jan 2026 14:30:30 +0900"
+      "pubDate": "Mon, 05 Jan 2026 15:05:14 +0900"
     },
     {
       "title": "長期金利 2.125％まで上昇 約27年ぶり1999年2月以来の高水準に",
@@ -13,9 +18,9 @@
       "pubDate": "Mon, 05 Jan 2026 13:20:19 +0900"
     },
     {
-      "title": "トランプ大統領 ベネズエラめぐり“あらゆることへ関与必要”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015018871000",
-      "pubDate": "Mon, 05 Jan 2026 12:59:04 +0900"
+      "title": "福島 震災と原発事故から15年 内堀知事“『諦めない魂』で”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019211000",
+      "pubDate": "Mon, 05 Jan 2026 15:17:26 +0900"
     },
     {
       "title": "足立区 車暴走14人死傷事故 殺人やひき逃げなどの疑いで再逮捕",
@@ -28,14 +33,9 @@
       "pubDate": "Mon, 05 Jan 2026 11:52:48 +0900"
     },
     {
-      "title": "東京 豊洲市場で初競り クロマグロが過去最高値の5億1030万円",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015018931000",
-      "pubDate": "Mon, 05 Jan 2026 12:43:04 +0900"
-    },
-    {
-      "title": "株価 一時1600円以上値上がり 半導体や輸出関連銘柄に買い注文",
+      "title": "株価 一時1600円以上値上がり 5万2000円台を回復",
       "link": "https://news.web.nhk/newsweb/na/na-k10015018961000",
-      "pubDate": "Mon, 05 Jan 2026 14:45:50 +0900"
+      "pubDate": "Mon, 05 Jan 2026 15:03:34 +0900"
     }
   ]
 }
