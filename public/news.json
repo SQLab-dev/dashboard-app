@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-05T14:44:59.128Z",
+  "updated": "2026-01-05T14:59:39.541Z",
   "items": [
+    {
+      "title": "スイス 40人死亡火災 経営者2人を過失致死などの疑いで捜査",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015019651000",
+      "pubDate": "Mon, 05 Jan 2026 23:45:31 +0900"
+    },
     {
       "title": "札幌市 8年前の性被害申し立て 一転し いじめ「重大事態」判断",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019631000",
@@ -31,11 +36,6 @@
       "title": "中国 習近平国家主席と韓国 イ・ジェミョン大統領が会談",
       "link": "https://news.web.nhk/newsweb/na/na-k10015019351000",
       "pubDate": "Mon, 05 Jan 2026 22:28:57 +0900"
-    },
-    {
-      "title": "北海道小樽 男児死亡事故 スキー場運営会社の関係先を捜索へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019531000",
-      "pubDate": "Mon, 05 Jan 2026 20:50:57 +0900"
     }
   ]
 }
