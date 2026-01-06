@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-06T11:52:40.843Z",
+  "updated": "2026-01-06T12:28:59.554Z",
   "items": [
     {
       "title": "鳥取県と島根県で震度5強 5弱の地震相次ぐ 今後の揺れに注意",
@@ -18,6 +18,11 @@
       "pubDate": "Tue, 06 Jan 2026 19:11:02 +0900"
     },
     {
+      "title": "再審制度見直し 事件担当した裁判官関わらない規定で一致",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020391000",
+      "pubDate": "Tue, 06 Jan 2026 21:03:26 +0900"
+    },
+    {
       "title": "浜岡原発の審査 やり直しを視野に対応検討 原子力規制委",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020381000",
       "pubDate": "Tue, 06 Jan 2026 20:46:36 +0900"
@@ -31,11 +36,6 @@
       "title": "企業トップはこう見る どうなる株価 円安 賃金 物価高 AI活用",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020021000",
       "pubDate": "Tue, 06 Jan 2026 18:36:13 +0900"
-    },
-    {
-      "title": "小樽 スキー場エスカレーター事故 運営会社関係先を捜索",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015019761000",
-      "pubDate": "Tue, 06 Jan 2026 18:45:58 +0900"
     }
   ]
 }
