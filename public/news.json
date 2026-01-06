@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-06T21:34:05.878Z",
+  "updated": "2026-01-06T21:48:43.645Z",
   "items": [
     {
       "title": "6日 島根と鳥取で震度5強の地震 同程度の規模の地震に注意を",
@@ -18,6 +18,11 @@
       "pubDate": "Wed, 07 Jan 2026 06:33:00 +0900"
     },
     {
+      "title": "ベネズエラ検察 マドゥーロ氏解放求める コロンビアは対話姿勢",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020451000",
+      "pubDate": "Wed, 07 Jan 2026 06:41:26 +0900"
+    },
+    {
       "title": "水戸 女性殺害事件 衣類から皮膚のかけら 抵抗した際 付着か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020491000",
       "pubDate": "Wed, 07 Jan 2026 05:13:00 +0900"
@@ -31,11 +36,6 @@
       "title": "イラン 抗議デモ続き10人死亡 トランプ大統領介入示唆に反発も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020461000",
       "pubDate": "Wed, 07 Jan 2026 05:53:29 +0900"
-    },
-    {
-      "title": "スキージャンプ男子W杯 個人第15戦 小林陵侑が3位",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015020471000",
-      "pubDate": "Wed, 07 Jan 2026 05:57:30 +0900"
     }
   ]
 }
