@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-07T09:38:24.216Z",
+  "updated": "2026-01-07T09:55:08.455Z",
   "items": [
+    {
+      "title": "【地震速報】鳥取 米子 島根 安来で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020521000",
+      "pubDate": "Wed, 07 Jan 2026 18:44:10 +0900"
+    },
     {
       "title": "島根 鳥取で震度5強 きょうも地震活動続く 同程度の地震に注意",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020571000",
@@ -31,11 +36,6 @@
       "title": "維新 国保支払いめぐる調査で中間報告 地方議員4人が関与",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021101000",
       "pubDate": "Wed, 07 Jan 2026 18:19:44 +0900"
-    },
-    {
-      "title": "香港政府高官 訪米中止 ベネズエラ軍事作戦非難の中国に同調か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021051000",
-      "pubDate": "Wed, 07 Jan 2026 17:42:55 +0900"
     }
   ]
 }
