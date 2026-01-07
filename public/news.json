@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-07T23:27:35.640Z",
+  "updated": "2026-01-07T23:43:34.241Z",
   "items": [
     {
       "title": "米軍 ベネズエラ石油取り引き関連でロシア船籍タンカーを拿捕",
@@ -13,9 +13,14 @@
       "pubDate": "Thu, 08 Jan 2026 08:06:56 +0900"
     },
     {
-      "title": "グリーンランドめぐり 米国務長官がデンマーク側と来週会談へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021451000",
-      "pubDate": "Thu, 08 Jan 2026 06:05:32 +0900"
+      "title": "11月実質賃金 11か月連続マイナス 物価上昇が賃金の伸び上回る",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021331000",
+      "pubDate": "Thu, 08 Jan 2026 08:31:02 +0900"
+    },
+    {
+      "title": "仏外相 “米国務長官 グリーンランド巡り軍事行動に否定的”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021411000",
+      "pubDate": "Thu, 08 Jan 2026 06:16:27 +0900"
     },
     {
       "title": "原子力規制委 浜岡原発の審査を当面停止 立ち入り検査の方針",
@@ -31,11 +36,6 @@
       "title": "車が警察官に突っ込みボンネットに乗せ約700メートル走行 大阪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021421000",
       "pubDate": "Thu, 08 Jan 2026 04:08:57 +0900"
-    },
-    {
-      "title": "主食用米の生産量 新潟県や秋田県など 去年より抑える方針",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021311000",
-      "pubDate": "Thu, 08 Jan 2026 05:02:50 +0900"
     }
   ]
 }
