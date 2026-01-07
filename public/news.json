@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-07T18:56:39.720Z",
+  "updated": "2026-01-07T19:22:42.483Z",
   "items": [
     {
       "title": "米軍がベネズエラ関連タンカー拿捕 “ロシア船籍”の報道も",
@@ -18,6 +18,11 @@
       "pubDate": "Wed, 07 Jan 2026 17:54:52 +0900"
     },
     {
+      "title": "車が警察官に突っ込みボンネットに乗せ約700メートル走行 大阪",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021421000",
+      "pubDate": "Thu, 08 Jan 2026 04:08:57 +0900"
+    },
+    {
       "title": "自民 萩生田幹事長代行 “衆院解散は政権が結果出したあとに”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021401000",
       "pubDate": "Thu, 08 Jan 2026 00:21:46 +0900"
@@ -31,11 +36,6 @@
       "title": "中国 日本から輸入の半導体関連物質 ダンピングの疑いで調査へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021261000",
       "pubDate": "Wed, 07 Jan 2026 19:09:42 +0900"
-    },
-    {
-      "title": "SNS投稿 高校生殴られる動画 “いじめ視野に調査” 栃木県教委",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021131000",
-      "pubDate": "Wed, 07 Jan 2026 20:40:47 +0900"
     }
   ]
 }
