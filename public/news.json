@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-07T05:57:24.534Z",
+  "updated": "2026-01-07T06:41:15.661Z",
   "items": [
+    {
+      "title": "H3ロケット 2月の9号機打ち上げ延期へ 8号機失敗原因究明必要",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020971000",
+      "pubDate": "Wed, 07 Jan 2026 14:50:27 +0900"
+    },
     {
       "title": "福井県 杉本前知事のセクハラ認定 性的メッセージなど約1000通",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020671000",
@@ -20,7 +25,7 @@
     {
       "title": "トランプ大統領 制裁対象のベネズエラ原油 “米国に引き渡す”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020621000",
-      "pubDate": "Wed, 07 Jan 2026 13:42:06 +0900"
+      "pubDate": "Wed, 07 Jan 2026 14:56:41 +0900"
     },
     {
       "title": "浜岡原発審査で過小評価疑い “データのねつ造 極めて重大”",
@@ -28,14 +33,9 @@
       "pubDate": "Wed, 07 Jan 2026 12:17:14 +0900"
     },
     {
-      "title": "外国人材 2制度 分野別の運用方針案まとまる 政府有識者会議",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015020951000",
-      "pubDate": "Wed, 07 Jan 2026 14:05:31 +0900"
-    },
-    {
-      "title": "世界最大規模のテクノロジー見本市 最先端人型ロボットなど",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015020721000",
-      "pubDate": "Wed, 07 Jan 2026 14:42:19 +0900"
+      "title": "原子力規制庁職員 私的旅行で訪問の中国で業務用スマホ紛失",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020981000",
+      "pubDate": "Wed, 07 Jan 2026 14:55:47 +0900"
     }
   ]
 }
