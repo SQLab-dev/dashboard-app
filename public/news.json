@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-07T07:50:31.021Z",
+  "updated": "2026-01-07T08:00:23.852Z",
   "items": [
+    {
+      "title": "島根 鳥取で震度5強 きょうも地震活動続く 同程度の地震に注意",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020571000",
+      "pubDate": "Wed, 07 Jan 2026 15:56:50 +0900"
+    },
     {
       "title": "中国 軍民両用品目の輸出規制強化 レアアース調達に懸念の声も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020701000",
@@ -13,11 +18,6 @@
       "pubDate": "Wed, 07 Jan 2026 13:52:34 +0900"
     },
     {
-      "title": "島根 鳥取で震度5強 きょうも地震活動続く 同程度の地震に注意",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015020571000",
-      "pubDate": "Wed, 07 Jan 2026 15:56:50 +0900"
-    },
-    {
       "title": "トランプ大統領 制裁対象のベネズエラ原油 “米国に引き渡す”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020621000",
       "pubDate": "Wed, 07 Jan 2026 16:18:43 +0900"
@@ -25,7 +25,7 @@
     {
       "title": "浜岡原発審査で過小評価疑い “データのねつ造 極めて重大”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020751000",
-      "pubDate": "Wed, 07 Jan 2026 12:17:14 +0900"
+      "pubDate": "Wed, 07 Jan 2026 16:51:39 +0900"
     },
     {
       "title": "原子力規制庁職員 私的旅行で訪問の中国で業務用スマホ紛失",
