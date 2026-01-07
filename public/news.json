@@ -1,11 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-07T06:41:15.661Z",
+  "updated": "2026-01-07T07:02:25.622Z",
   "items": [
     {
-      "title": "H3ロケット 2月の9号機打ち上げ延期へ 8号機失敗原因究明必要",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015020971000",
-      "pubDate": "Wed, 07 Jan 2026 14:50:27 +0900"
+      "title": "中国 軍民両用品目の輸出規制強化 レアアース調達に懸念の声も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020701000",
+      "pubDate": "Wed, 07 Jan 2026 14:25:32 +0900"
     },
     {
       "title": "福井県 杉本前知事のセクハラ認定 性的メッセージなど約1000通",
@@ -13,14 +13,9 @@
       "pubDate": "Wed, 07 Jan 2026 13:52:34 +0900"
     },
     {
-      "title": "中国 軍民両用品目の輸出規制強化 レアアース調達に懸念の声も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015020701000",
-      "pubDate": "Wed, 07 Jan 2026 14:25:32 +0900"
-    },
-    {
       "title": "島根 鳥取で震度5強 きょうも地震活動続く 同程度の地震に注意",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020571000",
-      "pubDate": "Wed, 07 Jan 2026 12:16:08 +0900"
+      "pubDate": "Wed, 07 Jan 2026 15:56:50 +0900"
     },
     {
       "title": "トランプ大統領 制裁対象のベネズエラ原油 “米国に引き渡す”",
@@ -36,6 +31,11 @@
       "title": "原子力規制庁職員 私的旅行で訪問の中国で業務用スマホ紛失",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020981000",
       "pubDate": "Wed, 07 Jan 2026 14:55:47 +0900"
+    },
+    {
+      "title": "H3ロケット 2月の9号機打ち上げ延期へ 8号機失敗原因究明必要",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015020971000",
+      "pubDate": "Wed, 07 Jan 2026 14:50:27 +0900"
     }
   ]
 }
