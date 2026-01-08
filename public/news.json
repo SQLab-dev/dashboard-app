@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-08T05:15:13.485Z",
+  "updated": "2026-01-08T05:43:44.626Z",
   "items": [
+    {
+      "title": "アメリカの攻撃で死者100人に ベネズエラが発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021621000",
+      "pubDate": "Thu, 08 Jan 2026 11:44:50 +0900"
+    },
     {
       "title": "トランプ大統領“66の国際機関・条約などから脱退や離脱指示”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021461000",
@@ -13,19 +18,14 @@
       "pubDate": "Thu, 08 Jan 2026 11:58:44 +0900"
     },
     {
-      "title": "米軍 ベネズエラ石油取り引き関連でロシア船籍タンカーを拿捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021381000",
-      "pubDate": "Thu, 08 Jan 2026 07:06:05 +0900"
+      "title": "浜岡原発 審査で地震想定過小評価疑い 中部電力会長が陳謝",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021671000",
+      "pubDate": "Thu, 08 Jan 2026 14:29:36 +0900"
     },
     {
-      "title": "アメリカの攻撃で死者100人に ベネズエラが発表",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021621000",
-      "pubDate": "Thu, 08 Jan 2026 11:44:50 +0900"
-    },
-    {
-      "title": "都内のガールズバー経営者再逮捕 売春させた女性に性的暴行か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021651000",
-      "pubDate": "Thu, 08 Jan 2026 13:03:03 +0900"
+      "title": "47年前の「大崎事件」 弁護団が地裁に5度目の再審申し立て",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021711000",
+      "pubDate": "Thu, 08 Jan 2026 14:27:51 +0900"
     },
     {
       "title": "大阪 車が警察官ボンネットに乗せ走行 似た車隣接市で乗り捨て",
