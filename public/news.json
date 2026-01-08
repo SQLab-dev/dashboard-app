@@ -1,21 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-08T12:48:42.113Z",
+  "updated": "2026-01-08T13:31:48.789Z",
   "items": [
     {
       "title": "【ライブ】山梨 上野原で山林火災 付近の住民に避難指示",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021771000",
-      "pubDate": "Thu, 08 Jan 2026 20:28:34 +0900"
+      "pubDate": "Thu, 08 Jan 2026 22:25:54 +0900"
     },
     {
       "title": "大阪 岸和田 車暴走 警察官振り落として逃げたか 容疑者を逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015022081000",
       "pubDate": "Thu, 08 Jan 2026 21:18:30 +0900"
-    },
-    {
-      "title": "ミニストップ 60億円の最終赤字見通し 消費期限不正表示問題で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015022181000",
-      "pubDate": "Thu, 08 Jan 2026 21:13:20 +0900"
     },
     {
       "title": "トランプ大統領“66の国際機関・条約などから脱退や離脱指示”",
@@ -36,6 +31,11 @@
       "title": "東京 大田区 マンションで死亡の男性に刺し傷 殺人容疑で捜査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021901000",
       "pubDate": "Thu, 08 Jan 2026 20:39:40 +0900"
+    },
+    {
+      "title": "ミニストップ 60億円の最終赤字見通し 消費期限不正表示問題で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015022181000",
+      "pubDate": "Thu, 08 Jan 2026 21:13:20 +0900"
     }
   ]
 }
