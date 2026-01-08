@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-08T09:01:58.186Z",
+  "updated": "2026-01-08T09:38:13.132Z",
   "items": [
+    {
+      "title": "山梨 扇山で山林火災 延焼範囲は拡大 自衛隊に災害派遣を要請",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021771000",
+      "pubDate": "Thu, 08 Jan 2026 18:24:52 +0900"
+    },
     {
       "title": "東京 大田区 マンションで男性が血を流し死亡 事件の可能性も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021901000",
@@ -18,24 +23,19 @@
       "pubDate": "Thu, 08 Jan 2026 12:00:49 +0900"
     },
     {
-      "title": "山梨 上野原で山林火災 延焼続く これまでのところけが人なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021771000",
-      "pubDate": "Thu, 08 Jan 2026 17:19:28 +0900"
+      "title": "大分 中学校での暴行動画か SNSに投稿 市教委が真偽含め調査へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021991000",
+      "pubDate": "Thu, 08 Jan 2026 17:57:30 +0900"
     },
     {
-      "title": "韓国 サムスン電子 3か月間決算 売り上げ 営業利益 過去最高に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021741000",
-      "pubDate": "Thu, 08 Jan 2026 14:37:48 +0900"
+      "title": "“アジア最大の犯罪組織の一つ” カンボジア企業の3人を拘束",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015022021000",
+      "pubDate": "Thu, 08 Jan 2026 18:24:19 +0900"
     },
     {
-      "title": "大阪 車が警察官ボンネットに乗せ走行 似た車隣接市で乗り捨て",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021631000",
-      "pubDate": "Thu, 08 Jan 2026 12:55:26 +0900"
-    },
-    {
-      "title": "日産 福岡に生産を移す2車種 来年夏ごろから段階的に始める",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015021781000",
-      "pubDate": "Thu, 08 Jan 2026 16:28:09 +0900"
+      "title": "地震被害の偽動画投稿 生成AIで作成か 鳥取県が注意呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015021951000",
+      "pubDate": "Thu, 08 Jan 2026 17:34:41 +0900"
     }
   ]
 }
