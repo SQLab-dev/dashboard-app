@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-09T04:12:44.146Z",
+  "updated": "2026-01-09T04:53:51.874Z",
   "items": [
     {
       "title": "13日から韓国大統領訪日 奈良で日韓首脳会談",
@@ -11,6 +11,11 @@
       "title": "【中継映像】山梨 上野原で山林火災 延焼続く 自衛隊消火活動",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021771000",
       "pubDate": "Fri, 09 Jan 2026 11:55:54 +0900"
+    },
+    {
+      "title": "小泉防衛相 12日からアメリカ訪問 ヘグセス国防長官と会談へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015022691000",
+      "pubDate": "Fri, 09 Jan 2026 13:25:40 +0900"
     },
     {
       "title": "大阪 浪速区 通天閣近くで火災 けが人情報なし",
@@ -31,11 +36,6 @@
       "title": "3連休 大雪や猛吹雪に警戒 北日本～西日本の広い範囲で",
       "link": "https://news.web.nhk/newsweb/na/na-k10015022201000",
       "pubDate": "Fri, 09 Jan 2026 11:50:31 +0900"
-    },
-    {
-      "title": "【気象解説】あすから風強まり大荒れになる見込み",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015022431000",
-      "pubDate": "Fri, 09 Jan 2026 12:15:16 +0900"
     }
   ]
 }
