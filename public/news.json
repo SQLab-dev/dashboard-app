@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-09T11:28:23.957Z",
+  "updated": "2026-01-09T11:44:03.975Z",
   "items": [
     {
       "title": "【地震速報】千葉 大網白里で震度4 津波の心配なし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023151000",
-      "pubDate": "Fri, 09 Jan 2026 20:24:33 +0900"
+      "pubDate": "Fri, 09 Jan 2026 20:34:17 +0900"
+    },
+    {
+      "title": "【地震速報】秋田県で震度4 津波の心配なし（20:24）",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015023181000",
+      "pubDate": "Fri, 09 Jan 2026 20:30:47 +0900"
     },
     {
       "title": "政府 通常国会に61法案提出の方針固める 国家情報会議設置など",
@@ -23,19 +28,14 @@
       "pubDate": "Fri, 09 Jan 2026 19:36:45 +0900"
     },
     {
-      "title": "スーパーのコメ平均価格 5キロ4416円 最高値を更新",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015022931000",
-      "pubDate": "Fri, 09 Jan 2026 18:14:22 +0900"
+      "title": "イラン 物価高騰などに抗議デモ 人権団体“40人以上死亡”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015023101000",
+      "pubDate": "Fri, 09 Jan 2026 20:07:11 +0900"
     },
     {
       "title": "セブ島 ゴミ集積場でゴミの山崩れる事故 1人死亡 34人行方不明",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023031000",
       "pubDate": "Fri, 09 Jan 2026 19:09:29 +0900"
-    },
-    {
-      "title": "大分 中学校での暴行動画投稿 市教委 暴力行為あったと認める",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015022621000",
-      "pubDate": "Fri, 09 Jan 2026 19:30:59 +0900"
     }
   ]
 }
