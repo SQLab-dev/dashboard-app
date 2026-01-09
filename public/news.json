@@ -1,16 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-09T09:56:07.513Z",
+  "updated": "2026-01-09T10:25:40.302Z",
   "items": [
+    {
+      "title": "【地震速報】秋田で最大震度4 津波の心配なし（18:56）",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015023041000",
+      "pubDate": "Fri, 09 Jan 2026 19:08:50 +0900"
+    },
     {
       "title": "【中継映像】山梨 山林火災 火の不始末などから燃え広がったか",
       "link": "https://news.web.nhk/newsweb/na/na-k10015021771000",
-      "pubDate": "Fri, 09 Jan 2026 18:04:45 +0900"
-    },
-    {
-      "title": "13日から韓国大統領訪日 奈良で日韓首脳会談",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015022501000",
-      "pubDate": "Fri, 09 Jan 2026 13:04:24 +0900"
+      "pubDate": "Fri, 09 Jan 2026 19:05:37 +0900"
     },
     {
       "title": "鴨川メガソーラー開発計画 電気買い取る国の制度の認定が失効",
@@ -33,9 +33,9 @@
       "pubDate": "Fri, 09 Jan 2026 18:14:22 +0900"
     },
     {
-      "title": "あすからの3連休 大雪や猛吹雪に警戒 最新の気象情報に注意を",
+      "title": "3連休 猛吹雪で積雪急増のおそれ 交通への影響も【詳しく】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015022201000",
-      "pubDate": "Fri, 09 Jan 2026 17:52:02 +0900"
+      "pubDate": "Fri, 09 Jan 2026 19:00:49 +0900"
     }
   ]
 }
