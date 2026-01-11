@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-11T21:43:32.605Z",
+  "updated": "2026-01-11T21:53:53.194Z",
   "items": [
     {
       "title": "日本海側中心に大荒れ 東北～北陸 積雪急増 交通影響に警戒を",
@@ -18,9 +18,14 @@
       "pubDate": "Mon, 12 Jan 2026 05:02:28 +0900"
     },
     {
-      "title": "小泉防衛相がきょう訪米 日米同盟の抑止力強化など意見交換へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024341000",
-      "pubDate": "Mon, 12 Jan 2026 05:30:17 +0900"
+      "title": "イラン 抗議デモ続く “500人以上死亡”報道も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024391000",
+      "pubDate": "Mon, 12 Jan 2026 05:55:04 +0900"
+    },
+    {
+      "title": "茂木外相 イスラエル外相と会談 ガザ和平計画の着実な実施要求",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024371000",
+      "pubDate": "Mon, 12 Jan 2026 06:45:16 +0900"
     },
     {
       "title": "G7サミット日程変更 “米トランプ大統領に配慮” 複数メディア",
@@ -31,11 +36,6 @@
       "title": "トランプ氏 キューバに圧力「手遅れになる前に取り引きを」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024381000",
       "pubDate": "Mon, 12 Jan 2026 05:51:18 +0900"
-    },
-    {
-      "title": "イラン 抗議デモ続く “500人以上死亡”報道も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024391000",
-      "pubDate": "Mon, 12 Jan 2026 05:55:04 +0900"
     }
   ]
 }
