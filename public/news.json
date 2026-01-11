@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-11T07:42:43.833Z",
+  "updated": "2026-01-11T07:53:03.051Z",
   "items": [
     {
       "title": "日本海側などで猛吹雪のおそれ 大雪 交通影響 暴風など警戒を",
@@ -18,6 +18,11 @@
       "pubDate": "Sun, 11 Jan 2026 15:59:28 +0900"
     },
     {
+      "title": "ミャンマー総選挙 2回目の投票実施 国際社会の対応が焦点",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024151000",
+      "pubDate": "Sun, 11 Jan 2026 16:48:09 +0900"
+    },
+    {
       "title": "北海道日高町 遺体遺棄事件 女性は先月31日夕方以降行方不明に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023851000",
       "pubDate": "Sun, 11 Jan 2026 14:23:43 +0900"
@@ -28,14 +33,9 @@
       "pubDate": "Sun, 11 Jan 2026 16:29:30 +0900"
     },
     {
-      "title": "全国大学ラグビー 明治が優勝 7大会ぶり14回目 早稲田に勝利",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024201000",
-      "pubDate": "Sun, 11 Jan 2026 16:08:05 +0900"
-    },
-    {
-      "title": "全国女子駅伝 大阪が優勝 3年ぶり 兵庫2位 長野3位【全結果】",
+      "title": "全国女子駅伝 大阪が逆転で優勝 3年ぶり 兵庫が2位【全結果】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023071000",
-      "pubDate": "Sun, 11 Jan 2026 16:00:52 +0900"
+      "pubDate": "Sun, 11 Jan 2026 16:43:01 +0900"
     }
   ]
 }
