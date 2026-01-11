@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-11T20:37:27.872Z",
+  "updated": "2026-01-11T20:51:11.162Z",
   "items": [
     {
       "title": "日本海側中心に大荒れ 東北～北陸 積雪急増 交通影響に警戒を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024401000",
       "pubDate": "Mon, 12 Jan 2026 05:15:04 +0900"
-    },
-    {
-      "title": "トランプ政権のベネズエラ軍事作戦 中南米で不安広がる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024281000",
-      "pubDate": "Sun, 11 Jan 2026 22:10:07 +0900"
     },
     {
       "title": "与野党 衆院選準備急ぐ方針 自民党内 予算案の優先求める声も",
@@ -23,14 +18,19 @@
       "pubDate": "Mon, 12 Jan 2026 05:02:28 +0900"
     },
     {
+      "title": "小泉防衛相がきょう訪米 日米同盟の抑止力強化など意見交換へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024341000",
+      "pubDate": "Mon, 12 Jan 2026 05:30:17 +0900"
+    },
+    {
       "title": "インターネット広告 苦情が過去最多 性的な広告の苦情 大幅増",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024301000",
       "pubDate": "Mon, 12 Jan 2026 04:54:16 +0900"
     },
     {
-      "title": "小泉防衛相がきょう訪米 日米同盟の抑止力強化など意見交換へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024341000",
-      "pubDate": "Mon, 12 Jan 2026 05:30:17 +0900"
+      "title": "トランプ政権のベネズエラ軍事作戦 中南米で不安広がる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024281000",
+      "pubDate": "Sun, 11 Jan 2026 22:10:07 +0900"
     },
     {
       "title": "高知 高校野球部の寮で職員が暴言 学校が保護者説明会で陳謝",
