@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-11T04:02:52.149Z",
+  "updated": "2026-01-11T04:53:51.788Z",
   "items": [
+    {
+      "title": "【地震情報】岩手県で震度4 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015023961000",
+      "pubDate": "Sun, 11 Jan 2026 13:37:21 +0900"
+    },
     {
       "title": "日本海側などで猛吹雪のおそれ 大雪 交通影響 暴風など警戒を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023801000",
@@ -13,9 +18,9 @@
       "pubDate": "Sun, 11 Jan 2026 12:33:19 +0900"
     },
     {
-      "title": "【速報中】全国女子駅伝 長野がトップで2区へ 北海道など続く",
+      "title": "【速報中】全国女子駅伝 長野がトップで6区へ 兵庫 大阪が浮上",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023071000",
-      "pubDate": "Sun, 11 Jan 2026 12:56:17 +0900"
+      "pubDate": "Sun, 11 Jan 2026 13:48:13 +0900"
     },
     {
       "title": "「神戸ルミナリエ」 設備の一部倒れる 風の影響か",
@@ -31,11 +36,6 @@
       "title": "マダニが媒介する感染症 SFTSの患者数 去年 過去最多に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015023991000",
       "pubDate": "Sun, 11 Jan 2026 11:25:34 +0900"
-    },
-    {
-      "title": "ノーベル研究所 平和賞受賞 マチャド氏の発言念頭に声明を発表",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015023981000",
-      "pubDate": "Sun, 11 Jan 2026 11:44:59 +0900"
     }
   ]
 }
