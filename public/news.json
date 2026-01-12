@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-12T19:53:38.655Z",
+  "updated": "2026-01-12T20:19:45.844Z",
   "items": [
+    {
+      "title": "【地震速報】石川 能登地方で震度４ 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024961000",
+      "pubDate": "Tue, 13 Jan 2026 05:15:21 +0900"
+    },
     {
       "title": "トヨタ 販売台数で6年連続世界一に フォルクスワーゲンは微減",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024951000",
@@ -31,11 +36,6 @@
       "title": "島根と鳥取 震度5強の地震から1週間 14人けが 90棟以上が被害",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024721000",
       "pubDate": "Tue, 13 Jan 2026 00:03:46 +0900"
-    },
-    {
-      "title": "島根 安来 地震で休館の民謡の演芸館 7日ぶり開館し唄い初め会",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024871000",
-      "pubDate": "Mon, 12 Jan 2026 23:22:45 +0900"
     }
   ]
 }
