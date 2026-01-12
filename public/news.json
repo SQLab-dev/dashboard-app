@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-12T17:32:42.670Z",
+  "updated": "2026-01-12T17:48:54.958Z",
   "items": [
     {
       "title": "【地震速報】北海道 宗谷北部 宗谷南部で震度3 津波の心配なし",
@@ -23,11 +23,6 @@
       "pubDate": "Mon, 12 Jan 2026 18:44:23 +0900"
     },
     {
-      "title": "日韓首脳会談 高市首相 地元奈良で両国関係発展させたい考え",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024791000",
-      "pubDate": "Tue, 13 Jan 2026 00:07:39 +0900"
-    },
-    {
       "title": "イラン反政府デモで死者540人以上に アメリカ側の出方が焦点",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024661000",
       "pubDate": "Mon, 12 Jan 2026 22:19:49 +0900"
@@ -36,6 +31,11 @@
       "title": "島根と鳥取 震度5強の地震から1週間 14人けが 90棟以上が被害",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024721000",
       "pubDate": "Tue, 13 Jan 2026 00:03:46 +0900"
+    },
+    {
+      "title": "島根 安来 地震で休館の民謡の演芸館 7日ぶり開館し唄い初め会",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024871000",
+      "pubDate": "Mon, 12 Jan 2026 23:22:45 +0900"
     }
   ]
 }
