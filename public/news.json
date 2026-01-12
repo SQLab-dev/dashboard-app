@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-12T17:00:17.549Z",
+  "updated": "2026-01-12T17:32:42.670Z",
   "items": [
+    {
+      "title": "【地震速報】北海道 宗谷北部 宗谷南部で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015024471000",
+      "pubDate": "Tue, 13 Jan 2026 02:22:28 +0900"
+    },
     {
       "title": "前橋市長選 小川晶前市長が当選 ホテル問題で辞職も続投へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015020111000",
@@ -31,11 +36,6 @@
       "title": "島根と鳥取 震度5強の地震から1週間 14人けが 90棟以上が被害",
       "link": "https://news.web.nhk/newsweb/na/na-k10015024721000",
       "pubDate": "Tue, 13 Jan 2026 00:03:46 +0900"
-    },
-    {
-      "title": "島根 安来 地震で休館の民謡の演芸館 7日ぶり開館し唄い初め会",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015024871000",
-      "pubDate": "Mon, 12 Jan 2026 23:22:45 +0900"
     }
   ]
 }
