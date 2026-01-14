@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-14T06:43:41.232Z",
+  "updated": "2026-01-14T07:03:16.954Z",
   "items": [
+    {
+      "title": "株価 5万4000円超え 終値の最高値を更新",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015025861000",
+      "pubDate": "Wed, 14 Jan 2026 15:45:07 +0900"
+    },
     {
       "title": "高市首相 夕方にも与党幹部と会談へ 衆院解散の意向を伝達か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015025901000",
@@ -18,24 +23,19 @@
       "pubDate": "Wed, 14 Jan 2026 13:08:52 +0900"
     },
     {
-      "title": "株価 初の5万4000円台 取り引き時間中の最高値更新 円安も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015025861000",
-      "pubDate": "Wed, 14 Jan 2026 13:06:59 +0900"
-    },
-    {
       "title": "タイ東北部で建設用クレーンが走行中の列車直撃 12人死亡",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026181000",
       "pubDate": "Wed, 14 Jan 2026 14:38:45 +0900"
     },
     {
-      "title": "“在留外国人の日本語など学習プログラム創設を” 有識者会議",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015026151000",
-      "pubDate": "Wed, 14 Jan 2026 15:00:25 +0900"
+      "title": "皇居で新春恒例「歌会始」 お題は「明」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015025981000",
+      "pubDate": "Wed, 14 Jan 2026 13:00:22 +0900"
     },
     {
-      "title": "ベネズエラ議会議長 “囚人の釈放着実に進んでいる” 米は歓迎",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015026161000",
-      "pubDate": "Wed, 14 Jan 2026 14:49:21 +0900"
+      "title": "劇団員女性ひき逃げ事件 白タク行為か 会社の当時の社長逮捕",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015026091000",
+      "pubDate": "Wed, 14 Jan 2026 13:05:29 +0900"
     }
   ]
 }
