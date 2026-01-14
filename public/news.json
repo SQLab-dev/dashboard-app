@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-14T14:47:22.762Z",
+  "updated": "2026-01-14T15:02:30.057Z",
   "items": [
+    {
+      "title": "岩手 八幡平市 雪のため国道で多数の車が立往生 解消に向かう",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015026671000",
+      "pubDate": "Wed, 14 Jan 2026 23:55:23 +0900"
+    },
     {
       "title": "立民と公明 比例統一名簿や新党も視野に 協力強化の方向で調整",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026591000",
@@ -31,11 +36,6 @@
       "title": "浜岡原発 審査を当面停止 規制委が中部電力に立ち入り検査へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015025951000",
       "pubDate": "Wed, 14 Jan 2026 18:45:39 +0900"
-    },
-    {
-      "title": "成年後見制度利用 警備業法の「欠格条項」めぐる裁判",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015026131000",
-      "pubDate": "Wed, 14 Jan 2026 20:09:56 +0900"
     }
   ]
 }
