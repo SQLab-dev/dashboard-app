@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-15T04:58:35.820Z",
+  "updated": "2026-01-15T05:34:23.862Z",
   "items": [
+    {
+      "title": "杉並区 アパート前で2人切りつけられ1人意識なし 住民を逮捕",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015026881000",
+      "pubDate": "Thu, 15 Jan 2026 14:06:20 +0900"
+    },
     {
       "title": "公明 “立民と衆院議員参加の新党結成案”了承 斉藤代表に一任",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026801000",
@@ -31,11 +36,6 @@
       "title": "長野 軽井沢町 スキーツアーのバス事故から10年 現場で慰霊",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026941000",
       "pubDate": "Thu, 15 Jan 2026 12:02:46 +0900"
-    },
-    {
-      "title": "米トランプ大統領 ベネズエラ ロドリゲス暫定大統領と電話会談",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015026861000",
-      "pubDate": "Thu, 15 Jan 2026 11:34:20 +0900"
     }
   ]
 }
