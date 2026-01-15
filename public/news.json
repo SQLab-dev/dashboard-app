@@ -1,11 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-15T20:53:58.684Z",
+  "updated": "2026-01-15T21:17:42.293Z",
   "items": [
     {
-      "title": "JR山手線全線で運転見合わせ 京浜東北線は一部区間で運転再開",
+      "title": "JR山手線全線・京浜東北線 東十条～品川間で運転見合わせ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027701000",
-      "pubDate": "Fri, 16 Jan 2026 05:10:38 +0900"
+      "pubDate": "Fri, 16 Jan 2026 06:06:42 +0900"
     },
     {
       "title": "立民 公明 衆院選に向け新党結成で合意 きょうにも党名発表",
@@ -13,14 +13,19 @@
       "pubDate": "Fri, 16 Jan 2026 05:03:49 +0900"
     },
     {
-      "title": "大阪 吉村知事と横山市長 辞職しダブル選挙に立候補の意向表明",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015027301000",
-      "pubDate": "Thu, 15 Jan 2026 22:16:52 +0900"
-    },
-    {
       "title": "東京 杉並 2人殺傷の容疑者 “自分も死んでもかまわない”供述",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027411000",
       "pubDate": "Fri, 16 Jan 2026 05:06:16 +0900"
+    },
+    {
+      "title": "イランで反政府デモ拡大 国連の安全保障理事会が緊急会合",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027511000",
+      "pubDate": "Fri, 16 Jan 2026 05:46:21 +0900"
+    },
+    {
+      "title": "大阪 吉村知事と横山市長 辞職しダブル選挙に立候補の意向表明",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027301000",
+      "pubDate": "Thu, 15 Jan 2026 22:16:52 +0900"
     },
     {
       "title": "カナダ首相が8年ぶりに中国を訪問 関係改善の動きを加速",
@@ -31,11 +36,6 @@
       "title": "グリーンランドめぐり“米の野心は失われず” デンマーク首相",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027681000",
       "pubDate": "Fri, 16 Jan 2026 05:11:38 +0900"
-    },
-    {
-      "title": "イランで反政府デモ拡大 国連の安全保障理事会が緊急会合",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015027511000",
-      "pubDate": "Fri, 16 Jan 2026 05:46:21 +0900"
     }
   ]
 }
