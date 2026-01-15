@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-15T21:51:24.290Z",
+  "updated": "2026-01-15T22:11:34.224Z",
   "items": [
+    {
+      "title": "JR山手線全線・京浜東北線 東十条～品川間で運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027701000",
+      "pubDate": "Fri, 16 Jan 2026 06:06:42 +0900"
+    },
     {
       "title": "立民 公明 衆院選に向け新党結成で合意 きょうにも党名発表",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027431000",
@@ -15,12 +20,7 @@
     {
       "title": "イランで反政府デモ拡大 国連の安全保障理事会が緊急会合",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027511000",
-      "pubDate": "Fri, 16 Jan 2026 05:46:21 +0900"
-    },
-    {
-      "title": "JR山手線全線・京浜東北線 東十条～品川間で運転見合わせ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015027701000",
-      "pubDate": "Fri, 16 Jan 2026 06:06:42 +0900"
+      "pubDate": "Fri, 16 Jan 2026 06:55:18 +0900"
     },
     {
       "title": "大阪 吉村知事と横山市長 ダブル選挙に立候補表明",
@@ -33,9 +33,9 @@
       "pubDate": "Fri, 16 Jan 2026 06:23:11 +0900"
     },
     {
-      "title": "日本企業が支援の一環として ウクライナの医師などに住宅建設",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015027661000",
-      "pubDate": "Fri, 16 Jan 2026 06:27:48 +0900"
+      "title": "米財務省 デモ弾圧でイラン高官などに新たな経済制裁を発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027691000",
+      "pubDate": "Fri, 16 Jan 2026 06:22:47 +0900"
     }
   ]
 }
