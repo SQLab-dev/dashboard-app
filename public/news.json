@@ -1,21 +1,31 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-15T05:52:29.240Z",
+  "updated": "2026-01-15T06:21:34.462Z",
   "items": [
     {
       "title": "【地震速報】岐阜 高山で震度4 津波の心配なし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026781000",
-      "pubDate": "Thu, 15 Jan 2026 14:48:02 +0900"
+      "pubDate": "Thu, 15 Jan 2026 15:00:05 +0900"
     },
     {
-      "title": "杉並区 アパート前で2人切りつけられ1人意識なし 住民を逮捕",
+      "title": "【地震速報】長野県と岐阜県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027091000",
+      "pubDate": "Thu, 15 Jan 2026 14:51:11 +0900"
+    },
+    {
+      "title": "杉並区 アパート前で2人切りつけられ1人死亡 住民を逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026881000",
-      "pubDate": "Thu, 15 Jan 2026 14:06:20 +0900"
+      "pubDate": "Thu, 15 Jan 2026 15:14:26 +0900"
     },
     {
-      "title": "公明 “立民と衆院議員参加の新党結成案”了承 斉藤代表に一任",
+      "title": "立民 公明 党首会談始まる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026801000",
-      "pubDate": "Thu, 15 Jan 2026 14:47:40 +0900"
+      "pubDate": "Thu, 15 Jan 2026 15:13:31 +0900"
+    },
+    {
+      "title": "アサヒグループHD 12月のビール売り上げ 前年同月比2割以上減",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027081000",
+      "pubDate": "Thu, 15 Jan 2026 15:01:39 +0900"
     },
     {
       "title": "東京 大田区 社長殺害事件 逮捕の部下「ボーナス下げられた」",
@@ -23,19 +33,9 @@
       "pubDate": "Thu, 15 Jan 2026 14:43:21 +0900"
     },
     {
-      "title": "静岡 工場従業員刺傷事件 元従業員を殺人未遂の疑いで再逮捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015027031000",
-      "pubDate": "Thu, 15 Jan 2026 13:11:54 +0900"
-    },
-    {
       "title": "トランプ大統領 重要鉱物の輸入めぐり各国との協定交渉を指示",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027071000",
       "pubDate": "Thu, 15 Jan 2026 14:45:28 +0900"
-    },
-    {
-      "title": "マイナンバーカードの名前や顔写真部分を偽造か 容疑者2人逮捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015026901000",
-      "pubDate": "Thu, 15 Jan 2026 11:59:50 +0900"
     }
   ]
 }
