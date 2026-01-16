@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-16T21:00:30.770Z",
+  "updated": "2026-01-16T21:29:54.284Z",
   "items": [
     {
       "title": "阪神・淡路大震災から31年 教訓の継承が課題に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015028161000",
-      "pubDate": "Sat, 17 Jan 2026 05:42:04 +0900"
+      "pubDate": "Sat, 17 Jan 2026 06:00:17 +0900"
     },
     {
       "title": "中道改革連合 基本政策の策定など急ぐ 自民 批判やつなぎ止め",
       "link": "https://news.web.nhk/newsweb/na/na-k10015028781000",
       "pubDate": "Sat, 17 Jan 2026 05:20:16 +0900"
+    },
+    {
+      "title": "大学入学共通テスト きょうから始まる 49万6000人余が受験予定",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015028631000",
+      "pubDate": "Sat, 17 Jan 2026 05:03:33 +0900"
     },
     {
       "title": "イラン反政府デモ 現地メディア“3000人拘束” 規制強化か",
@@ -31,11 +36,6 @@
       "title": "東京 杉並 2人殺傷事件 部屋から約30本のガスボンベ見つかる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015028731000",
       "pubDate": "Sat, 17 Jan 2026 05:10:35 +0900"
-    },
-    {
-      "title": "大学入学共通テスト きょうから始まる 49万6000人余が受験予定",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015028631000",
-      "pubDate": "Sat, 17 Jan 2026 05:03:33 +0900"
     }
   ]
 }
