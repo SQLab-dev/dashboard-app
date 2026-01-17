@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-17T09:45:53.041Z",
+  "updated": "2026-01-17T09:56:07.251Z",
   "items": [
     {
       "title": "杉並区 切りつけ死傷事件「たまたま目に入った2人を刺した」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029071000",
       "pubDate": "Sat, 17 Jan 2026 18:39:18 +0900"
+    },
+    {
+      "title": "再稼働目指す柏崎刈羽原発6号機 制御棒引き抜く試験で不具合",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029121000",
+      "pubDate": "Sat, 17 Jan 2026 18:52:05 +0900"
+    },
+    {
+      "title": "【随時更新】阪神・淡路大震災から31年 震災の記憶を伝える",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015027871000",
+      "pubDate": "Sat, 17 Jan 2026 18:41:13 +0900"
     },
     {
       "title": "秋田新幹線 秋田-盛岡 運転見合わせ 倒木の影響",
@@ -23,19 +33,9 @@
       "pubDate": "Sat, 17 Jan 2026 18:26:53 +0900"
     },
     {
-      "title": "木原官房長官 “自民・維新の連立政権 国民に信を問う必要”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015028951000",
-      "pubDate": "Sat, 17 Jan 2026 11:48:48 +0900"
-    },
-    {
       "title": "菅元首相 次の衆院選に立候補せず 政界引退の意向表明",
       "link": "https://news.web.nhk/newsweb/na/na-k10015028921000",
       "pubDate": "Sat, 17 Jan 2026 14:03:00 +0900"
-    },
-    {
-      "title": "【随時更新】阪神・淡路大震災から31年 震災の記憶を伝える",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015027871000",
-      "pubDate": "Sat, 17 Jan 2026 18:41:13 +0900"
     }
   ]
 }
