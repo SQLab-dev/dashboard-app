@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-17T21:25:10.461Z",
+  "updated": "2026-01-17T21:38:59.823Z",
   "items": [
+    {
+      "title": "高市首相 19日に衆議院の解散表明へ 各党は選挙準備本格化",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029191000",
+      "pubDate": "Sun, 18 Jan 2026 05:46:44 +0900"
+    },
     {
       "title": "愛知 豊田の集合住宅火災 死亡女性は殺害されたか 警察が捜査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029321000",
       "pubDate": "Sun, 18 Jan 2026 04:44:54 +0900"
+    },
+    {
+      "title": "台湾“中国無人機が領空侵犯”「挑発的で無責任な行為」と非難",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029301000",
+      "pubDate": "Sun, 18 Jan 2026 06:32:27 +0900"
     },
     {
       "title": "イラン最高指導者 デモの死者数千人と初めて明らかに 米を非難",
@@ -13,9 +23,9 @@
       "pubDate": "Sun, 18 Jan 2026 06:23:27 +0900"
     },
     {
-      "title": "冬のボーナス 2年連続で過去最高 平均95万7184円",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029211000",
-      "pubDate": "Sun, 18 Jan 2026 04:56:01 +0900"
+      "title": "ウガンダ 40年長期政権の大統領が再選 野党側は不正と反発",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029311000",
+      "pubDate": "Sun, 18 Jan 2026 05:21:09 +0900"
     },
     {
       "title": "月探査 アルテミス計画のロケットが発射台へ 宇宙飛行士が会見",
@@ -23,19 +33,9 @@
       "pubDate": "Sun, 18 Jan 2026 05:06:20 +0900"
     },
     {
-      "title": "ウガンダ 40年長期政権の大統領が再選 野党側は不正と反発",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029311000",
-      "pubDate": "Sun, 18 Jan 2026 05:21:09 +0900"
-    },
-    {
-      "title": "再稼働目指す柏崎刈羽原発6号機 制御棒引き抜く試験で不具合",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029121000",
-      "pubDate": "Sat, 17 Jan 2026 18:52:05 +0900"
-    },
-    {
-      "title": "首相“通常国会の早期に衆院解散” 与野党幹部が政策など発言",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015028971000",
-      "pubDate": "Sat, 17 Jan 2026 19:24:01 +0900"
+      "title": "冬のボーナス 2年連続で過去最高 平均95万7184円",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029211000",
+      "pubDate": "Sun, 18 Jan 2026 04:56:01 +0900"
     }
   ]
 }
