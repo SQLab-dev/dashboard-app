@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-17T14:28:13.444Z",
+  "updated": "2026-01-17T14:44:41.064Z",
   "items": [
     {
       "title": "首相“通常国会の早期に衆院解散” 与野党幹部が政策など発言",
       "link": "https://news.web.nhk/newsweb/na/na-k10015028971000",
       "pubDate": "Sat, 17 Jan 2026 19:24:01 +0900"
+    },
+    {
+      "title": "ウクライナ ロシアの攻撃で深刻な電力不足 各国に支援呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029161000",
+      "pubDate": "Sat, 17 Jan 2026 20:49:03 +0900"
     },
     {
       "title": "菅元首相 次の衆院選に立候補せず 政界引退の意向表明",
@@ -31,11 +36,6 @@
       "title": "秋田新幹線 運転再開 倒木の影響で一時運転見合わせ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029081000",
       "pubDate": "Sat, 17 Jan 2026 19:49:08 +0900"
-    },
-    {
-      "title": "静岡 藤枝で山林火災 延焼続く",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029151000",
-      "pubDate": "Sat, 17 Jan 2026 20:14:02 +0900"
     }
   ]
 }
