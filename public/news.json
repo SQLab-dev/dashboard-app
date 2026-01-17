@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-17T04:18:08.284Z",
+  "updated": "2026-01-17T04:47:41.057Z",
   "items": [
     {
       "title": "【随時更新】阪神・淡路大震災から31年 各地で追悼",
       "link": "https://news.web.nhk/newsweb/na/na-k10015027871000",
       "pubDate": "Sat, 17 Jan 2026 12:15:27 +0900"
-    },
-    {
-      "title": "トランプ大統領 “クレカ金利に1年間上限を” 金融業界は反発",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015028961000",
-      "pubDate": "Sat, 17 Jan 2026 12:22:30 +0900"
     },
     {
       "title": "宮崎市 不発弾処理が終了 避難指示や立ち入り規制を解除",
@@ -36,6 +31,11 @@
       "title": "木原官房長官 “自民・維新の連立政権 国民に信を問う必要”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015028951000",
       "pubDate": "Sat, 17 Jan 2026 11:48:48 +0900"
+    },
+    {
+      "title": "トランプ大統領 “クレカ金利に1年間上限を” 金融業界は反発",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015028961000",
+      "pubDate": "Sat, 17 Jan 2026 12:22:30 +0900"
     }
   ]
 }
