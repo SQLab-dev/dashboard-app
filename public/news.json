@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-18T08:43:08.980Z",
+  "updated": "2026-01-18T08:57:28.678Z",
   "items": [
     {
       "title": "衆議院の解散あす表明へ 与野党の幹部が論戦 日曜討論",
@@ -8,24 +8,14 @@
       "pubDate": "Sun, 18 Jan 2026 12:47:45 +0900"
     },
     {
+      "title": "21日から北～西日本の日本海側中心に大雪や荒れた天気の見込み",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029481000",
+      "pubDate": "Sun, 18 Jan 2026 17:40:16 +0900"
+    },
+    {
       "title": "【100社アンケート】日中ビジネス見通し「厳しい」半数近く",
       "link": "https://news.web.nhk/newsweb/na/na-k10015026911000",
       "pubDate": "Sun, 18 Jan 2026 17:02:47 +0900"
-    },
-    {
-      "title": "中朝間の貿易総額 前年比25％余増 両国関係強化の流れ表す",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029441000",
-      "pubDate": "Sun, 18 Jan 2026 16:07:46 +0900"
-    },
-    {
-      "title": "全国男子駅伝 宮城が初優勝 大会タイ記録で 福島2位【全結果】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029391000",
-      "pubDate": "Sun, 18 Jan 2026 17:41:13 +0900"
-    },
-    {
-      "title": "大学入学共通テスト 2日目 和歌山の2会場では試験開始繰り下げ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029291000",
-      "pubDate": "Sun, 18 Jan 2026 11:53:09 +0900"
     },
     {
       "title": "青森 八戸で住宅全焼 2人の遺体 住人の親子2人と連絡取れず",
@@ -33,9 +23,19 @@
       "pubDate": "Sun, 18 Jan 2026 17:36:26 +0900"
     },
     {
-      "title": "【中継映像】愛知 尾張旭で火災",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029501000",
-      "pubDate": "Sun, 18 Jan 2026 17:34:46 +0900"
+      "title": "大学入学共通テスト 2日目 和歌山の2会場では試験開始繰り下げ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029291000",
+      "pubDate": "Sun, 18 Jan 2026 11:53:09 +0900"
+    },
+    {
+      "title": "全国男子駅伝 宮城が初優勝 大会タイ記録で 福島2位【全結果】",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029391000",
+      "pubDate": "Sun, 18 Jan 2026 17:41:13 +0900"
+    },
+    {
+      "title": "NBA レイカーズ八村塁 復帰後初のふた桁11得点 チームは敗れる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029451000",
+      "pubDate": "Sun, 18 Jan 2026 16:58:07 +0900"
     }
   ]
 }
