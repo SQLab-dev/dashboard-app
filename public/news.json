@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-18T21:29:20.949Z",
+  "updated": "2026-01-18T21:43:18.950Z",
   "items": [
     {
       "title": "高市首相 衆議院解散きょう表明見通し 理由や選挙日程も説明へ",
@@ -18,11 +18,6 @@
       "pubDate": "Mon, 19 Jan 2026 06:11:43 +0900"
     },
     {
-      "title": "柏崎刈羽原発6号機の不具合 東電 “原因は警報の設定ミス”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029661000",
-      "pubDate": "Mon, 19 Jan 2026 06:26:24 +0900"
-    },
-    {
       "title": "大学入学共通テスト 7人がスマホ使用などの不正行為で無効に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029621000",
       "pubDate": "Mon, 19 Jan 2026 05:40:30 +0900"
@@ -36,6 +31,11 @@
       "title": "海底ケーブルなどの通信インフラ議論する国際会議始まる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029691000",
       "pubDate": "Mon, 19 Jan 2026 06:13:00 +0900"
+    },
+    {
+      "title": "柏崎刈羽原発6号機の不具合 東電 “原因は警報の設定ミス”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029661000",
+      "pubDate": "Mon, 19 Jan 2026 06:26:24 +0900"
     }
   ]
 }
