@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-18T02:08:05.398Z",
+  "updated": "2026-01-18T03:52:22.240Z",
   "items": [
     {
-      "title": "トランプ大統領 グリーンランドめぐり欧州8か国に関税措置",
+      "title": "トランプ大統領 グリーンランドめぐる関税措置 欧米亀裂深まる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029341000",
-      "pubDate": "Sun, 18 Jan 2026 07:21:35 +0900"
+      "pubDate": "Sun, 18 Jan 2026 12:11:02 +0900"
+    },
+    {
+      "title": "大学入学共通テスト 2日目 和歌山の2会場では試験開始繰り下げ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029291000",
+      "pubDate": "Sun, 18 Jan 2026 11:53:09 +0900"
+    },
+    {
+      "title": "【速報中】全国男子駅伝 1区飛び出すのは 高校生の争い",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029391000",
+      "pubDate": "Sun, 18 Jan 2026 12:48:52 +0900"
     },
     {
       "title": "高市首相 19日に衆議院の解散表明へ 各党は選挙準備本格化",
@@ -13,29 +23,19 @@
       "pubDate": "Sun, 18 Jan 2026 05:46:44 +0900"
     },
     {
-      "title": "愛知 豊田の集合住宅火災 死亡女性は殺害されたか 警察が捜査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029321000",
-      "pubDate": "Sun, 18 Jan 2026 04:44:54 +0900"
-    },
-    {
-      "title": "大学入学共通テスト 2日目は理科・数学・情報の試験",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029291000",
-      "pubDate": "Sun, 18 Jan 2026 06:20:59 +0900"
-    },
-    {
-      "title": "台湾“中国無人機が領空侵犯”「挑発的で無責任な行為」と非難",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029301000",
-      "pubDate": "Sun, 18 Jan 2026 06:32:27 +0900"
-    },
-    {
       "title": "イラン最高指導者 デモの死者数千人と初めて明らかに 米を非難",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029281000",
       "pubDate": "Sun, 18 Jan 2026 06:23:27 +0900"
     },
     {
-      "title": "【中継映像】静岡 藤枝で山林火災 延焼続く",
+      "title": "愛知 豊田 何者かが女性殺害したあと火をつけて逃げたか 警察",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029321000",
+      "pubDate": "Sun, 18 Jan 2026 12:38:01 +0900"
+    },
+    {
+      "title": "静岡 藤枝の山林火災 延焼続く 午後から自衛隊ヘリも消火活動",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029151000",
-      "pubDate": "Sun, 18 Jan 2026 10:51:26 +0900"
+      "pubDate": "Sun, 18 Jan 2026 12:17:57 +0900"
     }
   ]
 }
