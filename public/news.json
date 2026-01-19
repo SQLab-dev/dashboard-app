@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-18T23:54:51.908Z",
+  "updated": "2026-01-19T01:43:52.681Z",
   "items": [
     {
-      "title": "山陽新幹線 博多～広島で運転見合わせ 午前11時ごろ再開見込み",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029801000",
-      "pubDate": "Mon, 19 Jan 2026 08:43:43 +0900"
+      "title": "長期金利 2.22％まで上昇 1999年2月以来 約27年ぶりの高水準",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029821000",
+      "pubDate": "Mon, 19 Jan 2026 10:28:47 +0900"
     },
     {
-      "title": "スペイン南部 高速鉄道脱線 21人死亡 25人大けが 地元メディア",
+      "title": "スペイン南部 脱線の高速鉄道に別車両衝突 21人死亡30人大けが",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029781000",
-      "pubDate": "Mon, 19 Jan 2026 08:19:14 +0900"
+      "pubDate": "Mon, 19 Jan 2026 09:53:14 +0900"
+    },
+    {
+      "title": "山陽新幹線 全線で運転再開",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029801000",
+      "pubDate": "Mon, 19 Jan 2026 10:41:57 +0900"
     },
     {
       "title": "高市首相 衆議院解散きょう表明見通し 理由や選挙日程も説明へ",
@@ -23,19 +28,14 @@
       "pubDate": "Mon, 19 Jan 2026 06:24:51 +0900"
     },
     {
-      "title": "欧州8か国が共同声明 グリーンランドめぐる米の関税措置を批判",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029701000",
-      "pubDate": "Mon, 19 Jan 2026 07:28:59 +0900"
+      "title": "シリア暫定政府 “北東部実効支配のクルド人勢力と停戦合意”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029791000",
+      "pubDate": "Mon, 19 Jan 2026 08:08:11 +0900"
     },
     {
-      "title": "大学入学共通テスト 7人がスマホ使用などの不正行為で無効に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015029621000",
-      "pubDate": "Mon, 19 Jan 2026 05:40:30 +0900"
-    },
-    {
-      "title": "【100社アンケート】ことしの景気見通し「緩やかに改善」約7割",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015028241000",
-      "pubDate": "Mon, 19 Jan 2026 06:40:26 +0900"
+      "title": "三菱商事 米天然ガス会社を総額1兆円余で買収 供給体制強化へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029611000",
+      "pubDate": "Mon, 19 Jan 2026 06:42:10 +0900"
     }
   ]
 }
