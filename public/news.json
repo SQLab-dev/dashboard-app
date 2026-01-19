@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-19T10:02:08.628Z",
+  "updated": "2026-01-19T10:42:24.584Z",
   "items": [
     {
       "title": "高市首相 23日衆院解散を表明 選挙は27日公示 来月8日投開票",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029871000",
-      "pubDate": "Mon, 19 Jan 2026 18:56:59 +0900"
+      "pubDate": "Mon, 19 Jan 2026 19:30:05 +0900"
     },
     {
-      "title": "衆議院解散へ 選挙の投開票は2月8日 自治体は対応に追われる",
+      "title": "衆議院解散へ 解散から投開票 戦後最短 自治体 対応に追われる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015030101000",
-      "pubDate": "Mon, 19 Jan 2026 18:54:38 +0900"
+      "pubDate": "Mon, 19 Jan 2026 19:40:03 +0900"
+    },
+    {
+      "title": "“成年後見制度利用し退職に” 違憲か最高裁が2月18日判決へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015030151000",
+      "pubDate": "Mon, 19 Jan 2026 19:21:07 +0900"
     },
     {
       "title": "中道改革連合 基本政策を発表 “食料品の消費税率”などは？",
@@ -18,24 +23,19 @@
       "pubDate": "Mon, 19 Jan 2026 17:29:01 +0900"
     },
     {
+      "title": "グリーンランドめぐる米の関税措置 EU 対抗措置検討か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029701000",
+      "pubDate": "Mon, 19 Jan 2026 19:30:54 +0900"
+    },
+    {
       "title": "【大雪予想】国交省・気象庁が「緊急発表」注意呼びかけ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015029771000",
       "pubDate": "Mon, 19 Jan 2026 18:41:26 +0900"
     },
     {
-      "title": "日銀 個人の生活意識調査 “物価 この先も上がる” 80％超",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030071000",
-      "pubDate": "Mon, 19 Jan 2026 16:54:23 +0900"
-    },
-    {
-      "title": "東京消防庁 救急隊の去年1年間出動件数93万超 過去2番目に多い",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030141000",
-      "pubDate": "Mon, 19 Jan 2026 18:55:20 +0900"
-    },
-    {
-      "title": "NBA レイカーズ 八村塁 10得点 2試合連続のふた桁で勝利に貢献",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030041000",
-      "pubDate": "Mon, 19 Jan 2026 18:13:53 +0900"
+      "title": "大相撲初場所9日目 横綱 豊昇龍 大の里が連敗",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015029991000",
+      "pubDate": "Mon, 19 Jan 2026 19:36:14 +0900"
     }
   ]
 }
