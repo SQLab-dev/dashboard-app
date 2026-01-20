@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-20T11:59:33.172Z",
+  "updated": "2026-01-20T13:09:28.514Z",
   "items": [
     {
       "title": "あす～25日ごろ 北～西日本日本海側など大雪おそれ 早め備えを",
@@ -8,9 +8,14 @@
       "pubDate": "Tue, 20 Jan 2026 20:38:11 +0900"
     },
     {
-      "title": "熊本 阿蘇山で3人搭乗の遊覧ヘリ不明 機体のようなもの発見",
+      "title": "東京電力 柏崎刈羽原発6号機 21日にも再稼働を検討",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031331000",
+      "pubDate": "Tue, 20 Jan 2026 21:38:54 +0900"
+    },
+    {
+      "title": "熊本 阿蘇山で3人搭乗の遊覧ヘリ不明 機体発見",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031061000",
-      "pubDate": "Tue, 20 Jan 2026 19:44:36 +0900"
+      "pubDate": "Tue, 20 Jan 2026 22:03:06 +0900"
     },
     {
       "title": "【20日の動き】衆議院解散表明で 高市首相は 与野党は 閣僚は",
@@ -23,19 +28,14 @@
       "pubDate": "Tue, 20 Jan 2026 19:49:28 +0900"
     },
     {
-      "title": "保守 “食料品の消費税率を恒久的にゼロ％ 再エネ賦課金廃止”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031121000",
-      "pubDate": "Tue, 20 Jan 2026 19:06:01 +0900"
-    },
-    {
-      "title": "ことしの主食用米の生産量目安 需要を上回る見通し 農水省",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031321000",
-      "pubDate": "Tue, 20 Jan 2026 20:29:38 +0900"
+      "title": "ベトナム共産党書記長 5年間の経済成長率目標“平均10％以上”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031291000",
+      "pubDate": "Tue, 20 Jan 2026 21:26:42 +0900"
     },
     {
       "title": "ウクライナ世論調査 米大統領がトランプ氏「悪いことだ」74％",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031271000",
-      "pubDate": "Tue, 20 Jan 2026 20:30:35 +0900"
+      "pubDate": "Tue, 20 Jan 2026 21:39:38 +0900"
     }
   ]
 }
