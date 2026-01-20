@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-20T21:58:35.206Z",
+  "updated": "2026-01-20T22:30:12.353Z",
   "items": [
     {
       "title": "強い冬型の気圧配置続く 日本海側で積雪かなり多くなるおそれ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031561000",
       "pubDate": "Wed, 21 Jan 2026 06:48:42 +0900"
+    },
+    {
+      "title": "大雪 交通影響まとめ 日本航空や全日空の一部が欠航【21日】",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031581000",
+      "pubDate": "Wed, 21 Jan 2026 06:57:16 +0900"
     },
     {
       "title": "安倍元首相銃撃裁判 きょう判決 生い立ちなど考慮するか争点",
@@ -18,24 +23,19 @@
       "pubDate": "Wed, 21 Jan 2026 05:05:15 +0900"
     },
     {
-      "title": "大雪 交通影響まとめ 日本航空や全日空の一部が欠航【21日】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031581000",
-      "pubDate": "Wed, 21 Jan 2026 06:57:16 +0900"
+      "title": "トランプ大統領 フランスに「200％の関税」課す可能性言及",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031521000",
+      "pubDate": "Wed, 21 Jan 2026 07:04:12 +0900"
     },
     {
-      "title": "東京電力 柏崎刈羽原発6号機 きょうにも再稼働の方針",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031531000",
-      "pubDate": "Wed, 21 Jan 2026 06:28:52 +0900"
+      "title": "ゼレンスキー大統領「ダボス会議」参加しない可能性あると示唆",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031571000",
+      "pubDate": "Wed, 21 Jan 2026 07:02:02 +0900"
     },
     {
-      "title": "生成AI手がける日韓のスタートアップ企業が交流 意見交換",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031341000",
-      "pubDate": "Wed, 21 Jan 2026 06:44:29 +0900"
-    },
-    {
-      "title": "トランプ大統領 「ダボス会議」で演説へ 発言に注目集まる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031391000",
-      "pubDate": "Wed, 21 Jan 2026 06:24:30 +0900"
+      "title": "イギリス 中国大使館の移転計画を承認 安全保障上の懸念指摘も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031551000",
+      "pubDate": "Wed, 21 Jan 2026 07:00:23 +0900"
     }
   ]
 }
