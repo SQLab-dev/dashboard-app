@@ -1,5 +1,11 @@
-const settings = document.getElementById("settings");
+const openBtn = document.getElementById("open-settings");
+const closeBtn = document.getElementById("close-settings");
+const settings = document.getElementById("settings-panel");
 
-settingsBtn.addEventListener("click", () => {
-    settings.hidden = !settings.hidden;
+openBtn.addEventListener("click", () => {
+    settings.classList.remove("hidden");
+});
+
+closeBtn.addEventListener("click", () => {
+    settings.classList.add("hidden");
 });

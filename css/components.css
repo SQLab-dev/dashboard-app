@@ -110,3 +110,39 @@ img.pin {
     object-fit: cover;
     filter: brightness(0.91);
 }
+
+#close-settings {
+    background: none;
+    border: none;
+    cursor: pointer;
+    background-color: #2525252d;
+    backdrop-filter: blur(15px);
+    width: 80px;
+    height: 30px;
+    border-radius: 7px;
+    box-shadow: 4px 4px 16px 0 #0000001f;
+    font-family: var(--font-base);
+    font-size: 0.8rem;
+    color: #fff;
+}
+
+.hidden {
+    display: none;
+}
+
+#settings-panel {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1.5px solid #313131;
+    background-color: #1f1f1f;
+    width: 80%;
+    border-radius: 14px;
+}
+
+.settings-title {
+    font-family: var(--font-base);
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0;
+}

@@ -12,6 +12,13 @@ async function getWeather(lat, lon) {
     return { city, temperature };
 }
 
+navigator.geolocation.getCurrentPosition(success,fail);
+
+const cur_lat = pos.coords.latitude;
+const cur_lng = pos.coords.longitude;
+
+console.log(cur_lat, cur_lng)
+
 getWeather(26.212, 127.681).then(({ city, temperature }) => {
     document.getElementById("city").textContent = city;
     document.getElementById("temperature").textContent = temperature + "°";
