@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-20T17:49:15.616Z",
+  "updated": "2026-01-20T18:01:40.634Z",
   "items": [
+    {
+      "title": "【地震速報】北海道と青森県で震度３ 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031541000",
+      "pubDate": "Wed, 21 Jan 2026 02:56:58 +0900"
+    },
     {
       "title": "NYダウ 一時750ドル超の値下がり 売り注文広がる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031511000",
@@ -31,11 +36,6 @@
       "title": "気象庁 関係機関への情報提供強化盛り込んだ報告書 取りまとめ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031461000",
       "pubDate": "Wed, 21 Jan 2026 00:27:06 +0900"
-    },
-    {
-      "title": "スキージャンプ女子W杯 丸山希が今季6勝目",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031491000",
-      "pubDate": "Tue, 20 Jan 2026 23:57:27 +0900"
     }
   ]
 }
