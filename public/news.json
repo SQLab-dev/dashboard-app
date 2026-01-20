@@ -1,11 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-20T14:59:29.164Z",
+  "updated": "2026-01-20T15:39:54.518Z",
   "items": [
+    {
+      "title": "NYダウ 一時750ドル超の値下がり 売り注文広がる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031511000",
+      "pubDate": "Wed, 21 Jan 2026 00:15:03 +0900"
+    },
     {
       "title": "21日～25日ごろ 北～西日本日本海側など大雪おそれ 早め備えを",
       "link": "https://news.web.nhk/newsweb/na/na-k10015030341000",
       "pubDate": "Tue, 20 Jan 2026 20:38:11 +0900"
+    },
+    {
+      "title": "安倍元首相銃撃裁判 きょう判決 生い立ちなど考慮するか争点",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031411000",
+      "pubDate": "Wed, 21 Jan 2026 00:06:48 +0900"
+    },
+    {
+      "title": "ベルリン国際映画祭 日本のアニメ映画 最優秀作品の候補に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031471000",
+      "pubDate": "Wed, 21 Jan 2026 00:20:59 +0900"
     },
     {
       "title": "東京電力 柏崎刈羽原発6号機 21日にも再稼働を検討",
@@ -13,29 +28,14 @@
       "pubDate": "Tue, 20 Jan 2026 21:38:54 +0900"
     },
     {
-      "title": "熊本 阿蘇山で3人搭乗の遊覧ヘリ不明 機体発見",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031061000",
-      "pubDate": "Tue, 20 Jan 2026 22:03:06 +0900"
+      "title": "気象庁 関係機関への情報提供強化盛り込んだ報告書 取りまとめ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031461000",
+      "pubDate": "Wed, 21 Jan 2026 00:27:06 +0900"
     },
     {
-      "title": "【20日の動き】衆議院解散表明で 高市首相は 与野党は 閣僚は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030591000",
-      "pubDate": "Tue, 20 Jan 2026 20:42:20 +0900"
-    },
-    {
-      "title": "トランプ大統領 2期目就任1年 中国 “両国は紆余曲折も安定”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031481000",
-      "pubDate": "Tue, 20 Jan 2026 23:54:01 +0900"
-    },
-    {
-      "title": "ベトナム共産党書記長 5年間の経済成長率目標“平均10％以上”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031291000",
-      "pubDate": "Tue, 20 Jan 2026 21:26:42 +0900"
-    },
-    {
-      "title": "ウクライナ世論調査 米大統領がトランプ氏「悪いことだ」74％",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031271000",
-      "pubDate": "Tue, 20 Jan 2026 21:39:38 +0900"
+      "title": "スキージャンプ女子W杯 丸山希が今季6勝目",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031491000",
+      "pubDate": "Tue, 20 Jan 2026 23:57:27 +0900"
     }
   ]
 }
