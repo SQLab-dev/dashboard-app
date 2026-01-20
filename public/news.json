@@ -1,26 +1,31 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-20T03:24:05.786Z",
+  "updated": "2026-01-20T04:30:06.936Z",
   "items": [
+    {
+      "title": "【20日の動き】衆議院解散表明 高市首相は 野党は 閣僚は",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015030591000",
+      "pubDate": "Tue, 20 Jan 2026 12:38:35 +0900"
+    },
+    {
+      "title": "スノボ平野歩夢 スキージャンプ小林陵侑など52人 五輪に内定",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015030561000",
+      "pubDate": "Tue, 20 Jan 2026 13:03:36 +0900"
+    },
+    {
+      "title": "性的ディープフェイク 容疑者“芸能人の画像 反響大きく”供述",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015030721000",
+      "pubDate": "Tue, 20 Jan 2026 12:57:05 +0900"
+    },
     {
       "title": "あすから北～西日本の日本海側中心に大雪おそれ 早めの備えを",
       "link": "https://news.web.nhk/newsweb/na/na-k10015030341000",
       "pubDate": "Tue, 20 Jan 2026 11:57:57 +0900"
     },
     {
-      "title": "【20日の動き】衆議院解散表明 高市首相は 野党は 閣僚は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030591000",
-      "pubDate": "Tue, 20 Jan 2026 12:10:03 +0900"
-    },
-    {
       "title": "去年の訪日外国人旅行者 初の4000万人超に 国土交通省",
       "link": "https://news.web.nhk/newsweb/na/na-k10015030541000",
       "pubDate": "Tue, 20 Jan 2026 11:53:02 +0900"
-    },
-    {
-      "title": "株価 値下がり 欧米対立激化の見方から多くの銘柄に売り注文",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030651000",
-      "pubDate": "Tue, 20 Jan 2026 12:06:34 +0900"
     },
     {
       "title": "兵庫 姫路 マンション敷地内で30代男性死亡 背中に刺し傷",
@@ -31,11 +36,6 @@
       "title": "トランプ大統領 2期目就任1年 中間選挙に向けた攻防へ【詳報】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015030371000",
       "pubDate": "Tue, 20 Jan 2026 10:56:23 +0900"
-    },
-    {
-      "title": "生成AIで女性芸能人の画像使いわいせつ画像作成か 容疑者逮捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015030331000",
-      "pubDate": "Tue, 20 Jan 2026 05:18:45 +0900"
     }
   ]
 }
