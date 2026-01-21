@@ -1,26 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-21T14:37:33.649Z",
+  "updated": "2026-01-21T15:01:24.987Z",
   "items": [
-    {
-      "title": "【ライブ配信】トランプ大統領「ダボス会議」で演説中",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015032151000",
-      "pubDate": "Wed, 21 Jan 2026 23:32:39 +0900"
-    },
     {
       "title": "石川県に「顕著な大雪に関する情報」 厳重警戒を呼びかけ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015032341000",
       "pubDate": "Wed, 21 Jan 2026 23:18:14 +0900"
     },
     {
+      "title": "【詳細】トランプ大統領「ダボス会議」で演説",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032151000",
+      "pubDate": "Wed, 21 Jan 2026 23:53:06 +0900"
+    },
+    {
       "title": "【詳しく】安倍元首相銃撃事件裁判 山上被告に無期懲役の判決",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031411000",
-      "pubDate": "Wed, 21 Jan 2026 22:03:22 +0900"
+      "pubDate": "Wed, 21 Jan 2026 23:56:24 +0900"
     },
     {
       "title": "【大雪警戒】1度目のピークは今夜からあすと予想 備え確認を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031561000",
-      "pubDate": "Wed, 21 Jan 2026 22:33:37 +0900"
+      "pubDate": "Wed, 21 Jan 2026 23:39:01 +0900"
     },
     {
       "title": "【21日の動き】高市首相 予算編成方針変更で冒頭解散と説明",
@@ -28,14 +28,14 @@
       "pubDate": "Wed, 21 Jan 2026 19:21:40 +0900"
     },
     {
-      "title": "れいわ 山本代表 参議院議員を辞職 健康上の問題を理由に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031861000",
-      "pubDate": "Wed, 21 Jan 2026 20:36:04 +0900"
-    },
-    {
       "title": "水戸 ネイリスト殺害 女性は警察にストーカーの相談窓口尋ねる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015032111000",
       "pubDate": "Wed, 21 Jan 2026 21:05:33 +0900"
+    },
+    {
+      "title": "スノボ 平野歩夢が骨折 国内で治療行い代表チーム合流目指す",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032221000",
+      "pubDate": "Wed, 21 Jan 2026 20:43:40 +0900"
     }
   ]
 }
