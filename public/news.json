@@ -1,9 +1,14 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-20T23:56:43.814Z",
+  "updated": "2026-01-21T02:01:46.149Z",
   "items": [
     {
-      "title": "強い冬型の気圧配置続く 日本海側で積雪かなり多くなるおそれ",
+      "title": "水戸 女性ネイリスト殺害 知人の男の容疑者を殺人の疑いで逮捕",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015031711000",
+      "pubDate": "Wed, 21 Jan 2026 10:57:03 +0900"
+    },
+    {
+      "title": "【大雪警戒】日本海側で積雪かなり多くなるおそれ 影響長期か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031561000",
       "pubDate": "Wed, 21 Jan 2026 06:48:42 +0900"
     },
@@ -15,7 +20,7 @@
     {
       "title": "安倍元首相銃撃裁判 きょう判決 生い立ちなど考慮するか争点",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031411000",
-      "pubDate": "Wed, 21 Jan 2026 00:06:48 +0900"
+      "pubDate": "Wed, 21 Jan 2026 10:38:52 +0900"
     },
     {
       "title": "衆院選へ与野党各党が準備加速 候補の擁立作業など進める",
@@ -31,11 +36,6 @@
       "title": "東京電力 柏崎刈羽原発6号機 きょうにも再稼働の方針",
       "link": "https://news.web.nhk/newsweb/na/na-k10015031531000",
       "pubDate": "Wed, 21 Jan 2026 06:28:52 +0900"
-    },
-    {
-      "title": "ゼレンスキー大統領「ダボス会議」参加しない可能性あると示唆",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031571000",
-      "pubDate": "Wed, 21 Jan 2026 07:32:21 +0900"
     }
   ]
 }
