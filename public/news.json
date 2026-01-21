@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-21T20:35:58.926Z",
+  "updated": "2026-01-21T20:59:58.182Z",
   "items": [
     {
       "title": "滋賀県と石川県に「顕著な大雪に関する情報」厳重警戒呼びかけ",
@@ -13,9 +13,14 @@
       "pubDate": "Thu, 22 Jan 2026 05:04:06 +0900"
     },
     {
-      "title": "トランプ大統領「ダボス会議」で演説 内容を詳しく",
+      "title": "衆議院 解散・総選挙に向け 与野党から公約の発表相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032271000",
+      "pubDate": "Thu, 22 Jan 2026 05:42:41 +0900"
+    },
+    {
+      "title": "トランプ大統領 NATO貢献見返りにグリーンランドの領有主張か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015032151000",
-      "pubDate": "Thu, 22 Jan 2026 05:19:09 +0900"
+      "pubDate": "Thu, 22 Jan 2026 05:48:28 +0900"
     },
     {
       "title": "【大雪警戒】22日にかけ1度目のピークとなる見込み 備え確認を",
@@ -23,19 +28,14 @@
       "pubDate": "Wed, 21 Jan 2026 23:39:01 +0900"
     },
     {
-      "title": "日銀 きょうから金融政策決定会合 円安や金利の影響を議論",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015032281000",
-      "pubDate": "Thu, 22 Jan 2026 05:21:26 +0900"
+      "title": "ロシア軍の長距離戦略爆撃機 日本海上空を11時間超飛行と発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032401000",
+      "pubDate": "Thu, 22 Jan 2026 05:51:59 +0900"
     },
     {
-      "title": "【詳しく】安倍元首相銃撃事件裁判 山上被告に無期懲役の判決",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015031411000",
-      "pubDate": "Thu, 22 Jan 2026 00:31:06 +0900"
-    },
-    {
-      "title": "NISA口座数1800万超に 記録的な株価上昇が個人の投資を後押し",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015032091000",
-      "pubDate": "Wed, 21 Jan 2026 18:03:50 +0900"
+      "title": "東電 柏崎刈羽原発6号機再稼働 2月に設備検査など慎重に対応へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032311000",
+      "pubDate": "Thu, 22 Jan 2026 05:46:16 +0900"
     }
   ]
 }
