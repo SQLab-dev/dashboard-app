@@ -1,21 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-23T21:16:27.731Z",
+  "updated": "2026-01-23T21:37:40.370Z",
   "items": [
+    {
+      "title": "大雪 25日にかけ再びピークに 広い範囲で降り方強まる見込み",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034491000",
+      "pubDate": "Sat, 24 Jan 2026 06:18:23 +0900"
+    },
     {
       "title": "衆議院解散 事実上の選挙戦に 27日公示 激しい論戦展開へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034461000",
       "pubDate": "Sat, 24 Jan 2026 06:14:35 +0900"
     },
     {
+      "title": "【地震速報】茨城県日立市で震度4 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015033441000",
+      "pubDate": "Sat, 24 Jan 2026 06:33:12 +0900"
+    },
+    {
       "title": "NY市場 急激に円高進む 一時1ドル＝155円台後半まで値上がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034601000",
       "pubDate": "Sat, 24 Jan 2026 05:06:29 +0900"
-    },
-    {
-      "title": "強い冬型気圧配置 24日～25日にかけ再び大雪のピークに 警戒を",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015033391000",
-      "pubDate": "Sat, 24 Jan 2026 00:01:46 +0900"
     },
     {
       "title": "ウクライナ ロシア アメリカ 和平案めぐる3者協議始まる",
@@ -31,11 +36,6 @@
       "title": "政府 官邸の偽サイト確認 注意を呼びかけ 投資を勧誘する内容",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034551000",
       "pubDate": "Sat, 24 Jan 2026 02:50:57 +0900"
-    },
-    {
-      "title": "「ダボス会議」閉幕 グリーンランドめぐり欧米の溝浮き彫りに",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034581000",
-      "pubDate": "Sat, 24 Jan 2026 04:52:21 +0900"
     }
   ]
 }
