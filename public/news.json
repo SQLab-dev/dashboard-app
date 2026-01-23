@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-23T06:56:04.958Z",
+  "updated": "2026-01-23T07:27:11.328Z",
   "items": [
+    {
+      "title": "【ライブ】今月16日発生 山手線の停電トラブルでJR東日本会見",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034171000",
+      "pubDate": "Fri, 23 Jan 2026 16:10:43 +0900"
+    },
     {
       "title": "日銀 金融政策維持を決定 植田総裁が会見【ライブ配信中】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015033661000",
-      "pubDate": "Fri, 23 Jan 2026 15:31:12 +0900"
+      "pubDate": "Fri, 23 Jan 2026 16:25:25 +0900"
     },
     {
       "title": "衆議院解散 事実上の選挙戦へ 1月27日公示 2月8日投開票",
@@ -15,7 +20,7 @@
     {
       "title": "【ライブ配信】プルデンシャル生命が会見 不適切な金銭受領",
       "link": "https://news.web.nhk/newsweb/na/na-k10015033641000",
-      "pubDate": "Fri, 23 Jan 2026 15:52:49 +0900"
+      "pubDate": "Fri, 23 Jan 2026 16:24:07 +0900"
     },
     {
       "title": "強い冬型気圧配置 日本海側で雪降り続く 交通への影響に警戒を",
@@ -23,19 +28,14 @@
       "pubDate": "Fri, 23 Jan 2026 13:59:53 +0900"
     },
     {
-      "title": "片山財務相 「市場との対話を丁寧に」 長期金利急上昇で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034101000",
-      "pubDate": "Fri, 23 Jan 2026 14:46:13 +0900"
-    },
-    {
       "title": "デヴィ夫人を傷害の疑いで書類送検 当時のマネージャに暴行か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034181000",
       "pubDate": "Fri, 23 Jan 2026 15:33:53 +0900"
     },
     {
-      "title": "ミラノ・コルティナ五輪 スキージャンプ 女子選手が意気込み",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034151000",
-      "pubDate": "Fri, 23 Jan 2026 15:40:52 +0900"
+      "title": "内閣府公用車 赤信号無視か 1人死亡8人重軽傷の多重事故 東京",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015033511000",
+      "pubDate": "Fri, 23 Jan 2026 16:02:04 +0900"
     }
   ]
 }
