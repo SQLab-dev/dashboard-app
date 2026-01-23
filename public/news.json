@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-23T05:29:38.965Z",
+  "updated": "2026-01-23T05:52:13.432Z",
   "items": [
     {
       "title": "衆議院解散 事実上の選挙戦へ 1月27日公示 2月8日投開票",
@@ -8,9 +8,9 @@
       "pubDate": "Fri, 23 Jan 2026 14:00:58 +0900"
     },
     {
-      "title": "東海道新幹線 一部区間で運転見合わせ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034131000",
-      "pubDate": "Fri, 23 Jan 2026 14:21:46 +0900"
+      "title": "強い冬型気圧配置 日本海側で雪降り続く 交通への影響に警戒を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015033391000",
+      "pubDate": "Fri, 23 Jan 2026 13:59:53 +0900"
     },
     {
       "title": "リニア建設工事 静岡県とJR東海 水資源の補償で文書締結へ",
@@ -23,11 +23,6 @@
       "pubDate": "Fri, 23 Jan 2026 13:19:10 +0900"
     },
     {
-      "title": "強い冬型気圧配置 日本海側で雪降り続く 交通への影響に警戒を",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015033391000",
-      "pubDate": "Fri, 23 Jan 2026 13:59:53 +0900"
-    },
-    {
       "title": "政府 外国人政策の基本的な考えまとめる 不動産取得は検討継続",
       "link": "https://news.web.nhk/newsweb/na/na-k10015033651000",
       "pubDate": "Fri, 23 Jan 2026 13:44:47 +0900"
@@ -36,6 +31,11 @@
       "title": "大野元参院議員 “寄付の認識ない” パーティー収入不記載裁判",
       "link": "https://news.web.nhk/newsweb/na/na-k10015033921000",
       "pubDate": "Fri, 23 Jan 2026 13:50:09 +0900"
+    },
+    {
+      "title": "御嶽山噴火めぐる裁判 遺族側の敗訴確定 最高裁上告退ける",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015033881000",
+      "pubDate": "Fri, 23 Jan 2026 14:29:27 +0900"
     }
   ]
 }
