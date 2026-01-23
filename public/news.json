@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-23T07:46:43.355Z",
+  "updated": "2026-01-23T07:56:30.863Z",
   "items": [
     {
       "title": "【ライブ】今月16日発生 山手線の停電トラブルでJR東日本会見",
@@ -18,6 +18,11 @@
       "pubDate": "Fri, 23 Jan 2026 15:17:49 +0900"
     },
     {
+      "title": "円相場 1ドル＝159円台 日銀 植田総裁会見中 円売る動き加速",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034221000",
+      "pubDate": "Fri, 23 Jan 2026 16:40:19 +0900"
+    },
+    {
       "title": "日銀 金融政策維持を決定 植田総裁が会見",
       "link": "https://news.web.nhk/newsweb/na/na-k10015033661000",
       "pubDate": "Fri, 23 Jan 2026 16:34:40 +0900"
@@ -31,11 +36,6 @@
       "title": "デヴィ夫人を傷害の疑いで書類送検 当時のマネージャに暴行か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034181000",
       "pubDate": "Fri, 23 Jan 2026 15:33:53 +0900"
-    },
-    {
-      "title": "内閣府公用車 赤信号無視か 1人死亡8人重軽傷の多重事故 東京",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015033511000",
-      "pubDate": "Fri, 23 Jan 2026 16:02:04 +0900"
     }
   ]
 }
