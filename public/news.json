@@ -1,16 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T03:09:54.044Z",
+  "updated": "2026-01-24T04:06:11.192Z",
   "items": [
+    {
+      "title": "福井県に「顕著な大雪に関する情報」厳重警戒呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034721000",
+      "pubDate": "Sat, 24 Jan 2026 12:45:22 +0900"
+    },
+    {
+      "title": "トランプ大統領 NATOの貢献軽視発言 英首相「侮辱的だ」と反発",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034701000",
+      "pubDate": "Sat, 24 Jan 2026 12:51:01 +0900"
+    },
     {
       "title": "大雪 あすにかけ再びピークに 交通への影響に警戒を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034491000",
-      "pubDate": "Sat, 24 Jan 2026 11:47:43 +0900"
+      "pubDate": "Sat, 24 Jan 2026 12:09:25 +0900"
     },
     {
       "title": "衆院選投票用紙 印刷間に合わず一部を後日に発送  北海道選管",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034681000",
-      "pubDate": "Sat, 24 Jan 2026 11:38:26 +0900"
+      "pubDate": "Sat, 24 Jan 2026 12:22:11 +0900"
     },
     {
       "title": "米国防総省 「国防戦略」発表 同盟国に国防費などGDPの5％要求",
@@ -26,16 +36,6 @@
       "title": "トランプ政権WHO脱退で カリフォルニア州が国際ネット参加表明",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034641000",
       "pubDate": "Sat, 24 Jan 2026 11:10:18 +0900"
-    },
-    {
-      "title": "米高官 グリーンランド巡る協議 「生産的に進んでいると確信」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034631000",
-      "pubDate": "Sat, 24 Jan 2026 09:07:36 +0900"
-    },
-    {
-      "title": "NY市場 急激に円高進む 一時1ドル＝155円台半ばまで値上がり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034601000",
-      "pubDate": "Sat, 24 Jan 2026 06:53:08 +0900"
     }
   ]
 }
