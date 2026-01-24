@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T07:26:20.972Z",
+  "updated": "2026-01-24T07:40:58.972Z",
   "items": [
+    {
+      "title": "東大大学院の教授を収賄疑いで逮捕 高級クラブで接待受けたか",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034771000",
+      "pubDate": "Sat, 24 Jan 2026 16:30:03 +0900"
+    },
     {
       "title": "福井県に「顕著な大雪に関する情報」 交通影響に厳重警戒",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034491000",
-      "pubDate": "Sat, 24 Jan 2026 15:05:15 +0900"
+      "pubDate": "Sat, 24 Jan 2026 16:38:59 +0900"
     },
     {
       "title": "米国務省次官 “AI開発サプライチェーン強化 日本などと連携”",
@@ -31,11 +36,6 @@
       "title": "トランプ政権 キューバへの石油阻止で「海上封鎖」検討か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034731000",
       "pubDate": "Sat, 24 Jan 2026 13:21:13 +0900"
-    },
-    {
-      "title": "トランプ大統領 NATOの貢献軽視発言 英首相「侮辱的だ」と反発",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034701000",
-      "pubDate": "Sat, 24 Jan 2026 12:51:01 +0900"
     }
   ]
 }
