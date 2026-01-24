@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T20:26:19.917Z",
+  "updated": "2026-01-24T20:43:26.039Z",
   "items": [
+    {
+      "title": "鳥取県に「顕著な大雪に関する情報」厳重警戒を呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035051000",
+      "pubDate": "Sun, 25 Jan 2026 05:30:17 +0900"
+    },
     {
       "title": "日本海側中心に強い降雪 石川に顕著な大雪に関する情報",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
@@ -11,6 +16,11 @@
       "title": "【大雪警戒】車が立往生するリスク高まるおそれ 専門家が解説",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034651000",
       "pubDate": "Sat, 24 Jan 2026 14:57:18 +0900"
+    },
+    {
+      "title": "衆院選公示控え 各党の党首が論戦",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034951000",
+      "pubDate": "Sun, 25 Jan 2026 05:39:39 +0900"
     },
     {
       "title": "ゼレンスキー大統領 3者協議を評価 来週さらに協議の可能性も",
@@ -26,16 +36,6 @@
       "title": "AIを使い卵の段階でニワトリの性別判別する技術を開発",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034661000",
       "pubDate": "Sun, 25 Jan 2026 05:01:19 +0900"
-    },
-    {
-      "title": "大相撲初場所千秋楽見どころ 安青錦は琴櫻 熱海富士は欧勝海と",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034971000",
-      "pubDate": "Sun, 25 Jan 2026 04:40:08 +0900"
-    },
-    {
-      "title": "東大大学院の教授を収賄疑いで逮捕 高級クラブで接待受けたか",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034771000",
-      "pubDate": "Sat, 24 Jan 2026 19:44:50 +0900"
     }
   ]
 }
