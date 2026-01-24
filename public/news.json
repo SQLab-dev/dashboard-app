@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T21:32:42.083Z",
+  "updated": "2026-01-24T21:44:51.908Z",
   "items": [
     {
       "title": "石川県と鳥取県に顕著な大雪に関する情報 交通影響に厳重警戒",
@@ -23,6 +23,11 @@
       "pubDate": "Sun, 25 Jan 2026 06:15:22 +0900"
     },
     {
+      "title": "北アルプスの焼岳 噴火警戒レベルを「2」に引き上げ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035061000",
+      "pubDate": "Sun, 25 Jan 2026 06:23:17 +0900"
+    },
+    {
       "title": "衆院選公示控え 各党の党首が論戦",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034951000",
       "pubDate": "Sun, 25 Jan 2026 05:39:39 +0900"
@@ -31,11 +36,6 @@
       "title": "上野動物園の双子パンダ きょう最後の観覧日 27日 中国に返還",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034861000",
       "pubDate": "Sun, 25 Jan 2026 04:47:54 +0900"
-    },
-    {
-      "title": "AIを使い卵の段階でニワトリの性別判別する技術を開発",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034661000",
-      "pubDate": "Sun, 25 Jan 2026 05:01:19 +0900"
     }
   ]
 }
