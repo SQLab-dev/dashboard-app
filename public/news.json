@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T19:01:04.408Z",
+  "updated": "2026-01-24T19:24:43.874Z",
   "items": [
     {
-      "title": "石川県に「顕著な大雪に関する情報」厳重警戒を呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034991000",
-      "pubDate": "Sun, 25 Jan 2026 02:53:35 +0900"
+      "title": "日本海側中心に強い降雪 石川に顕著な大雪に関する情報",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
+      "pubDate": "Sun, 25 Jan 2026 04:15:01 +0900"
     },
     {
       "title": "大雪ピークに 多くの地域で積雪 平年を大幅に上回る 警戒点は",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034491000",
       "pubDate": "Sun, 25 Jan 2026 00:00:47 +0900"
+    },
+    {
+      "title": "【大雪警戒】車が立往生するリスク高まるおそれ 専門家が解説",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034651000",
+      "pubDate": "Sat, 24 Jan 2026 14:57:18 +0900"
     },
     {
       "title": "東大大学院の教授を収賄疑いで逮捕 高級クラブで接待受けたか",
@@ -31,11 +36,6 @@
       "title": "アメリカ交え和平協議も キーウなどにロシア軍攻撃 死傷者複数",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034841000",
       "pubDate": "Sat, 24 Jan 2026 21:01:50 +0900"
-    },
-    {
-      "title": "中国の支援で拡張したカンボジア海軍基地に米海軍艦艇が初寄港",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034961000",
-      "pubDate": "Sat, 24 Jan 2026 22:11:09 +0900"
     }
   ]
 }
