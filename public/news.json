@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T13:10:04.148Z",
+  "updated": "2026-01-24T13:43:06.270Z",
   "items": [
     {
       "title": "あすにかけ大雪ピークに 広い範囲で雪強まる 交通影響に警戒を",
@@ -13,19 +13,14 @@
       "pubDate": "Sat, 24 Jan 2026 19:44:50 +0900"
     },
     {
-      "title": "卓球全日本選手権 張本智和 フルゲームの末に競り勝ち準決勝へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034871000",
-      "pubDate": "Sat, 24 Jan 2026 21:54:57 +0900"
-    },
-    {
-      "title": "ミラノ・コルティナ五輪 スケルトン 高橋弘篤が代表に決定",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034921000",
-      "pubDate": "Sat, 24 Jan 2026 21:48:39 +0900"
-    },
-    {
       "title": "衆院選 事実上の選挙戦に入る さっそく各地で街頭演説【24日】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034671000",
       "pubDate": "Sat, 24 Jan 2026 19:23:11 +0900"
+    },
+    {
+      "title": "中国の支援で拡張したカンボジア海軍基地に米海軍艦艇が初寄港",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034961000",
+      "pubDate": "Sat, 24 Jan 2026 22:11:09 +0900"
     },
     {
       "title": "米国防総省 「国防戦略」発表 同盟国に国防費などGDPの5％要求",
@@ -33,9 +28,14 @@
       "pubDate": "Sat, 24 Jan 2026 21:27:09 +0900"
     },
     {
-      "title": "テニス 大坂なおみ 左脇腹のけがで全豪オープン3回戦を棄権",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034941000",
-      "pubDate": "Sat, 24 Jan 2026 21:29:13 +0900"
+      "title": "アメリカ交え和平協議も キーウなどにロシア軍攻撃 死傷者複数",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034841000",
+      "pubDate": "Sat, 24 Jan 2026 21:01:50 +0900"
+    },
+    {
+      "title": "山梨県の山林火災 「鎮圧」と発表 発生から17日目で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034881000",
+      "pubDate": "Sat, 24 Jan 2026 18:54:48 +0900"
     }
   ]
 }
