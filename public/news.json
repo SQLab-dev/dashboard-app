@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T20:54:05.316Z",
+  "updated": "2026-01-24T21:15:02.047Z",
   "items": [
     {
-      "title": "鳥取県に「顕著な大雪に関する情報」厳重警戒を呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035051000",
-      "pubDate": "Sun, 25 Jan 2026 05:30:17 +0900"
-    },
-    {
-      "title": "日本海側中心に強い降雪 石川に顕著な大雪に関する情報",
+      "title": "石川県と鳥取県に顕著な大雪に関する情報 交通影響に厳重警戒",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
-      "pubDate": "Sun, 25 Jan 2026 05:09:53 +0900"
+      "pubDate": "Sun, 25 Jan 2026 06:07:07 +0900"
     },
     {
       "title": "新潟 田上町 軽乗用車が線路内を走行 電車が追突 雪の影響か",
@@ -18,14 +13,14 @@
       "pubDate": "Sun, 25 Jan 2026 05:43:29 +0900"
     },
     {
+      "title": "東大大学院教授収賄疑い 法人側 接待の場で教授に研究の要望か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034981000",
+      "pubDate": "Sun, 25 Jan 2026 06:01:48 +0900"
+    },
+    {
       "title": "衆院選公示控え 各党の党首が論戦",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034951000",
       "pubDate": "Sun, 25 Jan 2026 05:39:39 +0900"
-    },
-    {
-      "title": "ゼレンスキー大統領 3者協議を評価 来週さらに協議の可能性も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035021000",
-      "pubDate": "Sun, 25 Jan 2026 04:44:13 +0900"
     },
     {
       "title": "上野動物園の双子パンダ きょう最後の観覧日 27日 中国に返還",
@@ -36,6 +31,11 @@
       "title": "AIを使い卵の段階でニワトリの性別判別する技術を開発",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034661000",
       "pubDate": "Sun, 25 Jan 2026 05:01:19 +0900"
+    },
+    {
+      "title": "ゼレンスキー大統領 3者協議を評価 来週さらに協議の可能性も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035021000",
+      "pubDate": "Sun, 25 Jan 2026 04:44:13 +0900"
     }
   ]
 }
