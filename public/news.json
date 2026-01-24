@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T11:43:30.760Z",
+  "updated": "2026-01-24T11:53:31.522Z",
   "items": [
     {
       "title": "あすにかけ大雪ピークに 交通影響に警戒を 広い範囲で雪強まる",
@@ -18,16 +18,6 @@
       "pubDate": "Sat, 24 Jan 2026 19:44:50 +0900"
     },
     {
-      "title": "山梨県の山林火災 「鎮圧」と発表 発生から17日目で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034881000",
-      "pubDate": "Sat, 24 Jan 2026 18:54:48 +0900"
-    },
-    {
-      "title": "中国軍の制服組トップらに重大な規律違反の疑いで調査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034781000",
-      "pubDate": "Sat, 24 Jan 2026 19:19:28 +0900"
-    },
-    {
       "title": "急激に円高進む 日米当局が「レートチェック」実施との見方",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034691000",
       "pubDate": "Sat, 24 Jan 2026 18:30:05 +0900"
@@ -36,6 +26,16 @@
       "title": "トランプ政権 キューバへの石油阻止で「海上封鎖」検討か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034731000",
       "pubDate": "Sat, 24 Jan 2026 17:49:00 +0900"
+    },
+    {
+      "title": "中国軍の制服組トップらに重大な規律違反の疑いで調査",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034781000",
+      "pubDate": "Sat, 24 Jan 2026 19:19:28 +0900"
+    },
+    {
+      "title": "山梨県の山林火災 「鎮圧」と発表 発生から17日目で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034881000",
+      "pubDate": "Sat, 24 Jan 2026 18:54:48 +0900"
     }
   ]
 }
