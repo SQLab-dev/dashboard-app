@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T21:54:47.378Z",
+  "updated": "2026-01-24T22:18:09.030Z",
   "items": [
     {
       "title": "石川県と鳥取県に顕著な大雪に関する情報 交通影響に厳重警戒",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
-      "pubDate": "Sun, 25 Jan 2026 06:07:07 +0900"
+      "pubDate": "Sun, 25 Jan 2026 07:09:37 +0900"
+    },
+    {
+      "title": "【動画】気象予報士解説 今後の見通しは(25日7時)",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035081000",
+      "pubDate": "Sun, 25 Jan 2026 07:16:09 +0900"
     },
     {
       "title": "【大雪交通影響】東海道新幹線 名古屋－京都 速度落として運転",
@@ -18,6 +23,11 @@
       "pubDate": "Sun, 25 Jan 2026 05:43:29 +0900"
     },
     {
+      "title": "インドネシア 豪雨による土砂災害で8人死亡 80人超の行方不明",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035011000",
+      "pubDate": "Sun, 25 Jan 2026 06:55:42 +0900"
+    },
+    {
       "title": "東大大学院教授収賄疑い 法人側 接待の場で教授に研究の要望か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034981000",
       "pubDate": "Sun, 25 Jan 2026 06:01:48 +0900"
@@ -26,16 +36,6 @@
       "title": "中国軍 制服組トップら高官2人調査 重大な規律違反などの疑い",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035031000",
       "pubDate": "Sun, 25 Jan 2026 06:15:22 +0900"
-    },
-    {
-      "title": "衆院選公示控え 各党の党首が論戦",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034951000",
-      "pubDate": "Sun, 25 Jan 2026 05:39:39 +0900"
-    },
-    {
-      "title": "北アルプスの焼岳 噴火警戒レベルを「2」に引き上げ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035061000",
-      "pubDate": "Sun, 25 Jan 2026 06:49:08 +0900"
     }
   ]
 }
