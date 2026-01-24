@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T19:24:43.874Z",
+  "updated": "2026-01-24T19:36:43.450Z",
   "items": [
     {
       "title": "日本海側中心に強い降雪 石川に顕著な大雪に関する情報",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
       "pubDate": "Sun, 25 Jan 2026 04:15:01 +0900"
-    },
-    {
-      "title": "大雪ピークに 多くの地域で積雪 平年を大幅に上回る 警戒点は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034491000",
-      "pubDate": "Sun, 25 Jan 2026 00:00:47 +0900"
     },
     {
       "title": "【大雪警戒】車が立往生するリスク高まるおそれ 専門家が解説",
@@ -36,6 +31,11 @@
       "title": "アメリカ交え和平協議も キーウなどにロシア軍攻撃 死傷者複数",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034841000",
       "pubDate": "Sat, 24 Jan 2026 21:01:50 +0900"
+    },
+    {
+      "title": "横田拓也さん蓮池薫さんら 拉致被害者の救出訴える 徳島",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034821000",
+      "pubDate": "Sat, 24 Jan 2026 18:26:38 +0900"
     }
   ]
 }
