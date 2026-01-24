@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T05:47:57.101Z",
+  "updated": "2026-01-24T05:57:38.900Z",
   "items": [
     {
       "title": "福井県に「顕著な大雪に関する情報」 交通影響に厳重警戒",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034491000",
       "pubDate": "Sat, 24 Jan 2026 14:15:44 +0900"
+    },
+    {
+      "title": "米国務省次官 “AI開発サプライチェーン強化 日本などと連携”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034741000",
+      "pubDate": "Sat, 24 Jan 2026 14:17:26 +0900"
+    },
+    {
+      "title": "衆院選投票用紙 印刷間に合わず一部を後日に発送  北海道選管",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034681000",
+      "pubDate": "Sat, 24 Jan 2026 12:22:11 +0900"
     },
     {
       "title": "米国防総省 「国防戦略」発表 同盟国に国防費などGDPの5％要求",
@@ -26,16 +36,6 @@
       "title": "トランプ大統領 NATOの貢献軽視発言 英首相「侮辱的だ」と反発",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034701000",
       "pubDate": "Sat, 24 Jan 2026 12:51:01 +0900"
-    },
-    {
-      "title": "衆院選投票用紙 印刷間に合わず一部を後日に発送  北海道選管",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034681000",
-      "pubDate": "Sat, 24 Jan 2026 12:22:11 +0900"
-    },
-    {
-      "title": "トランプ政権WHO脱退で カリフォルニア州が国際ネット参加表明",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034641000",
-      "pubDate": "Sat, 24 Jan 2026 11:10:18 +0900"
     }
   ]
 }
