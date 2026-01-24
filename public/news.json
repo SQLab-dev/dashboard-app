@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T22:52:02.775Z",
+  "updated": "2026-01-24T23:12:01.235Z",
   "items": [
     {
       "title": "石川県と鳥取県に顕著な大雪に関する情報 交通影響に厳重警戒",
@@ -15,7 +15,12 @@
     {
       "title": "【大雪交通影響】東海道新幹線に遅れ 高速道路 各地で通行止め",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034441000",
-      "pubDate": "Sun, 25 Jan 2026 07:39:50 +0900"
+      "pubDate": "Sun, 25 Jan 2026 08:09:29 +0900"
+    },
+    {
+      "title": "米ミネソタ州 連邦当局が関与の発砲で男性1人死亡 緊張高まる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035091000",
+      "pubDate": "Sun, 25 Jan 2026 07:50:27 +0900"
     },
     {
       "title": "トランプ氏“カナダが中国と貿易協議合意なら100％関税課す”",
@@ -31,11 +36,6 @@
       "title": "東大大学院教授収賄疑い 法人側 接待の場で教授に研究の要望か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034981000",
       "pubDate": "Sun, 25 Jan 2026 06:01:48 +0900"
-    },
-    {
-      "title": "中国軍 制服組トップら高官2人調査 重大な規律違反などの疑い",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035031000",
-      "pubDate": "Sun, 25 Jan 2026 06:15:22 +0900"
     }
   ]
 }
