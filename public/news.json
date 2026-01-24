@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-24T19:36:43.450Z",
+  "updated": "2026-01-24T19:46:55.178Z",
   "items": [
     {
       "title": "日本海側中心に強い降雪 石川に顕著な大雪に関する情報",
@@ -23,6 +23,11 @@
       "pubDate": "Sat, 24 Jan 2026 19:23:11 +0900"
     },
     {
+      "title": "大相撲初場所千秋楽見どころ 安青錦は琴櫻 熱海富士は欧勝海と",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015034971000",
+      "pubDate": "Sun, 25 Jan 2026 04:40:08 +0900"
+    },
+    {
       "title": "米国防総省 「国防戦略」発表 同盟国に国防費などGDPの5％要求",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034711000",
       "pubDate": "Sat, 24 Jan 2026 21:27:09 +0900"
@@ -31,11 +36,6 @@
       "title": "アメリカ交え和平協議も キーウなどにロシア軍攻撃 死傷者複数",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034841000",
       "pubDate": "Sat, 24 Jan 2026 21:01:50 +0900"
-    },
-    {
-      "title": "横田拓也さん蓮池薫さんら 拉致被害者の救出訴える 徳島",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015034821000",
-      "pubDate": "Sat, 24 Jan 2026 18:26:38 +0900"
     }
   ]
 }
