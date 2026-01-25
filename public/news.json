@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T23:25:47.578Z",
+  "updated": "2026-01-25T23:42:12.884Z",
   "items": [
     {
       "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
@@ -18,11 +18,6 @@
       "pubDate": "Mon, 26 Jan 2026 06:54:40 +0900"
     },
     {
-      "title": "秋田新幹線 秋田ー盛岡間の上下線で運転見合わせ 倒木の影響",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035631000",
-      "pubDate": "Mon, 26 Jan 2026 06:50:53 +0900"
-    },
-    {
       "title": "日本海側で平年を大幅に上回る積雪 交通影響などに十分注意を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035521000",
       "pubDate": "Mon, 26 Jan 2026 06:11:30 +0900"
@@ -36,6 +31,11 @@
       "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035611000",
       "pubDate": "Mon, 26 Jan 2026 05:51:11 +0900"
+    },
+    {
+      "title": "日産 7工場削減計画が固まる 今後は収益力の改善が焦点に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035441000",
+      "pubDate": "Mon, 26 Jan 2026 06:18:12 +0900"
     }
   ]
 }
