@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T19:55:16.559Z",
+  "updated": "2026-01-25T20:23:44.301Z",
   "items": [
+    {
+      "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035571000",
+      "pubDate": "Mon, 26 Jan 2026 05:01:15 +0900"
+    },
     {
       "title": "衆議院選挙あす公示 高市政権の政策の是非など争点に選挙戦へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035491000",
       "pubDate": "Mon, 26 Jan 2026 04:44:11 +0900"
     },
     {
-      "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015032001000",
-      "pubDate": "Sun, 25 Jan 2026 23:55:30 +0900"
+      "title": "東大大学院教授収賄疑い 教授ら2人 10万円超の手土産も受領か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035501000",
+      "pubDate": "Mon, 26 Jan 2026 05:15:52 +0900"
     },
     {
       "title": "北日本など雪強まる見込み 交通影響に警戒",
@@ -18,19 +23,14 @@
       "pubDate": "Sun, 25 Jan 2026 23:07:57 +0900"
     },
     {
-      "title": "青森 JR奥羽本線の列車 積雪の影響で一時立往生",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035531000",
-      "pubDate": "Mon, 26 Jan 2026 00:19:04 +0900"
-    },
-    {
-      "title": "東大大学院教授収賄疑い 教授ら法人側にみずから接待を要求か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035401000",
-      "pubDate": "Sun, 25 Jan 2026 20:58:25 +0900"
-    },
-    {
       "title": "【大雪被害】新潟 男性死亡 雪下ろしで転落か 各地でけが人も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035191000",
       "pubDate": "Sun, 25 Jan 2026 19:19:21 +0900"
+    },
+    {
+      "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032001000",
+      "pubDate": "Sun, 25 Jan 2026 23:55:30 +0900"
     },
     {
       "title": "大相撲初場所 安青錦が2場所連続優勝 新大関の優勝は20年ぶり",
