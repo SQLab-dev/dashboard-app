@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T21:20:28.100Z",
+  "updated": "2026-01-25T21:37:23.238Z",
   "items": [
+    {
+      "title": "【地震速報】茨城 日立で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035621000",
+      "pubDate": "Mon, 26 Jan 2026 06:33:27 +0900"
+    },
     {
       "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035571000",
       "pubDate": "Mon, 26 Jan 2026 06:13:56 +0900"
+    },
+    {
+      "title": "日本海側で平年を大幅に上回る積雪 交通影響などに十分注意を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035521000",
+      "pubDate": "Mon, 26 Jan 2026 06:11:30 +0900"
     },
     {
       "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
@@ -23,19 +33,9 @@
       "pubDate": "Mon, 26 Jan 2026 05:15:52 +0900"
     },
     {
-      "title": "北日本など雪強まる見込み 交通影響に警戒",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
-      "pubDate": "Sun, 25 Jan 2026 23:07:57 +0900"
-    },
-    {
-      "title": "ウクライナとロシア和平案 来月も米交え3か国協議実施の見通し",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035541000",
-      "pubDate": "Mon, 26 Jan 2026 05:27:32 +0900"
-    },
-    {
-      "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015032001000",
-      "pubDate": "Sun, 25 Jan 2026 23:55:30 +0900"
+      "title": "FRB 利下げ見送りの見方強まる パウエル議長の会見に注目",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035431000",
+      "pubDate": "Mon, 26 Jan 2026 06:21:07 +0900"
     }
   ]
 }
