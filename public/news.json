@@ -1,11 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T10:38:39.950Z",
+  "updated": "2026-01-25T10:53:10.520Z",
   "items": [
     {
-      "title": "大阪 松原で建物火災 消火活動中",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035411000",
-      "pubDate": "Sun, 25 Jan 2026 19:34:05 +0900"
+      "title": "衆院選あさって公示 与野党が消費税の扱いなど議論 日曜討論",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035101000",
+      "pubDate": "Sun, 25 Jan 2026 15:19:36 +0900"
+    },
+    {
+      "title": "大雪ピーク過ぎるも北日本など雪強まる見込み 交通影響に警戒",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
+      "pubDate": "Sun, 25 Jan 2026 19:08:35 +0900"
+    },
+    {
+      "title": "東大大学院教授収賄疑い 教授ら法人側にみずから接待を要求か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035401000",
+      "pubDate": "Sun, 25 Jan 2026 19:29:44 +0900"
+    },
+    {
+      "title": "【大雪被害】新潟 男性死亡 雪下ろしで転落か 各地でけが人も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035191000",
+      "pubDate": "Sun, 25 Jan 2026 19:19:21 +0900"
     },
     {
       "title": "大相撲初場所 安青錦が2場所連続優勝 新大関の優勝は20年ぶり",
@@ -18,24 +33,9 @@
       "pubDate": "Sun, 25 Jan 2026 17:55:29 +0900"
     },
     {
-      "title": "大雪ピーク過ぎるも北日本など雪強まる見込み 交通影響に警戒",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035001000",
-      "pubDate": "Sun, 25 Jan 2026 19:08:35 +0900"
-    },
-    {
-      "title": "【大雪被害】新潟 男性死亡 雪下ろしで転落か 各地でけが人も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035191000",
-      "pubDate": "Sun, 25 Jan 2026 19:19:21 +0900"
-    },
-    {
       "title": "おもちゃの拳銃 警察庁“認識なければ検挙せず回収を”通達",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035291000",
       "pubDate": "Sun, 25 Jan 2026 19:31:15 +0900"
-    },
-    {
-      "title": "衆院選あさって公示 与野党が消費税の扱いなど議論 日曜討論",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035101000",
-      "pubDate": "Sun, 25 Jan 2026 15:19:36 +0900"
     }
   ]
 }
