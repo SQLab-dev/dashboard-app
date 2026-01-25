@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T20:43:56.061Z",
+  "updated": "2026-01-25T20:56:04.826Z",
   "items": [
     {
       "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035571000",
       "pubDate": "Mon, 26 Jan 2026 05:01:15 +0900"
+    },
+    {
+      "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035611000",
+      "pubDate": "Mon, 26 Jan 2026 05:51:11 +0900"
     },
     {
       "title": "衆議院選挙あす公示 高市政権の政策の是非など争点に選挙戦へ",
@@ -31,11 +36,6 @@
       "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015032001000",
       "pubDate": "Sun, 25 Jan 2026 23:55:30 +0900"
-    },
-    {
-      "title": "大相撲初場所 安青錦が2場所連続優勝 新大関の優勝は20年ぶり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035361000",
-      "pubDate": "Sun, 25 Jan 2026 21:13:45 +0900"
     }
   ]
 }
