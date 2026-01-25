@@ -1,26 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T21:48:43.850Z",
+  "updated": "2026-01-25T21:58:57.246Z",
   "items": [
-    {
-      "title": "【地震速報】茨城 日立で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035621000",
-      "pubDate": "Mon, 26 Jan 2026 06:33:27 +0900"
-    },
     {
       "title": "青森 スノーモービル乗るため入山の約10人と連絡取れず 遭難か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035571000",
       "pubDate": "Mon, 26 Jan 2026 06:13:56 +0900"
-    },
-    {
-      "title": "日本海側で平年を大幅に上回る積雪 交通影響などに十分注意を",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035521000",
-      "pubDate": "Mon, 26 Jan 2026 06:11:30 +0900"
-    },
-    {
-      "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035611000",
-      "pubDate": "Mon, 26 Jan 2026 05:51:11 +0900"
     },
     {
       "title": "衆議院選挙あす公示 高市政権の政策の是非など争点に選挙戦へ",
@@ -28,14 +13,29 @@
       "pubDate": "Mon, 26 Jan 2026 04:44:11 +0900"
     },
     {
-      "title": "東大大学院教授収賄疑い 教授ら2人 10万円超の手土産も受領か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035501000",
-      "pubDate": "Mon, 26 Jan 2026 05:15:52 +0900"
+      "title": "福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015032001000",
+      "pubDate": "Sun, 25 Jan 2026 23:55:30 +0900"
     },
     {
-      "title": "FRB 利下げ見送りの見方強まる パウエル議長の会見に注目",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035431000",
-      "pubDate": "Mon, 26 Jan 2026 06:21:07 +0900"
+      "title": "秋田新幹線 倒木で一部区間で運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035631000",
+      "pubDate": "Mon, 26 Jan 2026 06:50:53 +0900"
+    },
+    {
+      "title": "日本海側で平年を大幅に上回る積雪 交通影響などに十分注意を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035521000",
+      "pubDate": "Mon, 26 Jan 2026 06:11:30 +0900"
+    },
+    {
+      "title": "高知 JR特急の車内で乗客が車掌の手を切りつける 男を逮捕",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035601000",
+      "pubDate": "Mon, 26 Jan 2026 06:53:39 +0900"
+    },
+    {
+      "title": "円相場 一時1ドル154円台に 日米協調による市場介入へ警戒感",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035611000",
+      "pubDate": "Mon, 26 Jan 2026 05:51:11 +0900"
     }
   ]
 }
