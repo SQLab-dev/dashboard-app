@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-25T03:58:10.903Z",
+  "updated": "2026-01-25T04:55:40.667Z",
   "items": [
     {
       "title": "衆院選あさって公示 与野党が訴えたい政策は 日曜討論",
@@ -13,9 +13,14 @@
       "pubDate": "Sun, 25 Jan 2026 12:03:16 +0900"
     },
     {
+      "title": "上野動物園の双子パンダ 最後の観覧日 多くのファン別れ惜しむ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035201000",
+      "pubDate": "Sun, 25 Jan 2026 13:03:51 +0900"
+    },
+    {
       "title": "【大雪 交通影響 12:00現在】東海道新幹線遅れ 高速道通行止め",
       "link": "https://news.web.nhk/newsweb/na/na-k10015034441000",
-      "pubDate": "Sun, 25 Jan 2026 12:08:46 +0900"
+      "pubDate": "Sun, 25 Jan 2026 13:41:15 +0900"
     },
     {
       "title": "【大雪被害】石川 車のスリップ事故32件 9人けが(～25日8時)",
@@ -23,19 +28,14 @@
       "pubDate": "Sun, 25 Jan 2026 12:54:03 +0900"
     },
     {
-      "title": "新潟 田上町 軽乗用車が線路内を走行 電車が追突 雪の影響か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035041000",
-      "pubDate": "Sun, 25 Jan 2026 05:43:29 +0900"
-    },
-    {
       "title": "東大大学院教授収賄疑い 別の医師も約190万円相当接待受けたか",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035141000",
       "pubDate": "Sun, 25 Jan 2026 11:35:37 +0900"
     },
     {
-      "title": "兵庫 姫路 会社員殺害事件 “容疑者前日に下見か” 防犯カメラ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035161000",
-      "pubDate": "Sun, 25 Jan 2026 11:55:44 +0900"
+      "title": "ゼレンスキー大統領 3か国協議「建設的だった」次回は2月1日",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035151000",
+      "pubDate": "Sun, 25 Jan 2026 12:05:44 +0900"
     }
   ]
 }
