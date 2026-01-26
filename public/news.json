@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-26T22:12:14.262Z",
+  "updated": "2026-01-26T22:41:47.277Z",
   "items": [
     {
       "title": "衆議院選挙 きょう公示 12日間の選挙戦へ",
@@ -23,6 +23,11 @@
       "pubDate": "Tue, 27 Jan 2026 06:47:53 +0900"
     },
     {
+      "title": "大雪影響 新千歳空港で足止め 約2000人が空港内で一夜明かす",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015036351000",
+      "pubDate": "Tue, 27 Jan 2026 07:08:11 +0900"
+    },
+    {
       "title": "日本海側中心に平年大幅に上回る積雪 除雪中の事故に注意",
       "link": "https://news.web.nhk/newsweb/na/na-k10015036191000",
       "pubDate": "Tue, 27 Jan 2026 06:42:54 +0900"
@@ -31,11 +36,6 @@
       "title": "7ケタ英数字「デジタルアドレス」普及へ 新団体が発足",
       "link": "https://news.web.nhk/newsweb/na/na-k10015036171000",
       "pubDate": "Tue, 27 Jan 2026 06:42:09 +0900"
-    },
-    {
-      "title": "上野動物園の双子のパンダ きょう中国へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015036211000",
-      "pubDate": "Tue, 27 Jan 2026 06:26:37 +0900"
     }
   ]
 }
