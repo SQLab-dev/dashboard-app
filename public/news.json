@@ -1,11 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-26T05:50:59.025Z",
+  "updated": "2026-01-26T06:20:26.485Z",
   "items": [
+    {
+      "title": "北海道 記録的大雪 新千歳空港ではJRが運転再開も混雑続く",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035581000",
+      "pubDate": "Mon, 26 Jan 2026 15:17:27 +0900"
+    },
+    {
+      "title": "政府 衆院選に今年度予算の予備費から855億円余を支出",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035861000",
+      "pubDate": "Mon, 26 Jan 2026 14:57:44 +0900"
+    },
     {
       "title": "北海道 東北で断続的に雪 寒波ピーク過ぎるも影響に十分注意を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035521000",
       "pubDate": "Mon, 26 Jan 2026 12:23:42 +0900"
+    },
+    {
+      "title": "【ライブ】東京電力HD 今後10年間の新たな再建計画 国が認定",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015035661000",
+      "pubDate": "Mon, 26 Jan 2026 14:55:39 +0900"
     },
     {
       "title": "北朝鮮 キム総書記 ロシア派遣の兵士たたえる立像など視察",
@@ -13,29 +28,14 @@
       "pubDate": "Mon, 26 Jan 2026 13:32:46 +0900"
     },
     {
-      "title": "“ルフィ”広域強盗事件 幹部 藤田被告の初公判 開かれる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035791000",
-      "pubDate": "Mon, 26 Jan 2026 13:09:26 +0900"
-    },
-    {
       "title": "円高ドル安急速に進む 株価 一時1100円超の値下がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035651000",
       "pubDate": "Mon, 26 Jan 2026 13:47:01 +0900"
     },
     {
-      "title": "米連邦当局発砲 住民死亡 地元州知事 “取り締まり中止を”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035771000",
-      "pubDate": "Mon, 26 Jan 2026 12:40:09 +0900"
-    },
-    {
       "title": "東大 共同研究めぐる収賄事件 別の46歳医師も書類送検",
       "link": "https://news.web.nhk/newsweb/na/na-k10015035761000",
       "pubDate": "Mon, 26 Jan 2026 11:50:17 +0900"
-    },
-    {
-      "title": "東京電力HD 今後10年間の新たな再建計画 国が認定",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015035661000",
-      "pubDate": "Mon, 26 Jan 2026 11:00:02 +0900"
     }
   ]
 }
