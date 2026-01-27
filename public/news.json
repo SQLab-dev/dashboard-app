@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-27T19:44:17.597Z",
+  "updated": "2026-01-27T19:57:48.367Z",
   "items": [
+    {
+      "title": "衆議院選挙 高市政権の継続か野党側が阻止か 論戦が本格化へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015037211000",
+      "pubDate": "Wed, 28 Jan 2026 04:52:26 +0900"
+    },
     {
       "title": "衆議院選挙公示 選挙戦スタート 各党党首らは何を訴えた？",
       "link": "https://news.web.nhk/newsweb/na/na-k10015036561000",
@@ -28,14 +33,9 @@
       "pubDate": "Wed, 28 Jan 2026 04:28:34 +0900"
     },
     {
-      "title": "ススキノ殺害事件2審「遺体損壊手助けのみ成立」父親 有罪判決",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015037101000",
-      "pubDate": "Tue, 27 Jan 2026 19:54:33 +0900"
-    },
-    {
-      "title": "英首相 28日に訪中し習主席らと会談へ 首相の訪中は8年ぶり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015037231000",
-      "pubDate": "Tue, 27 Jan 2026 23:53:29 +0900"
+      "title": "米トランプ政権 レアアース開発など国が企業経営に関与の動き",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015037171000",
+      "pubDate": "Wed, 28 Jan 2026 04:37:29 +0900"
     }
   ]
 }
