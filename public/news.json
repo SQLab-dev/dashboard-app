@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-27T15:39:08.319Z",
+  "updated": "2026-01-27T15:58:06.330Z",
   "items": [
     {
       "title": "衆院選公示 計1285人が立候補 高市政権継続か 野党が阻止か",
@@ -13,6 +13,11 @@
       "pubDate": "Tue, 27 Jan 2026 23:47:06 +0900"
     },
     {
+      "title": "NY市場 一時1ドル＝152円台まで値上がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015037331000",
+      "pubDate": "Wed, 28 Jan 2026 00:39:22 +0900"
+    },
+    {
       "title": "プロ野球 広島 羽月隆太郎選手 指定薬物使用した疑いで逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015037071000",
       "pubDate": "Tue, 27 Jan 2026 19:52:14 +0900"
@@ -21,11 +26,6 @@
       "title": "上野動物園の双子のパンダ 成田空港を出発 国内のパンダ不在に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015036211000",
       "pubDate": "Tue, 27 Jan 2026 20:42:19 +0900"
-    },
-    {
-      "title": "イラン 反政府デモ始まってから1か月 米の空母派遣に強く反発",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015037181000",
-      "pubDate": "Tue, 27 Jan 2026 23:16:14 +0900"
     },
     {
       "title": "東大病院皮膚科長だった大学院教授らの収賄事件 病院長が辞任",
