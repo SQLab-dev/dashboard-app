@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-28T23:00:13.465Z",
+  "updated": "2026-01-28T23:35:23.389Z",
   "items": [
     {
       "title": "北～西日本の日本海側中心 あすにかけ大雪 交通影響に十分注意",
@@ -8,14 +8,19 @@
       "pubDate": "Thu, 29 Jan 2026 07:48:45 +0900"
     },
     {
-      "title": "米FRB 4会合ぶり利下げ見送り 堅調な経済踏まえ判断か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015038151000",
-      "pubDate": "Thu, 29 Jan 2026 07:05:47 +0900"
+      "title": "FRB議長後任人事 “候補者4人からまだ絞り込めず” 米財務長官",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015038171000",
+      "pubDate": "Thu, 29 Jan 2026 08:29:05 +0900"
     },
     {
-      "title": "衆院選 争点の1つに経済財政政策 各党が具体策打ち出す",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015037981000",
-      "pubDate": "Thu, 29 Jan 2026 05:18:03 +0900"
+      "title": "アマゾン 約1万6000人従業員削減へ 背景にAI導入で組織再編か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015038211000",
+      "pubDate": "Thu, 29 Jan 2026 08:17:39 +0900"
+    },
+    {
+      "title": "金の先物価格 1オンス 初の5400ドル突破 NY商品取引所",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015038121000",
+      "pubDate": "Thu, 29 Jan 2026 08:02:18 +0900"
     },
     {
       "title": "世界最大規模 海賊版サイト摘発 日本の団体が中国の運営者特定",
@@ -28,14 +33,9 @@
       "pubDate": "Thu, 29 Jan 2026 07:04:00 +0900"
     },
     {
-      "title": "首都高 道路清掃入札で談合か 4社に排除措置命令の方針 公取委",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015038091000",
-      "pubDate": "Thu, 29 Jan 2026 02:04:23 +0900"
-    },
-    {
-      "title": "米財務長官 市場介入を否定 「レートチェック」は言及避ける",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015038181000",
-      "pubDate": "Thu, 29 Jan 2026 05:28:42 +0900"
+      "title": "衆院選 争点の1つに経済財政政策 各党が具体策打ち出す",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015037981000",
+      "pubDate": "Thu, 29 Jan 2026 05:18:03 +0900"
     }
   ]
 }
