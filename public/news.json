@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-30T18:51:35.996Z",
+  "updated": "2026-01-30T19:24:16.542Z",
   "items": [
+    {
+      "title": "【地震速報】茨城県水戸市で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040221000",
+      "pubDate": "Sat, 31 Jan 2026 04:10:45 +0900"
+    },
     {
       "title": "米FRB議長後任にウォーシュ氏 FRB元理事 トランプ大統領が指名",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040131000",
@@ -11,11 +16,6 @@
       "title": "羽田空港の強盗未遂事件 被害者が香港到着後に再び強盗被害か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015039611000",
       "pubDate": "Fri, 30 Jan 2026 20:32:54 +0900"
-    },
-    {
-      "title": "【地震速報】石川県七尾市などで震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040171000",
-      "pubDate": "Sat, 31 Jan 2026 02:27:27 +0900"
     },
     {
       "title": "香港 日本人男性約5800万円奪われた強盗事件 現地警察1人逮捕",
