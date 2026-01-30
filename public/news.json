@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-30T14:51:17.293Z",
+  "updated": "2026-01-30T15:22:54.918Z",
   "items": [
     {
       "title": "米FRB議長後任にウォーシュ氏 FRB元理事 トランプ大統領が指名",
@@ -8,9 +8,19 @@
       "pubDate": "Fri, 30 Jan 2026 23:19:48 +0900"
     },
     {
+      "title": "ユーロ圏のGDP伸び率 +0.3％ 市場の予想上回る 去年10月～12月",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040161000",
+      "pubDate": "Fri, 30 Jan 2026 23:41:05 +0900"
+    },
+    {
       "title": "羽田空港の強盗未遂事件 被害者が香港到着後に再び強盗被害か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015039611000",
       "pubDate": "Fri, 30 Jan 2026 20:32:54 +0900"
+    },
+    {
+      "title": "国際NGOトップ 米の対外援助削減「子どもの未来奪われている」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040151000",
+      "pubDate": "Fri, 30 Jan 2026 23:45:24 +0900"
     },
     {
       "title": "香港 日本人男性約5800万円奪われた強盗事件 現地警察1人逮捕",
@@ -23,19 +33,9 @@
       "pubDate": "Fri, 30 Jan 2026 21:16:34 +0900"
     },
     {
-      "title": "ユーロ圏のGDP伸び率 +0.3％ 市場の予想上回る 去年10月～12月",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040161000",
-      "pubDate": "Fri, 30 Jan 2026 23:41:05 +0900"
-    },
-    {
       "title": "北日本～北陸 来週前半にかけ断続的に降雪か 雪崩など十分注意",
       "link": "https://news.web.nhk/newsweb/na/na-k10015039891000",
       "pubDate": "Fri, 30 Jan 2026 19:29:10 +0900"
-    },
-    {
-      "title": "県内総生産 愛知が大阪抜き全国2位の見通し 2023年度の名目",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040061000",
-      "pubDate": "Fri, 30 Jan 2026 21:47:20 +0900"
     }
   ]
 }
