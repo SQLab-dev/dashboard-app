@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-30T19:52:45.383Z",
+  "updated": "2026-01-30T20:20:17.437Z",
   "items": [
     {
       "title": "NY市場 ダウは一時600ドル超値下がり 円安ドル高 金は値下がり",
@@ -8,14 +8,24 @@
       "pubDate": "Sat, 31 Jan 2026 04:28:26 +0900"
     },
     {
-      "title": "【地震速報】茨城県水戸市で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040221000",
-      "pubDate": "Sat, 31 Jan 2026 04:10:45 +0900"
+      "title": "高市首相 きょう英首相と首脳会談 幅広い分野で協力強化確認へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015039941000",
+      "pubDate": "Sat, 31 Jan 2026 04:52:31 +0900"
     },
     {
       "title": "米FRB議長後任にウォーシュ氏 FRB元理事 トランプ大統領が指名",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040131000",
       "pubDate": "Fri, 30 Jan 2026 23:19:48 +0900"
+    },
+    {
+      "title": "児童相談所が対応した子どもへの虐待 22万3600件余 初の減少",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015039551000",
+      "pubDate": "Sat, 31 Jan 2026 04:56:08 +0900"
+    },
+    {
+      "title": "【地震速報】茨城県水戸市で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040221000",
+      "pubDate": "Sat, 31 Jan 2026 04:10:45 +0900"
     },
     {
       "title": "羽田空港の強盗未遂事件 被害者が香港到着後に再び強盗被害か",
@@ -26,16 +36,6 @@
       "title": "香港 日本人男性約5800万円奪われた強盗事件 現地警察1人逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040091000",
       "pubDate": "Fri, 30 Jan 2026 20:45:44 +0900"
-    },
-    {
-      "title": "ユーロ圏のGDP伸び率 +0.3％ 市場の予想上回る 去年10月～12月",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040161000",
-      "pubDate": "Fri, 30 Jan 2026 23:41:05 +0900"
-    },
-    {
-      "title": "違法スカウトのトップ 潜伏先から現金170万円 逃走資金か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040081000",
-      "pubDate": "Fri, 30 Jan 2026 21:16:34 +0900"
     }
   ]
 }
