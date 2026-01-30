@@ -1,21 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-30T17:57:18.504Z",
+  "updated": "2026-01-30T18:51:35.996Z",
   "items": [
-    {
-      "title": "【地震速報】石川県七尾市などで震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040171000",
-      "pubDate": "Sat, 31 Jan 2026 02:27:27 +0900"
-    },
     {
       "title": "米FRB議長後任にウォーシュ氏 FRB元理事 トランプ大統領が指名",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040131000",
       "pubDate": "Fri, 30 Jan 2026 23:19:48 +0900"
-    },
-    {
-      "title": "ユーロ圏のGDP伸び率 +0.3％ 市場の予想上回る 去年10月～12月",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040161000",
-      "pubDate": "Fri, 30 Jan 2026 23:41:05 +0900"
     },
     {
       "title": "羽田空港の強盗未遂事件 被害者が香港到着後に再び強盗被害か",
@@ -23,14 +13,24 @@
       "pubDate": "Fri, 30 Jan 2026 20:32:54 +0900"
     },
     {
-      "title": "国際NGOトップ 米の対外援助削減「子どもの未来奪われている」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040151000",
-      "pubDate": "Fri, 30 Jan 2026 23:45:24 +0900"
+      "title": "【地震速報】石川県七尾市などで震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040171000",
+      "pubDate": "Sat, 31 Jan 2026 02:27:27 +0900"
     },
     {
       "title": "香港 日本人男性約5800万円奪われた強盗事件 現地警察1人逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040091000",
       "pubDate": "Fri, 30 Jan 2026 20:45:44 +0900"
+    },
+    {
+      "title": "ユーロ圏のGDP伸び率 +0.3％ 市場の予想上回る 去年10月～12月",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040161000",
+      "pubDate": "Fri, 30 Jan 2026 23:41:05 +0900"
+    },
+    {
+      "title": "国際NGOトップ 米の対外援助削減「子どもの未来奪われている」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040151000",
+      "pubDate": "Fri, 30 Jan 2026 23:45:24 +0900"
     },
     {
       "title": "違法スカウトのトップ 潜伏先から現金170万円 逃走資金か",
