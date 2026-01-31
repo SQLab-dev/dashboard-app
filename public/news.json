@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-31T05:54:00.914Z",
+  "updated": "2026-01-31T06:33:15.346Z",
   "items": [
+    {
+      "title": "北海道 漁船遭難 新たに1人の死亡確認 残る2人の捜索続く",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040401000",
+      "pubDate": "Sat, 31 Jan 2026 14:56:37 +0900"
+    },
+    {
+      "title": "米のキューバに石油供給する国への関税 メキシコ大統領が懸念",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040291000",
+      "pubDate": "Sat, 31 Jan 2026 15:03:39 +0900"
+    },
     {
       "title": "香港 約5800万円強盗事件 日本人3人含む6人逮捕 現地警察",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040421000",
-      "pubDate": "Sat, 31 Jan 2026 13:01:06 +0900"
+      "pubDate": "Sat, 31 Jan 2026 15:13:23 +0900"
     },
     {
       "title": "羽田空港の強盗未遂事件 逃げた白い車に偽造ナンバープレート",
@@ -13,29 +23,19 @@
       "pubDate": "Sat, 31 Jan 2026 12:04:33 +0900"
     },
     {
+      "title": "日本と韓国の往来 去年1年間1300万人超す 過去最多",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040471000",
+      "pubDate": "Sat, 31 Jan 2026 15:04:51 +0900"
+    },
+    {
       "title": "長野 東御で住宅火災 3人の遺体見つかる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040411000",
       "pubDate": "Sat, 31 Jan 2026 12:11:59 +0900"
     },
     {
-      "title": "北海道せたな町 漁船遭難 新たに男性1人発見も心肺停止",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040401000",
-      "pubDate": "Sat, 31 Jan 2026 12:11:01 +0900"
-    },
-    {
       "title": "青森で男性死亡 落雪か 秋田で女性死亡 雪下ろし中に転落か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040361000",
       "pubDate": "Sat, 31 Jan 2026 11:46:17 +0900"
-    },
-    {
-      "title": "石川 白山 衆議院選挙の期日前投票所 大型商業施設に開設",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040381000",
-      "pubDate": "Sat, 31 Jan 2026 12:04:59 +0900"
-    },
-    {
-      "title": "中国 1月の製造業の景況感指数 2か月ぶりに節目下回る",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040391000",
-      "pubDate": "Sat, 31 Jan 2026 12:13:57 +0900"
     }
   ]
 }
