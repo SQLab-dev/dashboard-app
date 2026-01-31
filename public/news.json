@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-01-31T21:28:15.912Z",
+  "updated": "2026-01-31T21:46:44.882Z",
   "items": [
     {
       "title": "香港で奪われた5000万円余 羽田空港で運んでいた現金の一部か",
@@ -11,6 +11,11 @@
       "title": "秋田 大仙 屋根の雪下ろしの作業をしていたとみられる夫婦死亡",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040631000",
       "pubDate": "Sun, 01 Feb 2026 00:54:12 +0900"
+    },
+    {
+      "title": "投票日まで1週間 各党幹部 外国人政策をめぐって論戦交わす",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040661000",
+      "pubDate": "Sun, 01 Feb 2026 06:05:39 +0900"
     },
     {
       "title": "日英首脳会談 サイバー・経済安全保障 連携で一致",
@@ -31,11 +36,6 @@
       "title": "“発電機能備えた有機ELディスプレー用デバイス開発”NHKなど",
       "link": "https://news.web.nhk/newsweb/na/na-k10015039801000",
       "pubDate": "Sun, 01 Feb 2026 05:06:23 +0900"
-    },
-    {
-      "title": "投票日まで1週間 各党幹部 外国人政策をめぐって論戦交わす",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040661000",
-      "pubDate": "Sun, 01 Feb 2026 06:05:39 +0900"
     }
   ]
 }
