@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-01T21:00:59.237Z",
+  "updated": "2026-02-01T21:32:57.008Z",
   "items": [
+    {
+      "title": "衆院選 投票日まで1週間切る 各党党首や幹部 接戦選挙区などに",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041171000",
+      "pubDate": "Mon, 02 Feb 2026 06:12:52 +0900"
+    },
     {
       "title": "日本海側中心に断続的に雪 除雪作業中の死亡事故も 注意を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015040951000",
       "pubDate": "Sun, 01 Feb 2026 22:16:07 +0900"
+    },
+    {
+      "title": "「緊急避妊薬」きょうから処方箋なくても店頭で購入可能に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015040971000",
+      "pubDate": "Mon, 02 Feb 2026 06:00:36 +0900"
     },
     {
       "title": "東京 武蔵野市 8歳と3歳のきょうだい刺され妹が死亡 母親 逮捕",
@@ -13,29 +23,19 @@
       "pubDate": "Sun, 01 Feb 2026 20:38:24 +0900"
     },
     {
-      "title": "衆議院選挙 投票日まで1週間 各党幹部が各地で支持訴える",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040861000",
-      "pubDate": "Sun, 01 Feb 2026 19:36:57 +0900"
-    },
-    {
       "title": "東京23区単身マンションの家賃 去年平均9万6700円上昇傾向続く",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041161000",
       "pubDate": "Mon, 02 Feb 2026 05:36:06 +0900"
     },
     {
-      "title": "イスラエル ラファ検問所再開 通行はガザ地区のけが人など限定",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041181000",
-      "pubDate": "Mon, 02 Feb 2026 05:18:27 +0900"
-    },
-    {
-      "title": "東京 台東区の4億円強奪と羽田空港の強盗未遂 実行役は別人か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041041000",
-      "pubDate": "Sun, 01 Feb 2026 16:55:15 +0900"
-    },
-    {
       "title": "企業の75％ 業務にAI活用 5年前11％から大きく増加 財務省調査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041151000",
       "pubDate": "Mon, 02 Feb 2026 05:42:27 +0900"
+    },
+    {
+      "title": "イスラエル ラファ検問所再開 通行はガザ地区のけが人など限定",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041181000",
+      "pubDate": "Mon, 02 Feb 2026 05:18:27 +0900"
     }
   ]
 }
