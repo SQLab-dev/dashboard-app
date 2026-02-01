@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-01T07:53:01.353Z",
+  "updated": "2026-02-01T08:24:16.373Z",
   "items": [
+    {
+      "title": "東京 台東区の4億円強奪と羽田空港の強盗未遂 実行役は別人か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041041000",
+      "pubDate": "Sun, 01 Feb 2026 16:55:15 +0900"
+    },
     {
       "title": "東京 武蔵野市 刺されるなどして子ども２人搬送 母親逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041011000",
       "pubDate": "Sun, 01 Feb 2026 16:36:02 +0900"
+    },
+    {
+      "title": "富山 スキー場のリフト停止 約200人救助 けが人なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041071000",
+      "pubDate": "Sun, 01 Feb 2026 17:13:23 +0900"
     },
     {
       "title": "与野党11党の党首らが論戦 消費税減税は 財源は 日曜討論",
@@ -23,19 +33,9 @@
       "pubDate": "Sun, 01 Feb 2026 12:52:26 +0900"
     },
     {
-      "title": "ドジャース 大谷翔平 WBC“まずは指名打者として準備したい”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040901000",
-      "pubDate": "Sun, 01 Feb 2026 12:08:50 +0900"
-    },
-    {
-      "title": "トランプ大統領 “イランは核兵器保有につながらない合意を”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041001000",
-      "pubDate": "Sun, 01 Feb 2026 15:54:24 +0900"
-    },
-    {
-      "title": "米移民税関捜査局職員の五輪派遣 ミラノで市民が抗議デモ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015040991000",
-      "pubDate": "Sun, 01 Feb 2026 15:05:07 +0900"
+      "title": "卓球 ダブルスの全日本選手権 張本美和が史上初の4冠達成",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041021000",
+      "pubDate": "Sun, 01 Feb 2026 16:08:10 +0900"
     }
   ]
 }
