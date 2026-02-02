@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-02T10:58:08.723Z",
+  "updated": "2026-02-02T11:39:35.731Z",
   "items": [
     {
       "title": "青森 記録的大雪 “命の危機が目前に迫る” 陸自が活動開始",
@@ -23,11 +23,6 @@
       "pubDate": "Mon, 02 Feb 2026 19:00:16 +0900"
     },
     {
-      "title": "【動画】気象予報士解説 今後の雪の見通しは(2日19時)",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041841000",
-      "pubDate": "Mon, 02 Feb 2026 19:40:12 +0900"
-    },
-    {
       "title": "三井住友とみずほFG 9か月間の決算 最終利益1兆円超 過去最高",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041851000",
       "pubDate": "Mon, 02 Feb 2026 19:09:22 +0900"
@@ -36,6 +31,11 @@
       "title": "群馬 信用金庫に拳銃のようなもの持った男 200万円奪い逃走",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041681000",
       "pubDate": "Mon, 02 Feb 2026 18:24:03 +0900"
+    },
+    {
+      "title": "バスケットボール 男子日本代表 ホーバスヘッドコーチ契約終了",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041871000",
+      "pubDate": "Mon, 02 Feb 2026 20:14:03 +0900"
     }
   ]
 }
