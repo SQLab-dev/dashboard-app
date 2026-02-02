@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-02T17:06:47.475Z",
+  "updated": "2026-02-02T17:56:12.983Z",
   "items": [
     {
       "title": "青森 記録的大雪 “命の危機が目前に迫る” 陸自が活動開始",
@@ -8,19 +8,9 @@
       "pubDate": "Mon, 02 Feb 2026 18:45:27 +0900"
     },
     {
-      "title": "羽田空港 強盗未遂 犯人が乗り捨てたか 白い車 厚木市内で発見",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041431000",
-      "pubDate": "Mon, 02 Feb 2026 19:15:47 +0900"
-    },
-    {
-      "title": "南鳥島沖 水深約5700mの海底からレアアース含む泥の採掘に成功",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041381000",
-      "pubDate": "Mon, 02 Feb 2026 17:34:56 +0900"
-    },
-    {
-      "title": "衆院選「必ず行く・期日前投票した」63％ 内閣・政党支持率は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041351000",
-      "pubDate": "Mon, 02 Feb 2026 19:00:16 +0900"
+      "title": "衆院選 投票日まで残り5日 各党が重点選挙区を絞り支持拡大へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041961000",
+      "pubDate": "Tue, 03 Feb 2026 02:31:22 +0900"
     },
     {
       "title": "衆院選 2月1日までに期日前投票456万人余 前回比約12万人減",
@@ -28,9 +18,19 @@
       "pubDate": "Mon, 02 Feb 2026 20:57:34 +0900"
     },
     {
-      "title": "ニデックTOBめぐりインサイダー取引か 証券会社元取締役ら逮捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041521000",
-      "pubDate": "Mon, 02 Feb 2026 20:48:36 +0900"
+      "title": "国内の金の小売価格 大幅下落 1グラム当たり2万6000円台に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041511000",
+      "pubDate": "Mon, 02 Feb 2026 23:41:37 +0900"
+    },
+    {
+      "title": "南鳥島沖 水深約5700mの海底からレアアース含む泥の採掘に成功",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041381000",
+      "pubDate": "Mon, 02 Feb 2026 17:34:56 +0900"
+    },
+    {
+      "title": "羽田空港 強盗未遂 犯人が乗り捨てたか 白い車 厚木市内で発見",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041431000",
+      "pubDate": "Mon, 02 Feb 2026 19:15:47 +0900"
     },
     {
       "title": "群馬 信用金庫に拳銃のようなもの持った男 200万円奪い逃走",
