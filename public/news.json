@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-02T08:59:09.706Z",
+  "updated": "2026-02-02T10:01:21.336Z",
   "items": [
+    {
+      "title": "青森 記録的大雪 “命の危機が目前に迫る” 陸自が活動開始",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041211000",
+      "pubDate": "Mon, 02 Feb 2026 18:45:27 +0900"
+    },
     {
       "title": "南鳥島沖 水深約5700mの海底からレアアース含む泥の採掘に成功",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041381000",
       "pubDate": "Mon, 02 Feb 2026 17:34:56 +0900"
+    },
+    {
+      "title": "円相場 1円以上円安ドル高 米利下げペース不透明観測などで",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041291000",
+      "pubDate": "Mon, 02 Feb 2026 18:42:40 +0900"
     },
     {
       "title": "香港 約5100万円強盗事件 日本人含む4人 強盗共謀の罪で初公判",
@@ -13,14 +23,9 @@
       "pubDate": "Mon, 02 Feb 2026 17:56:10 +0900"
     },
     {
-      "title": "東京電力HD 新たな提携先の募集を開始 再建計画の柱",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041771000",
-      "pubDate": "Mon, 02 Feb 2026 17:17:53 +0900"
-    },
-    {
-      "title": "群馬 桐生 信用金庫で強盗 数百万円奪う 不審な箱を残して逃走",
+      "title": "群馬 信用金庫に拳銃のようなもの持った男 200万円奪い逃走",
       "link": "https://news.web.nhk/newsweb/na/na-k10015041681000",
-      "pubDate": "Mon, 02 Feb 2026 16:41:05 +0900"
+      "pubDate": "Mon, 02 Feb 2026 18:24:03 +0900"
     },
     {
       "title": "カルビー “6月から値上げ” ポテトチップスなど17品目",
@@ -28,14 +33,9 @@
       "pubDate": "Mon, 02 Feb 2026 17:23:55 +0900"
     },
     {
-      "title": "“盗撮ハンター” 恐喝容疑で逮捕 2000万円超脅し取った疑いも",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041561000",
-      "pubDate": "Mon, 02 Feb 2026 14:05:20 +0900"
-    },
-    {
-      "title": "「非正規春闘」始まる 全国の約4万人が10％以上の賃上げ求める",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015041721000",
-      "pubDate": "Mon, 02 Feb 2026 16:38:24 +0900"
+      "title": "グーグル日本法人元派遣社員を逮捕 うそ内容のメール送ったか",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015041801000",
+      "pubDate": "Mon, 02 Feb 2026 17:53:39 +0900"
     }
   ]
 }
