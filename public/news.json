@@ -1,11 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-04T05:48:01.581Z",
+  "updated": "2026-02-04T06:33:12.823Z",
   "items": [
+    {
+      "title": "茨城 日立 高校生8人が車にはねられてけがか",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015043241000",
+      "pubDate": "Wed, 04 Feb 2026 15:20:55 +0900"
+    },
     {
       "title": "各地で気温上昇  落雪や雪崩 除雪中の事故など十分注意",
       "link": "https://news.web.nhk/newsweb/na/na-k10015043041000",
       "pubDate": "Wed, 04 Feb 2026 11:57:51 +0900"
+    },
+    {
+      "title": "北朝鮮 党大会へ大規模パレード準備か 衛星画像が捉える",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015043211000",
+      "pubDate": "Wed, 04 Feb 2026 15:08:22 +0900"
+    },
+    {
+      "title": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015042961000",
+      "pubDate": "Wed, 04 Feb 2026 14:55:51 +0900"
     },
     {
       "title": "退職代行事件 弁護士側と覚書交わし3年前から依頼者を紹介か",
@@ -18,24 +33,9 @@
       "pubDate": "Wed, 04 Feb 2026 13:31:25 +0900"
     },
     {
-      "title": "安倍元首相銃撃事件 山上被告の弁護団が控訴 判決不服として",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015043001000",
-      "pubDate": "Wed, 04 Feb 2026 10:23:38 +0900"
-    },
-    {
-      "title": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015042961000",
-      "pubDate": "Wed, 04 Feb 2026 11:32:09 +0900"
-    },
-    {
-      "title": "神奈川県 黒岩知事 慢性硬膜下血腫で手術のため入院",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015043201000",
-      "pubDate": "Wed, 04 Feb 2026 14:42:48 +0900"
-    },
-    {
-      "title": "NBA レイカーズ 八村塁 途中出場で5得点 チームは快勝",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015043171000",
-      "pubDate": "Wed, 04 Feb 2026 14:28:07 +0900"
+      "title": "ザトウクジラの赤ちゃん 八丈島沖で初確認 繁殖海域北上か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015043161000",
+      "pubDate": "Wed, 04 Feb 2026 15:09:25 +0900"
     }
   ]
 }
