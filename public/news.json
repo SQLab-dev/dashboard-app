@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-05T18:28:53.693Z",
+  "updated": "2026-02-05T19:22:49.075Z",
   "items": [
+    {
+      "title": "トランプ大統領 “高市首相と3月19日にホワイトハウスで会談”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015044541000",
+      "pubDate": "Fri, 06 Feb 2026 03:36:28 +0900"
+    },
     {
       "title": "北海道で6日は「ホワイトアウト」のおそれ 交通影響に警戒を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015043741000",
@@ -21,11 +26,6 @@
       "title": "TSMC 3ナノ先端半導体 熊本で生産へ 性能や用途は 詳しく",
       "link": "https://news.web.nhk/newsweb/na/na-k10015043901000",
       "pubDate": "Thu, 05 Feb 2026 18:02:35 +0900"
-    },
-    {
-      "title": "埼玉 越谷 男子高校生 道路脇で倒れ死亡 ひき逃げ事件で捜査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015044281000",
-      "pubDate": "Thu, 05 Feb 2026 17:57:39 +0900"
     },
     {
       "title": "インフルエンザ 東京都の患者数 前週の倍近くに B型が増加",
