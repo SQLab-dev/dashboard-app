@@ -1,16 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-06T07:57:17.897Z",
+  "updated": "2026-02-06T08:51:51.187Z",
   "items": [
+    {
+      "title": "KDDI子会社で架空取引 累計で売上高2460億円を過大計上か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045061000",
+      "pubDate": "Fri, 06 Feb 2026 17:10:53 +0900"
+    },
+    {
+      "title": "スーパーのコメ平均価格 5キロ4194円 2週ぶり値上がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045101000",
+      "pubDate": "Fri, 06 Feb 2026 17:37:51 +0900"
+    },
+    {
+      "title": "【上空映像】埼玉 秩父 山林火災 県が自衛隊に災害派遣を要請",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015044841000",
+      "pubDate": "Fri, 06 Feb 2026 15:21:01 +0900"
+    },
     {
       "title": "北海道で猛吹雪 土日は関東などの平地でも積雪のおそれ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015044601000",
       "pubDate": "Fri, 06 Feb 2026 15:25:09 +0900"
-    },
-    {
-      "title": "エンゲル係数44年ぶりの高水準 食料品値上がり背景に 家計調査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015044651000",
-      "pubDate": "Fri, 06 Feb 2026 14:06:42 +0900"
     },
     {
       "title": "トヨタ 新社長に近健太氏 佐藤社長は副会長に",
@@ -18,24 +28,14 @@
       "pubDate": "Fri, 06 Feb 2026 15:10:36 +0900"
     },
     {
-      "title": "インフルエンザ患者数 前週の倍近くに 4週連続で増加",
+      "title": "インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める",
       "link": "https://news.web.nhk/newsweb/na/na-k10015045001000",
-      "pubDate": "Fri, 06 Feb 2026 16:27:57 +0900"
+      "pubDate": "Fri, 06 Feb 2026 17:09:43 +0900"
     },
     {
       "title": "アレルギーの表示義務 新たに「カシューナッツ」追加",
       "link": "https://news.web.nhk/newsweb/na/na-k10015045031000",
       "pubDate": "Fri, 06 Feb 2026 16:30:11 +0900"
-    },
-    {
-      "title": "北海道 函館 投票所敷地内にヒグマ足跡 8日にハンター出動へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045021000",
-      "pubDate": "Fri, 06 Feb 2026 16:15:34 +0900"
-    },
-    {
-      "title": "埼玉 秩父 山林火災 県が自衛隊に災害派遣を要請",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015044841000",
-      "pubDate": "Fri, 06 Feb 2026 15:21:01 +0900"
     }
   ]
 }
