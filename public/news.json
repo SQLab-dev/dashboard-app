@@ -1,16 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-06T15:52:09.986Z",
+  "updated": "2026-02-06T16:33:04.273Z",
   "items": [
+    {
+      "title": "【地震速報】栃木 群馬 埼玉で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015042681000",
+      "pubDate": "Sat, 07 Feb 2026 01:20:03 +0900"
+    },
     {
       "title": "北海道で猛吹雪 7日から日本海側中心に大雪 太平洋側で積雪も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015044601000",
       "pubDate": "Fri, 06 Feb 2026 23:33:49 +0900"
-    },
-    {
-      "title": "太平洋側中心に少雨続く 関東のダムで貯水率低下 過去最低も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045051000",
-      "pubDate": "Fri, 06 Feb 2026 17:39:10 +0900"
     },
     {
       "title": "滋賀 5つの介護施設の65人がノロウイルスによる食中毒 1人死亡",
@@ -18,9 +18,9 @@
       "pubDate": "Sat, 07 Feb 2026 00:07:42 +0900"
     },
     {
-      "title": "パキスタン首都のモスクで爆発 31人死亡 169人けが 自爆テロか",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045251000",
-      "pubDate": "Fri, 06 Feb 2026 21:00:05 +0900"
+      "title": "NYダウ 一時900ドル余値上がり 取り引き時間中の最高値更新",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045441000",
+      "pubDate": "Sat, 07 Feb 2026 01:16:39 +0900"
     },
     {
       "title": "大川原化工機えん罪事件 警視庁 当時の幹部ら3人に負担求める",
