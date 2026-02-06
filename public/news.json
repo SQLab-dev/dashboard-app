@@ -1,26 +1,31 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-06T03:59:00.524Z",
+  "updated": "2026-02-06T05:18:55.137Z",
   "items": [
+    {
+      "title": "トヨタ自動車 新社長に近健太氏 佐藤恒治社長は副会長に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015044941000",
+      "pubDate": "Fri, 06 Feb 2026 14:07:13 +0900"
+    },
     {
       "title": "北海道で猛吹雪 土日は関東などの平地でも積雪のおそれ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015044601000",
-      "pubDate": "Fri, 06 Feb 2026 12:43:21 +0900"
+      "pubDate": "Fri, 06 Feb 2026 14:05:01 +0900"
     },
     {
-      "title": "食料品値上がりでエンゲル係数44年ぶりの高水準 家計調査",
+      "title": "エンゲル係数44年ぶりの高水準 食料品値上がり背景に 家計調査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015044651000",
-      "pubDate": "Fri, 06 Feb 2026 11:47:22 +0900"
+      "pubDate": "Fri, 06 Feb 2026 14:06:42 +0900"
     },
     {
       "title": "日本郵便をフリーランス法違反の疑いで調査 公正取引委員会",
       "link": "https://news.web.nhk/newsweb/na/na-k10015044761000",
-      "pubDate": "Fri, 06 Feb 2026 11:25:07 +0900"
+      "pubDate": "Fri, 06 Feb 2026 13:05:36 +0900"
     },
     {
-      "title": "株価 値上がり 値下がりしていた銘柄を買い戻す動き",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015044821000",
-      "pubDate": "Fri, 06 Feb 2026 12:26:09 +0900"
+      "title": "日銀 審議委員 “今後 利上げで物価上昇抑える対応が重要に”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015044871000",
+      "pubDate": "Fri, 06 Feb 2026 13:30:47 +0900"
     },
     {
       "title": "【動画】気象予報士解説 今後の雪の見通しは(6日正午前)",
@@ -31,11 +36,6 @@
       "title": "栃木県立高校男子生徒を傷害疑いで書類送検 SNSで動画拡散",
       "link": "https://news.web.nhk/newsweb/na/na-k10015044791000",
       "pubDate": "Fri, 06 Feb 2026 12:17:58 +0900"
-    },
-    {
-      "title": "埼玉 秩父で山林火災 消火活動続く",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015044841000",
-      "pubDate": "Fri, 06 Feb 2026 11:58:07 +0900"
     }
   ]
 }
