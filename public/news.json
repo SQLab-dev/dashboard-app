@@ -1,16 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-07T23:24:32.967Z",
+  "updated": "2026-02-07T23:55:08.401Z",
   "items": [
-    {
-      "title": "鳥取県に顕著な大雪に関する情報 鳥取地区 交通影響に厳重警戒",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015046081000",
-      "pubDate": "Sun, 08 Feb 2026 07:32:43 +0900"
-    },
     {
       "title": "鳥取など山陰や近畿北部で雪強まる 東京都心などでも積雪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015046071000",
       "pubDate": "Sun, 08 Feb 2026 08:07:51 +0900"
+    },
+    {
+      "title": "鳥取県に顕著な大雪に関する情報 鳥取地区 交通影響に厳重警戒",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015046081000",
+      "pubDate": "Sun, 08 Feb 2026 07:32:43 +0900"
     },
     {
       "title": "スノーボード 男子ビッグエア 木村葵来が金 木俣椋真が銀 五輪",
@@ -33,9 +33,9 @@
       "pubDate": "Sun, 08 Feb 2026 07:11:09 +0900"
     },
     {
-      "title": "フィギュア団体 男子シングルSP 鍵山優真トップ 日本2位 五輪",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015046061000",
-      "pubDate": "Sun, 08 Feb 2026 06:40:48 +0900"
+      "title": "鳥取 大山町 大雪で投票所に職員到着できず 投票開始繰り下げ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015046131000",
+      "pubDate": "Sun, 08 Feb 2026 08:39:04 +0900"
     }
   ]
 }
