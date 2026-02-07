@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-07T11:58:38.313Z",
+  "updated": "2026-02-07T13:07:44.469Z",
   "items": [
     {
-      "title": "【地震速報】神奈川県西部 山梨東部富士五湖で震度３",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045881000",
-      "pubDate": "Sat, 07 Feb 2026 20:16:07 +0900"
-    },
-    {
-      "title": "日本海側で積雪が急増 東京23区など当初より予想を引き上げ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045311000",
-      "pubDate": "Sat, 07 Feb 2026 20:51:10 +0900"
+      "title": "衆院選 期日前投票は6日まで2079万人余 前回比約436万人増",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045891000",
+      "pubDate": "Sat, 07 Feb 2026 20:59:26 +0900"
     },
     {
       "title": "衆院選 選挙戦最終日 党首の訴えで多く使われたことばは？",
@@ -18,24 +13,29 @@
       "pubDate": "Sat, 07 Feb 2026 18:42:24 +0900"
     },
     {
-      "title": "米ミネソタ州 ICE職員の発砲から1か月 移民支援の動き広がる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045551000",
-      "pubDate": "Sat, 07 Feb 2026 18:13:28 +0900"
+      "title": "日本海側で積雪が急増 東京23区など当初より予想を引き上げ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045311000",
+      "pubDate": "Sat, 07 Feb 2026 20:51:10 +0900"
     },
     {
-      "title": "衆議院選挙投票日は大雪予想 期日前投票所に多くの有権者 鳥取",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045771000",
-      "pubDate": "Sat, 07 Feb 2026 19:12:43 +0900"
+      "title": "スノーボード パラレル大回転 三木つばき “目標は金メダル”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045901000",
+      "pubDate": "Sat, 07 Feb 2026 21:14:20 +0900"
     },
     {
       "title": "【大雪】交通機関への影響は 欠航や高速道路の通行止めも",
       "link": "https://news.web.nhk/newsweb/na/na-k10015045161000",
-      "pubDate": "Sat, 07 Feb 2026 20:52:05 +0900"
+      "pubDate": "Sat, 07 Feb 2026 21:33:51 +0900"
     },
     {
-      "title": "新潟 雪に埋もれ70代女性死亡 除雪中に車庫の屋根の雪落ちたか",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045761000",
-      "pubDate": "Sat, 07 Feb 2026 18:59:00 +0900"
+      "title": "スキー女子スロープスタイル 近藤心音 けが影響で五輪予選棄権",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045871000",
+      "pubDate": "Sat, 07 Feb 2026 21:08:24 +0900"
+    },
+    {
+      "title": "米ミネソタ州 ICE職員の発砲から1か月 移民支援の動き広がる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045551000",
+      "pubDate": "Sat, 07 Feb 2026 18:13:28 +0900"
     }
   ]
 }
