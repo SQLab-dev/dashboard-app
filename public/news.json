@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-07T21:55:20.134Z",
+  "updated": "2026-02-07T22:24:56.583Z",
   "items": [
     {
-      "title": "北陸から山陰にかけて雪強まる 東京都心などでも積雪",
+      "title": "鳥取県に顕著な大雪に関する情報 鳥取地区 交通影響に厳重警戒",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015046081000",
+      "pubDate": "Sun, 08 Feb 2026 07:13:58 +0900"
+    },
+    {
+      "title": "山陰や近畿北部で雪強まる 東京都心などでも積雪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015046071000",
-      "pubDate": "Sun, 08 Feb 2026 06:34:25 +0900"
+      "pubDate": "Sun, 08 Feb 2026 07:04:00 +0900"
     },
     {
       "title": "スノーボード 男子ビッグエア 木村葵来が金 木俣椋真が銀 五輪",
@@ -13,29 +18,24 @@
       "pubDate": "Sun, 08 Feb 2026 06:47:45 +0900"
     },
     {
-      "title": "衆議院選挙 きょう投票日",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045931000",
-      "pubDate": "Sun, 08 Feb 2026 06:02:44 +0900"
+      "title": "【大雪】交通機関への影響は",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015046041000",
+      "pubDate": "Sun, 08 Feb 2026 07:00:03 +0900"
     },
     {
       "title": "スキージャンプ女子ノーマルヒル 丸山希が銅メダル 五輪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015045921000",
-      "pubDate": "Sun, 08 Feb 2026 05:58:11 +0900"
+      "pubDate": "Sun, 08 Feb 2026 07:12:33 +0900"
     },
     {
-      "title": "衆院選投票日 各党が声明など発表",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045941000",
-      "pubDate": "Sun, 08 Feb 2026 06:27:03 +0900"
+      "title": "衆議院選挙 きょう投票日",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045931000",
+      "pubDate": "Sun, 08 Feb 2026 07:11:09 +0900"
     },
     {
       "title": "フィギュア団体 男子シングルSP 鍵山優真トップ 日本2位 五輪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015046061000",
       "pubDate": "Sun, 08 Feb 2026 06:40:48 +0900"
-    },
-    {
-      "title": "【大雪】交通機関への影響は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015046041000",
-      "pubDate": "Sun, 08 Feb 2026 05:53:17 +0900"
     }
   ]
 }
