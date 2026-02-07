@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-07T14:17:56.490Z",
+  "updated": "2026-02-07T14:47:37.748Z",
   "items": [
     {
       "title": "衆院選 期日前投票は6日まで2079万人余 前回比約436万人増",
@@ -23,6 +23,11 @@
       "pubDate": "Sat, 07 Feb 2026 18:42:24 +0900"
     },
     {
+      "title": "アイスホッケー女子 予選リーグ 日本はドイツに敗れる 五輪",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015045951000",
+      "pubDate": "Sat, 07 Feb 2026 23:31:13 +0900"
+    },
+    {
       "title": "スキー女子スロープスタイル 古賀結那は決勝進出ならず 五輪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015045911000",
       "pubDate": "Sat, 07 Feb 2026 22:14:11 +0900"
@@ -31,11 +36,6 @@
       "title": "【大雪】交通機関への影響は 欠航や高速道路の通行止めも",
       "link": "https://news.web.nhk/newsweb/na/na-k10015045161000",
       "pubDate": "Sat, 07 Feb 2026 21:33:51 +0900"
-    },
-    {
-      "title": "スキー女子スロープスタイル 近藤心音 けが影響で五輪予選棄権",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045871000",
-      "pubDate": "Sat, 07 Feb 2026 21:08:24 +0900"
     }
   ]
 }
