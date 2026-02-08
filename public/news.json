@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-08T09:40:43.600Z",
+  "updated": "2026-02-08T09:58:25.656Z",
   "items": [
+    {
+      "title": "衆議院選挙 投票進む 午後4時現在 投票率は21.64％",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015046241000",
+      "pubDate": "Sun, 08 Feb 2026 18:15:09 +0900"
+    },
     {
       "title": "山陰～北陸 積雪急増 都心でも一時5cmの積雪 今後の見通しは？",
       "link": "https://news.web.nhk/newsweb/na/na-k10015046071000",
       "pubDate": "Sun, 08 Feb 2026 14:50:31 +0900"
     },
     {
-      "title": "衆議院選挙 投票進む 午後4時現在 投票率は21.64％",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015046241000",
-      "pubDate": "Sun, 08 Feb 2026 18:15:09 +0900"
+      "title": "衆議院選挙 期日前投票2701万人余 前回より約606万人増 総務省",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015046411000",
+      "pubDate": "Sun, 08 Feb 2026 18:20:36 +0900"
     },
     {
       "title": "東名 新東名高速道路 雪で静岡と神奈川の県境など通行止め",
@@ -21,11 +26,6 @@
       "title": "東京 築地大橋で多重事故 雪影響か パトカーに追突の人物逃走",
       "link": "https://news.web.nhk/newsweb/na/na-k10015046151000",
       "pubDate": "Sun, 08 Feb 2026 15:42:42 +0900"
-    },
-    {
-      "title": "茨城 雪の影響などでスリップ事故が100件以上に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015046271000",
-      "pubDate": "Sun, 08 Feb 2026 12:13:50 +0900"
     },
     {
       "title": "衆議院選挙 SNSで根拠ない情報広がる 開票日以降は特に注意",
