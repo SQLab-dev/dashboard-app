@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-08T23:41:32.981Z",
+  "updated": "2026-02-08T23:59:43.817Z",
   "items": [
     {
       "title": "自民 316議席獲得 単独で3分の2超 中道は49議席【開票結果】",
@@ -11,6 +11,11 @@
       "title": "フィギュア団体 日本が2大会連続の銀 ミラノ・コルティナ五輪",
       "link": "https://news.web.nhk/newsweb/na/na-k10015047151000",
       "pubDate": "Mon, 09 Feb 2026 07:44:59 +0900"
+    },
+    {
+      "title": "ＪＲ宇都宮線 東京と小山間の上下線で運転見合わせ 架線断線で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015047131000",
+      "pubDate": "Mon, 09 Feb 2026 08:46:53 +0900"
     },
     {
       "title": "自民が歴史的圧勝 中道 野田・斉藤両共同代表が辞意表明へ",
@@ -31,11 +36,6 @@
       "title": "東海道新幹線で遅れ 東京駅と新大阪駅では「列車ホテル」も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015047071000",
       "pubDate": "Mon, 09 Feb 2026 04:15:47 +0900"
-    },
-    {
-      "title": "円相場1ドル＝157円台後半に 自民圧勝受け オセアニア外為市場",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015047181000",
-      "pubDate": "Mon, 09 Feb 2026 06:52:24 +0900"
     }
   ]
 }
