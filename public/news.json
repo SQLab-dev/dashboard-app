@@ -1,7 +1,17 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-09T15:33:08.265Z",
+  "updated": "2026-02-09T17:33:09.287Z",
   "items": [
+    {
+      "title": "東名高速と新東名高速 雪の影響による通行止めが解除",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015047871000",
+      "pubDate": "Tue, 10 Feb 2026 01:57:54 +0900"
+    },
+    {
+      "title": "フィギュア団体 銀の日本 “表彰台で靴の刃欠け”組織委に抗議",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015047981000",
+      "pubDate": "Tue, 10 Feb 2026 01:43:26 +0900"
+    },
     {
       "title": "高市首相 衆院選勝利で各国首脳からの祝意に相次ぎ返礼の投稿",
       "link": "https://news.web.nhk/newsweb/na/na-k10015047931000",
@@ -13,29 +23,19 @@
       "pubDate": "Mon, 09 Feb 2026 23:09:24 +0900"
     },
     {
+      "title": "早明浦ダム 貯水率低下 香川と徳島への第1次取水制限 始まる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015047951000",
+      "pubDate": "Tue, 10 Feb 2026 00:18:30 +0900"
+    },
+    {
       "title": "高市首相 “公約実現に向け党一丸で取り組む”【会見動画も】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015047361000",
       "pubDate": "Mon, 09 Feb 2026 19:22:50 +0900"
     },
     {
-      "title": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015047251000",
-      "pubDate": "Mon, 09 Feb 2026 18:13:10 +0900"
-    },
-    {
-      "title": "東名高速や新東名高速などで通行止め続く 雪の影響",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015047461000",
-      "pubDate": "Mon, 09 Feb 2026 18:43:33 +0900"
-    },
-    {
-      "title": "中道 野田・斉藤両共同代表 辞任へ 18日までに代表選挙を実施",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015047301000",
-      "pubDate": "Mon, 09 Feb 2026 16:11:59 +0900"
-    },
-    {
-      "title": "自・維 国対委員長会談 特別国会を来週18日召集の方向で調整",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015047661000",
-      "pubDate": "Mon, 09 Feb 2026 18:03:23 +0900"
+      "title": "ミラノ・コルティナ五輪【速報中】2／9～10タイムライン",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015047771000",
+      "pubDate": "Tue, 10 Feb 2026 00:43:16 +0900"
     }
   ]
 }
