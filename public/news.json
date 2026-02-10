@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-10T07:47:40.235Z",
+  "updated": "2026-02-10T08:33:58.930Z",
   "items": [
+    {
+      "title": "マツダ 9か月間の決算 最終赤字147億円 米関税措置の影響で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015048151000",
+      "pubDate": "Tue, 10 Feb 2026 16:52:08 +0900"
+    },
     {
       "title": "ニデックTOBめぐりインサイダー取引か さらに1人逮捕 東京地検",
       "link": "https://news.web.nhk/newsweb/na/na-k10015048411000",
@@ -28,14 +33,9 @@
       "pubDate": "Tue, 10 Feb 2026 15:35:45 +0900"
     },
     {
-      "title": "米国防総省 NATO統合軍司令部トップのポスト 欧州側に移管へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015048401000",
-      "pubDate": "Tue, 10 Feb 2026 15:29:35 +0900"
-    },
-    {
-      "title": "ドジャース 大谷翔平 山本由伸 佐々木朗希がそろって自主トレ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015048231000",
-      "pubDate": "Tue, 10 Feb 2026 13:48:35 +0900"
+      "title": "NHK放送文化賞に松任谷由実さんなど6人",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015048331000",
+      "pubDate": "Tue, 10 Feb 2026 17:04:44 +0900"
     }
   ]
 }
