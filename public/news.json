@@ -1,26 +1,31 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-11T14:34:16.646Z",
+  "updated": "2026-02-11T15:37:12.142Z",
   "items": [
+    {
+      "title": "米 1月の雇用統計 就業者前月比13万人増 市場予想大きく上回る",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049491000",
+      "pubDate": "Wed, 11 Feb 2026 23:46:13 +0900"
+    },
+    {
+      "title": "NY市場 一時1ドル154円台後半まで値下がり 米雇用統計受け",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049551000",
+      "pubDate": "Thu, 12 Feb 2026 00:11:25 +0900"
+    },
     {
       "title": "福島 喜多方 クマ1頭が住宅に入り中にとどまる 住人にけがなし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015049501000",
       "pubDate": "Wed, 11 Feb 2026 22:45:46 +0900"
     },
     {
-      "title": "米 1月の雇用統計 就業者前月比13万人増 市場予想大きく上回る",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049491000",
-      "pubDate": "Wed, 11 Feb 2026 22:57:45 +0900"
+      "title": "“笑顔の数値化”で認知症疑い判定など 活用期待 研究結果公表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049451000",
+      "pubDate": "Wed, 11 Feb 2026 23:26:39 +0900"
     },
     {
-      "title": "モーグル女子 冨高日向子が決勝へ 藤木 柳本 中尾は準決勝敗退",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049361000",
-      "pubDate": "Wed, 11 Feb 2026 23:10:12 +0900"
-    },
-    {
-      "title": "スノボ女子HP予選 清水さら2位 日本勢4人全員が決勝進出 五輪",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049351000",
-      "pubDate": "Wed, 11 Feb 2026 21:21:17 +0900"
+      "title": "ノルディック複合 個人ノーマルヒル 渡部暁斗は11位 五輪",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049291000",
+      "pubDate": "Thu, 12 Feb 2026 00:10:01 +0900"
     },
     {
       "title": "中道 13日代表選 小川氏と階氏 立候補へ 泉氏“立候補せず”",
@@ -31,11 +36,6 @@
       "title": "“ヘルメットに戦死者写真” IOC 競技の場以外での発信求める",
       "link": "https://news.web.nhk/newsweb/na/na-k10015049441000",
       "pubDate": "Wed, 11 Feb 2026 22:15:58 +0900"
-    },
-    {
-      "title": "フィギュア ナウモフ 旅客機事故で亡くした両親にささぐ演技",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049331000",
-      "pubDate": "Wed, 11 Feb 2026 20:31:26 +0900"
     }
   ]
 }
