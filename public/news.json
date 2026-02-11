@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-11T15:37:12.142Z",
+  "updated": "2026-02-11T16:40:47.296Z",
   "items": [
     {
       "title": "米 1月の雇用統計 就業者前月比13万人増 市場予想大きく上回る",
@@ -13,6 +13,11 @@
       "pubDate": "Thu, 12 Feb 2026 00:11:25 +0900"
     },
     {
+      "title": "女子モーグル 冨高日向子4位 3位と同じ得点もメダル獲得ならず",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049461000",
+      "pubDate": "Thu, 12 Feb 2026 01:25:10 +0900"
+    },
+    {
       "title": "福島 喜多方 クマ1頭が住宅に入り中にとどまる 住人にけがなし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015049501000",
       "pubDate": "Wed, 11 Feb 2026 22:45:46 +0900"
@@ -23,19 +28,14 @@
       "pubDate": "Wed, 11 Feb 2026 23:26:39 +0900"
     },
     {
-      "title": "ノルディック複合 個人ノーマルヒル 渡部暁斗は11位 五輪",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049291000",
-      "pubDate": "Thu, 12 Feb 2026 00:10:01 +0900"
+      "title": "“追悼のヘルメット” IOC 競技の場以外での発信求める",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049441000",
+      "pubDate": "Thu, 12 Feb 2026 00:36:11 +0900"
     },
     {
       "title": "中道 13日代表選 小川氏と階氏 立候補へ 泉氏“立候補せず”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015049121000",
       "pubDate": "Wed, 11 Feb 2026 18:07:52 +0900"
-    },
-    {
-      "title": "“ヘルメットに戦死者写真” IOC 競技の場以外での発信求める",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049441000",
-      "pubDate": "Wed, 11 Feb 2026 22:15:58 +0900"
     }
   ]
 }
