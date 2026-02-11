@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-11T16:40:47.296Z",
+  "updated": "2026-02-11T17:40:23.713Z",
   "items": [
+    {
+      "title": "【地震速報】青森 東通村で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015049581000",
+      "pubDate": "Thu, 12 Feb 2026 02:34:24 +0900"
+    },
     {
       "title": "米 1月の雇用統計 就業者前月比13万人増 市場予想大きく上回る",
       "link": "https://news.web.nhk/newsweb/na/na-k10015049491000",
@@ -31,11 +36,6 @@
       "title": "“追悼のヘルメット” IOC 競技の場以外での発信求める",
       "link": "https://news.web.nhk/newsweb/na/na-k10015049441000",
       "pubDate": "Thu, 12 Feb 2026 00:36:11 +0900"
-    },
-    {
-      "title": "中道 13日代表選 小川氏と階氏 立候補へ 泉氏“立候補せず”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015049121000",
-      "pubDate": "Wed, 11 Feb 2026 18:07:52 +0900"
     }
   ]
 }
