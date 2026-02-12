@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-12T21:19:45.220Z",
+  "updated": "2026-02-12T21:53:38.489Z",
   "items": [
+    {
+      "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015050631000",
+      "pubDate": "Fri, 13 Feb 2026 06:22:46 +0900"
+    },
     {
       "title": "スノーボード女子ハーフパイプ 小野光希が銅メダル【全結果】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015050501000",
@@ -31,11 +36,6 @@
       "title": "水産庁 長崎沖で中国漁船をだ捕 船長を逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015050611000",
       "pubDate": "Fri, 13 Feb 2026 05:47:23 +0900"
-    },
-    {
-      "title": "ヘリコプターで“オーナー商法”か 都内の法人会長ら3人を逮捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015050411000",
-      "pubDate": "Fri, 13 Feb 2026 05:01:00 +0900"
     }
   ]
 }
