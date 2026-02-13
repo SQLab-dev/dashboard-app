@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-13T10:24:57.423Z",
+  "updated": "2026-02-13T11:07:38.184Z",
   "items": [
+    {
+      "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015050631000",
+      "pubDate": "Fri, 13 Feb 2026 14:03:32 +0900"
+    },
     {
       "title": "中道 新代表に小川淳也氏を選出 階猛氏を抑える 立民出身",
       "link": "https://news.web.nhk/newsweb/na/na-k10015050371000",
@@ -18,24 +23,19 @@
       "pubDate": "Fri, 13 Feb 2026 12:28:47 +0900"
     },
     {
-      "title": "15日にかけ各地で気温上昇 積雪多い地域は雪崩や落雪など注意",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015050671000",
-      "pubDate": "Fri, 13 Feb 2026 18:10:40 +0900"
+      "title": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015050791000",
+      "pubDate": "Fri, 13 Feb 2026 19:36:31 +0900"
     },
     {
-      "title": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015051181000",
-      "pubDate": "Fri, 13 Feb 2026 18:20:11 +0900"
+      "title": "筋ジストロフィーの治療薬 保険適用対象に 価格3億円余 中医協",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015051201000",
+      "pubDate": "Fri, 13 Feb 2026 19:54:33 +0900"
     },
     {
-      "title": "東大大学院の元教授らを収賄の罪で起訴 東京地検",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015051221000",
-      "pubDate": "Fri, 13 Feb 2026 19:01:23 +0900"
-    },
-    {
-      "title": "広島地検の検事自殺 国が遺族に1億9400万円の解決金 和解成立",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015051141000",
-      "pubDate": "Fri, 13 Feb 2026 18:45:28 +0900"
+      "title": "兵庫 元局長の私的情報の漏えいに関与か 元総務部長を書類送検",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015051261000",
+      "pubDate": "Fri, 13 Feb 2026 19:38:27 +0900"
     }
   ]
 }
