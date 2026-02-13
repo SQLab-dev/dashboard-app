@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-13T19:06:34.034Z",
+  "updated": "2026-02-13T19:51:40.478Z",
   "items": [
+    {
+      "title": "【速報中】スノーボード男子HP決勝 2回目終了 戸塚1位 山田3位",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015051371000",
+      "pubDate": "Sat, 14 Feb 2026 04:49:44 +0900"
+    },
     {
       "title": "米トランプ政権 自動車排ガス規制撤廃を発表",
       "link": "https://news.web.nhk/newsweb/na/na-k10015050631000",
@@ -23,14 +28,9 @@
       "pubDate": "Fri, 13 Feb 2026 21:39:27 +0900"
     },
     {
-      "title": "【速報中】スノーボード男子HP決勝 1回目 日本勢がトップ3独占",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015051371000",
-      "pubDate": "Sat, 14 Feb 2026 04:03:57 +0900"
-    },
-    {
-      "title": "松山の寺で火事 焼け跡から1人遺体で見つかる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015051501000",
-      "pubDate": "Sat, 14 Feb 2026 00:04:21 +0900"
+      "title": "米 1月の消費者物価指数 前年同月比2.4％上昇",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015051541000",
+      "pubDate": "Sat, 14 Feb 2026 03:01:24 +0900"
     },
     {
       "title": "五輪の“広域開催” 日本選手団の伊東団長「インフラに課題」",
