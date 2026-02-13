@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-13T21:48:21.604Z",
+  "updated": "2026-02-13T22:18:01.354Z",
   "items": [
+    {
+      "title": "【速報中】フィギュア男子シングル 鍵山優真が銀 佐藤駿が銅",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015051571000",
+      "pubDate": "Sat, 14 Feb 2026 07:10:12 +0900"
+    },
     {
       "title": "スノーボード男子HP 戸塚優斗が金 山田琉聖が銅メダル【詳報】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015051371000",
-      "pubDate": "Sat, 14 Feb 2026 06:36:58 +0900"
+      "pubDate": "Sat, 14 Feb 2026 06:52:23 +0900"
     },
     {
       "title": "神奈川県警 不適切な取締り約2700件 巡査部長ら書類送検へ",
@@ -16,11 +21,6 @@
       "title": "中道 小川淳也新代表 新体制発足で党立て直しへ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015051401000",
       "pubDate": "Sat, 14 Feb 2026 05:23:09 +0900"
-    },
-    {
-      "title": "【速報中】フィギュア男子シングル フリー 日本勢は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015051571000",
-      "pubDate": "Sat, 14 Feb 2026 05:57:29 +0900"
     },
     {
       "title": "小泉防衛相 欧州同志国などと連結性高める ミュンヘン安保会議",
