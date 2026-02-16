@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-16T21:57:54.331Z",
+  "updated": "2026-02-16T22:35:56.049Z",
   "items": [
+    {
+      "title": "フィギュア ペア “りくりゅう” 金メダル 日本勢で初 五輪",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015053671000",
+      "pubDate": "Tue, 17 Feb 2026 07:27:15 +0900"
+    },
     {
       "title": "ジャンプ 男子スーパーチーム 日本は6位 雪が強まり競技が中止",
       "link": "https://news.web.nhk/newsweb/na/na-k10015053581000",
-      "pubDate": "Tue, 17 Feb 2026 06:54:28 +0900"
+      "pubDate": "Tue, 17 Feb 2026 07:17:29 +0900"
+    },
+    {
+      "title": "日本が獲得したメダル18個に 過去最多の前回・北京大会に並ぶ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015053681000",
+      "pubDate": "Tue, 17 Feb 2026 07:01:35 +0900"
     },
     {
       "title": "東広島 男性死亡 窓ガラス割られ押し入った人物に襲われたか",
@@ -26,16 +36,6 @@
       "title": "特殊詐欺など国境越えた犯罪対処 日本が東南アジア4か国を支援",
       "link": "https://news.web.nhk/newsweb/na/na-k10015053461000",
       "pubDate": "Tue, 17 Feb 2026 06:04:56 +0900"
-    },
-    {
-      "title": "カーリング女子 日本はカナダに敗れる 予選リーグ通算1勝5敗に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015053651000",
-      "pubDate": "Tue, 17 Feb 2026 06:18:10 +0900"
-    },
-    {
-      "title": "イラン外相 IAEAトップと会談 査察めぐる協力について議論",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015053441000",
-      "pubDate": "Tue, 17 Feb 2026 06:33:49 +0900"
     }
   ]
 }
