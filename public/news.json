@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-16T09:29:28.918Z",
+  "updated": "2026-02-16T10:29:39.457Z",
   "items": [
+    {
+      "title": "東広島 男性死亡「訪ねてきた男に襲われた」殺人事件で捜査",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015053351000",
+      "pubDate": "Mon, 16 Feb 2026 19:01:56 +0900"
+    },
     {
       "title": "みずほ証券を強制調査 社員が株不正取り引き関与の疑い 監視委",
       "link": "https://news.web.nhk/newsweb/na/na-k10015053321000",
@@ -13,29 +18,24 @@
       "pubDate": "Mon, 16 Feb 2026 18:08:21 +0900"
     },
     {
-      "title": "広島 東広島で男性死亡 住宅から火も 殺人事件として捜査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015052931000",
-      "pubDate": "Mon, 16 Feb 2026 12:22:42 +0900"
-    },
-    {
       "title": "大阪 道頓堀 少年3人死傷事件 迷惑行為の注意がきっかけか",
       "link": "https://news.web.nhk/newsweb/na/na-k10015053071000",
       "pubDate": "Mon, 16 Feb 2026 12:14:57 +0900"
     },
     {
-      "title": "関東甲信 夕方以降冷たい雨の見込み 山沿いなどで雪のおそれも",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015053081000",
-      "pubDate": "Mon, 16 Feb 2026 12:40:35 +0900"
+      "title": "「飯塚事件」元死刑囚の執行後の再審認めず 福岡高裁",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015052671000",
+      "pubDate": "Mon, 16 Feb 2026 18:57:13 +0900"
     },
     {
       "title": "アメリカの安全基準満たした車 追加試験せず日本に輸入可能に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015053301000",
-      "pubDate": "Mon, 16 Feb 2026 17:41:12 +0900"
+      "pubDate": "Mon, 16 Feb 2026 18:41:58 +0900"
     },
     {
       "title": "去年10～12月のGDP 年率換算+0.2％ 2期ぶりにプラス",
       "link": "https://news.web.nhk/newsweb/na/na-k10015052891000",
-      "pubDate": "Mon, 16 Feb 2026 10:44:50 +0900"
+      "pubDate": "Mon, 16 Feb 2026 18:40:31 +0900"
     }
   ]
 }
