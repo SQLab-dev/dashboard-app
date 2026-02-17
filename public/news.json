@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-17T15:33:59.990Z",
+  "updated": "2026-02-17T16:35:38.851Z",
   "items": [
+    {
+      "title": "スピードスケート女子パシュート 日本が銅 3大会連続のメダル",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015054651000",
+      "pubDate": "Wed, 18 Feb 2026 00:54:35 +0900"
+    },
+    {
+      "title": "日本のメダル 史上最多19個に 前回・北京大会上回る 五輪",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015054581000",
+      "pubDate": "Wed, 18 Feb 2026 01:00:26 +0900"
+    },
     {
       "title": "フィギュア ペア “りくりゅう”  モーグル 堀島行真 喜び語る",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054551000",
       "pubDate": "Tue, 17 Feb 2026 22:35:40 +0900"
-    },
-    {
-      "title": "スピードスケート女子パシュート 日本は3位決定戦へ 米と対戦",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015054661000",
-      "pubDate": "Wed, 18 Feb 2026 00:01:18 +0900"
     },
     {
       "title": "横浜 鶴見区 住宅火事 5棟燃える 1人けが",
@@ -23,19 +28,14 @@
       "pubDate": "Tue, 17 Feb 2026 21:26:04 +0900"
     },
     {
-      "title": "ノルディック複合 個人ラージヒル 山本涼太 前半ジャンプ1位",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015054481000",
-      "pubDate": "Tue, 17 Feb 2026 20:17:22 +0900"
-    },
-    {
       "title": "東広島 男性死亡事件 首の傷は複数確認 死因は失血死",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054431000",
       "pubDate": "Tue, 17 Feb 2026 22:15:21 +0900"
     },
     {
-      "title": "花粉の飛散予測 平年の約1.3倍に 2月下旬から飛散エリア拡大か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015054011000",
-      "pubDate": "Tue, 17 Feb 2026 19:11:26 +0900"
+      "title": "カーリング女子 日本 予選リーグ敗退決定 通算成績1勝6敗に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015054711000",
+      "pubDate": "Wed, 18 Feb 2026 01:08:53 +0900"
     }
   ]
 }
