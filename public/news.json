@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-17T18:35:25.417Z",
+  "updated": "2026-02-17T19:32:20.181Z",
   "items": [
     {
       "title": "スピードスケート女子パシュート 日本が銅 3大会連続のメダル",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054651000",
       "pubDate": "Wed, 18 Feb 2026 02:18:01 +0900"
+    },
+    {
+      "title": "フィギュア女子SP “AIN”ペトロシアンが2人終えた時点で1位",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015054741000",
+      "pubDate": "Wed, 18 Feb 2026 04:04:56 +0900"
+    },
+    {
+      "title": "フィギュア女子 エース・坂本花織らが競技会場で最終調整",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015054721000",
+      "pubDate": "Wed, 18 Feb 2026 03:46:18 +0900"
     },
     {
       "title": "日本のメダル 史上最多19個に 前回・北京大会上回る 五輪",
@@ -26,16 +36,6 @@
       "title": "東広島 男性死亡事件 首の傷は複数確認 死因は失血死",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054431000",
       "pubDate": "Tue, 17 Feb 2026 22:15:21 +0900"
-    },
-    {
-      "title": "スキーノルディック複合 個人ラージヒル 渡部暁斗は19位 五輪",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015054481000",
-      "pubDate": "Wed, 18 Feb 2026 02:25:48 +0900"
-    },
-    {
-      "title": "フィギュア ペア “りくりゅう”  モーグル 堀島行真 喜び語る",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015054551000",
-      "pubDate": "Tue, 17 Feb 2026 22:35:40 +0900"
     }
   ]
 }
