@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-17T11:50:58.869Z",
+  "updated": "2026-02-17T12:32:17.096Z",
   "items": [
+    {
+      "title": "横浜 鶴見区 住宅火事 5棟燃える 1人けが",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015054561000",
+      "pubDate": "Tue, 17 Feb 2026 21:13:21 +0900"
+    },
     {
       "title": "ノルディック複合 個人ラージヒル 山本涼太 前半ジャンプ1位",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054481000",
@@ -26,11 +31,6 @@
       "title": "アメリカ ジェシー・ジャクソン師死去 公民権運動の指導者",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054491000",
       "pubDate": "Tue, 17 Feb 2026 19:56:58 +0900"
-    },
-    {
-      "title": "イランの核開発などめぐるアメリカとの高官協議 始まる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015054411000",
-      "pubDate": "Tue, 17 Feb 2026 19:32:29 +0900"
     },
     {
       "title": "JR東日本 宇都宮線の架線断線“人為的ミスで別架線張り替え”",
