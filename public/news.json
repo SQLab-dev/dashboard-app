@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-19T16:27:08.735Z",
+  "updated": "2026-02-19T17:29:30.465Z",
   "items": [
     {
       "title": "iPS細胞の再生医療 世界初実用化へ 心臓病 パーキンソン病対象",
@@ -15,7 +15,12 @@
     {
       "title": "ミラノ・コルティナ五輪【速報中】2/19～20 タイムライン",
       "link": "https://news.web.nhk/newsweb/na/na-k10015056581000",
-      "pubDate": "Fri, 20 Feb 2026 00:59:02 +0900"
+      "pubDate": "Fri, 20 Feb 2026 01:31:21 +0900"
+    },
+    {
+      "title": "カーリング女子 日本 中国に勝利 通算成績2勝7敗で大会終える",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015056601000",
+      "pubDate": "Fri, 20 Feb 2026 01:25:40 +0900"
     },
     {
       "title": "「無料で海外旅行」SNSで誘われ 大学生カンボジアで連絡取れず",
@@ -31,11 +36,6 @@
       "title": "福岡 早良区 図書館で人が刺され3人けが 容疑者をその場で逮捕",
       "link": "https://news.web.nhk/newsweb/na/na-k10015056491000",
       "pubDate": "Thu, 19 Feb 2026 22:16:18 +0900"
-    },
-    {
-      "title": "ノルディック複合 団体スプリント 日本6位 渡部五輪最後の種目",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015056391000",
-      "pubDate": "Fri, 20 Feb 2026 00:52:59 +0900"
     }
   ]
 }
