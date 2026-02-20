@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-20T08:47:11.668Z",
+  "updated": "2026-02-20T09:27:42.242Z",
   "items": [
+    {
+      "title": "【ライブ配信中】フィギュア女子 メダリストが会見",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015057261000",
+      "pubDate": "Fri, 20 Feb 2026 17:42:20 +0900"
+    },
     {
       "title": "首相 施政方針演説「責任ある積極財政」など政権公約実現 強調",
       "link": "https://news.web.nhk/newsweb/na/na-k10015057061000",
@@ -23,19 +28,14 @@
       "pubDate": "Fri, 20 Feb 2026 16:31:28 +0900"
     },
     {
-      "title": "幼稚園1クラス30人以下に引き下げ ことし4月から 文部科学省",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015056911000",
-      "pubDate": "Fri, 20 Feb 2026 12:58:29 +0900"
+      "title": "スーパーのコメ平均価格 5キロ4122円 3週ぶり値下がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015057341000",
+      "pubDate": "Fri, 20 Feb 2026 18:25:33 +0900"
     },
     {
-      "title": "ボーイング宇宙船不具合 “最も深刻な事故レベル” NASAが評価",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015056931000",
-      "pubDate": "Fri, 20 Feb 2026 13:15:30 +0900"
-    },
-    {
-      "title": "フィギュア女子 喜びやねぎらいの声 新聞の号外も【国内反応】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015056841000",
-      "pubDate": "Fri, 20 Feb 2026 16:59:33 +0900"
+      "title": "【ライブ予定】躍進のスノーボード メダリストが会見へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015057251000",
+      "pubDate": "Fri, 20 Feb 2026 17:53:27 +0900"
     }
   ]
 }
