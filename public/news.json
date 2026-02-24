@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-24T21:23:42.203Z",
+  "updated": "2026-02-24T21:57:42.701Z",
   "items": [
     {
       "title": "参院代表質問 立民 カタログギフト事実関係など説明求める方針",
@@ -23,6 +23,11 @@
       "pubDate": "Wed, 25 Feb 2026 05:07:45 +0900"
     },
     {
+      "title": "ゼレンスキー大統領 “ロシアとの和平協議 欧州の参加必要”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060051000",
+      "pubDate": "Wed, 25 Feb 2026 06:19:37 +0900"
+    },
+    {
       "title": "カンボジア 日本人15人が現地当局に拘束 特殊詐欺に関与か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060011000",
       "pubDate": "Tue, 24 Feb 2026 23:20:49 +0900"
@@ -31,11 +36,6 @@
       "title": "NTTドコモ 3Gサービス3月末終了へ 他社は利用客取り込みの動き",
       "link": "https://news.web.nhk/newsweb/na/na-k10015059951000",
       "pubDate": "Wed, 25 Feb 2026 05:04:55 +0900"
-    },
-    {
-      "title": "「研究開発税制」昨年度の減税額 初めて1兆円超 財務省が公表",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015059851000",
-      "pubDate": "Wed, 25 Feb 2026 05:06:06 +0900"
     }
   ]
 }
