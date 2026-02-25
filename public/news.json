@@ -1,17 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-25T05:14:17.735Z",
+  "updated": "2026-02-25T06:17:51.240Z",
   "items": [
-    {
-      "title": "【ライブ】フィギュア ペアで初の金“りくりゅう”が会見",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015060331000",
-      "pubDate": "Wed, 25 Feb 2026 13:38:29 +0900"
-    },
-    {
-      "title": "42年前の強盗殺人事件で再審決定 最高裁 無期懲役服役中に死亡",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015060251000",
-      "pubDate": "Wed, 25 Feb 2026 13:08:41 +0900"
-    },
     {
       "title": "高市首相 カタログギフト配付「法令上問題ない」参院代表質問",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060141000",
@@ -23,19 +13,29 @@
       "pubDate": "Wed, 25 Feb 2026 14:11:11 +0900"
     },
     {
+      "title": "42年前の強盗殺人事件で再審決定 最高裁 無期懲役服役中に死亡",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060251000",
+      "pubDate": "Wed, 25 Feb 2026 15:13:58 +0900"
+    },
+    {
       "title": "不動産詐欺事件 会社代表ら 数万人の高齢者の名簿利用し接近か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060091000",
       "pubDate": "Wed, 25 Feb 2026 12:30:55 +0900"
     },
     {
-      "title": "防衛装備品の海外移転 自民の安保調査会 政府への提言案を了承",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015060151000",
-      "pubDate": "Wed, 25 Feb 2026 12:01:35 +0900"
+      "title": "韓国 2025年の出生率0.80と発表 2年連続前年上回るも低い水準",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060241000",
+      "pubDate": "Wed, 25 Feb 2026 14:41:59 +0900"
     },
     {
-      "title": "千葉 野田 住宅に強盗 3人組が金庫奪う 住民の80代男性けが",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015060071000",
-      "pubDate": "Wed, 25 Feb 2026 10:53:25 +0900"
+      "title": "株価 一時1500円以上値上がり 取り引き時間中の最高値を更新",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060121000",
+      "pubDate": "Wed, 25 Feb 2026 14:12:39 +0900"
+    },
+    {
+      "title": "ツムラ 養命酒製造を買収と発表 ヘルスケア事業強化図る",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060181000",
+      "pubDate": "Wed, 25 Feb 2026 14:08:01 +0900"
     }
   ]
 }
