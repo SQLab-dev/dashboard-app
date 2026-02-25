@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-25T07:30:21.440Z",
+  "updated": "2026-02-25T08:07:46.628Z",
   "items": [
+    {
+      "title": "マイクロソフト日本法人 公取委が立ち入り検査 独禁法違反疑い",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060481000",
+      "pubDate": "Wed, 25 Feb 2026 16:59:37 +0900"
+    },
     {
       "title": "高市首相 カタログギフト配付「法令上問題ない」参院代表質問",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060141000",
@@ -31,11 +36,6 @@
       "title": "韓国 2025年の出生率0.80と発表 2年連続前年上回るも低い水準",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060241000",
       "pubDate": "Wed, 25 Feb 2026 15:35:28 +0900"
-    },
-    {
-      "title": "アサヒビール “4月にはほとんどの商品の出荷が再開見込み”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015060351000",
-      "pubDate": "Wed, 25 Feb 2026 15:06:38 +0900"
     }
   ]
 }
