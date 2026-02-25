@@ -1,12 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-25T17:52:12.605Z",
+  "updated": "2026-02-25T18:53:24.211Z",
   "items": [
-    {
-      "title": "【地震情報】宮崎県で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015045451000",
-      "pubDate": "Thu, 26 Feb 2026 02:24:58 +0900"
-    },
     {
       "title": "東京スカイツリー 26日営業再開 原因は“ヒューズが熱で切断”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060601000",
@@ -26,6 +21,11 @@
       "title": "大津市の幼稚園教諭 “賃下げ” に？理由を市に聞いた",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060511000",
       "pubDate": "Wed, 25 Feb 2026 19:47:37 +0900"
+    },
+    {
+      "title": "ミラノ・コルティナパラリンピック 採火式",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060641000",
+      "pubDate": "Wed, 25 Feb 2026 20:38:05 +0900"
     },
     {
       "title": "埼玉 遺体遺棄事件 GPSで女性の位置情報を不正取得か 再逮捕",
