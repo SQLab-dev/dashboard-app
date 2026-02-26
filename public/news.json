@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-26T20:51:06.242Z",
+  "updated": "2026-02-26T21:22:22.617Z",
   "items": [
+    {
+      "title": "エプスタイン氏問題めぐりクリントン元大統領夫妻の証言始まる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015061701000",
+      "pubDate": "Fri, 27 Feb 2026 05:59:39 +0900"
+    },
     {
       "title": "イラン核開発めぐり 米イラン高官が協議 来週実務レベル協議へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015061401000",
@@ -31,11 +36,6 @@
       "title": "香港 民主化訴える女性の父親に実刑判決「国家安全条例」違反",
       "link": "https://news.web.nhk/newsweb/na/na-k10015061731000",
       "pubDate": "Fri, 27 Feb 2026 05:14:40 +0900"
-    },
-    {
-      "title": "「付き添い入院」費用補助事業 十分に活用されず 支援団体調査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015061721000",
-      "pubDate": "Fri, 27 Feb 2026 05:29:18 +0900"
     }
   ]
 }
