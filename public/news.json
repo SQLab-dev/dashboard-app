@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-26T08:01:49.860Z",
+  "updated": "2026-02-26T09:00:38.720Z",
   "items": [
+    {
+      "title": "【ライブ配信中】消費税減税など議論「国民会議」の初会合",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015060971000",
+      "pubDate": "Thu, 26 Feb 2026 17:57:44 +0900"
+    },
     {
       "title": "去年の出生数70万人余 過去最少を更新 10年連続で減少",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060931000",
@@ -18,24 +23,19 @@
       "pubDate": "Thu, 26 Feb 2026 16:52:30 +0900"
     },
     {
-      "title": "SNSきっかけに事件の被害にあった児童や生徒 去年は1500人余に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015061331000",
-      "pubDate": "Thu, 26 Feb 2026 16:49:40 +0900"
-    },
-    {
       "title": "【100社アンケート】“AI導入で雇用や人員配置見直し”3割超に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015054061000",
       "pubDate": "Thu, 26 Feb 2026 15:43:03 +0900"
     },
     {
-      "title": "大谷翔平 WBC日本代表に合流 バンテリンドーム ナゴヤに到着",
+      "title": "大谷翔平 WBC日本代表に合流 リラックスした表情見せる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015061251000",
-      "pubDate": "Thu, 26 Feb 2026 15:51:31 +0900"
+      "pubDate": "Thu, 26 Feb 2026 17:07:53 +0900"
     },
     {
-      "title": "岩手 大船渡 山林火災 住宅再建進められるも山林復旧見通せず",
+      "title": "岩手 大船渡 山林火災発生1年 山林復旧見通せず 住宅は 産業は",
       "link": "https://news.web.nhk/newsweb/na/na-k10015060661000",
-      "pubDate": "Thu, 26 Feb 2026 13:11:42 +0900"
+      "pubDate": "Thu, 26 Feb 2026 17:47:52 +0900"
     }
   ]
 }
