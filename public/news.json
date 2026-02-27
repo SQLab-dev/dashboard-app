@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-27T19:39:38.977Z",
+  "updated": "2026-02-27T19:59:40.208Z",
   "items": [
     {
       "title": "北海道 旭川 路上で倒れていた幼い女の子が死亡 ひき逃げか",
@@ -8,14 +8,19 @@
       "pubDate": "Sat, 28 Feb 2026 01:32:17 +0900"
     },
     {
-      "title": "ニデックの不適切な会計処理問題 第三者委が報告書 近く公表へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062701000",
-      "pubDate": "Sat, 28 Feb 2026 02:15:33 +0900"
-    },
-    {
       "title": "NYダウ 一時800ドル超の値下がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062711000",
       "pubDate": "Sat, 28 Feb 2026 01:24:44 +0900"
+    },
+    {
+      "title": "フィリピン軍 バシー海峡近くで初めて自衛隊や米軍と共同訓練",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062441000",
+      "pubDate": "Sat, 28 Feb 2026 04:45:00 +0900"
+    },
+    {
+      "title": "ニデックの不適切な会計処理問題 第三者委が報告書 近く公表へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062701000",
+      "pubDate": "Sat, 28 Feb 2026 02:15:33 +0900"
     },
     {
       "title": "去年のGDP インドは3兆8000億ドルに増加も日本が上回ったか",
@@ -31,11 +36,6 @@
       "title": "オープンAI アマゾンやソフトバンクなどから資金調達 17兆円余",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062641000",
       "pubDate": "Sat, 28 Feb 2026 02:28:34 +0900"
-    },
-    {
-      "title": "小学館編集部“略式命令受けた漫画家起用は問題”作品配信停止",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062591000",
-      "pubDate": "Fri, 27 Feb 2026 22:35:13 +0900"
     }
   ]
 }
