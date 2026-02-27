@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-27T20:38:10.544Z",
+  "updated": "2026-02-27T20:59:57.304Z",
   "items": [
+    {
+      "title": "トランプ大統領 核開発などめぐる協議 イラン側の交渉姿勢非難",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062661000",
+      "pubDate": "Sat, 28 Feb 2026 05:45:46 +0900"
+    },
     {
       "title": "北海道 旭川 路上で倒れていた幼い女の子が死亡 ひき逃げか",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062651000",
@@ -11,11 +16,6 @@
       "title": "農水省 民間にもコメ備蓄義務づけへ検討 政府の4分の1を上限に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062601000",
       "pubDate": "Sat, 28 Feb 2026 05:05:01 +0900"
-    },
-    {
-      "title": "NYダウ 一時800ドル超の値下がり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062711000",
-      "pubDate": "Sat, 28 Feb 2026 01:24:44 +0900"
     },
     {
       "title": "フィリピン軍 バシー海峡近くで初めて自衛隊や米軍と共同訓練",
