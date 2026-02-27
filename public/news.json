@@ -1,21 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-27T14:06:58.228Z",
+  "updated": "2026-02-27T14:56:37.765Z",
   "items": [
+    {
+      "title": "北海道 旭川 幼い女の子が意識不明の重体 ひき逃げか",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062651000",
+      "pubDate": "Fri, 27 Feb 2026 23:41:15 +0900"
+    },
     {
       "title": "去年のGDP インドは3兆8000億ドルに増加も日本が上回ったか",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062491000",
       "pubDate": "Fri, 27 Feb 2026 21:12:34 +0900"
     },
     {
+      "title": "オープンAI アマゾンやソフトバンクなどから資金調達 17兆円余",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062641000",
+      "pubDate": "Fri, 27 Feb 2026 23:33:39 +0900"
+    },
+    {
       "title": "小学館編集部“略式命令受けた漫画家起用は問題”作品配信停止",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062591000",
       "pubDate": "Fri, 27 Feb 2026 22:35:13 +0900"
-    },
-    {
-      "title": "高市首相 防衛装備品の海外移転 “政府主体で判断”衆院予算委",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062221000",
-      "pubDate": "Fri, 27 Feb 2026 19:24:30 +0900"
     },
     {
       "title": "静岡 伊東市 田久保前市長を書類送検 地方自治法違反の疑い",
@@ -28,14 +33,9 @@
       "pubDate": "Fri, 27 Feb 2026 20:49:57 +0900"
     },
     {
-      "title": "渡良瀬遊水地で枯れ草が延焼",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062371000",
-      "pubDate": "Fri, 27 Feb 2026 20:57:38 +0900"
-    },
-    {
-      "title": "新年度予算案の審議日程 与党側 3月4日から省庁別審査を提案",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062581000",
-      "pubDate": "Fri, 27 Feb 2026 21:55:01 +0900"
+      "title": "最低賃金 適用開始遅れ相次ぎ 厚労省審議会が運用のあり方議論",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062631000",
+      "pubDate": "Fri, 27 Feb 2026 23:51:03 +0900"
     }
   ]
 }
