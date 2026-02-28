@@ -1,21 +1,31 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-28T07:57:13.674Z",
+  "updated": "2026-02-28T08:35:11.968Z",
   "items": [
     {
-      "title": "【速報中】トランプ大統領「米軍はイランで大規模作戦始めた」",
+      "title": "【速報】イスラエルと米がイラン攻撃 イランからミサイル発射",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062901000",
-      "pubDate": "Sat, 28 Feb 2026 16:50:06 +0900"
+      "pubDate": "Sat, 28 Feb 2026 17:31:00 +0900"
+    },
+    {
+      "title": "イスラエル軍「イランからイスラエルに複数ミサイル発射確認」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062981000",
+      "pubDate": "Sat, 28 Feb 2026 17:17:03 +0900"
+    },
+    {
+      "title": "「ニセ社長詐欺」 保育園や病院でも 被害者が明かした巧妙手口",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062931000",
+      "pubDate": "Sat, 28 Feb 2026 17:14:42 +0900"
+    },
+    {
+      "title": "緊急避妊薬 “深刻な副作用が？” SNSの根拠ない情報に注意を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015061301000",
+      "pubDate": "Sat, 28 Feb 2026 17:10:11 +0900"
     },
     {
       "title": "トランプ氏の「イランがミサイル開発」主張は裏付けなしと報道",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062661000",
       "pubDate": "Sat, 28 Feb 2026 12:00:28 +0900"
-    },
-    {
-      "title": "トランプ氏 アンソロピックのAI技術 政府機関使わないよう指示",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062871000",
-      "pubDate": "Sat, 28 Feb 2026 14:23:59 +0900"
     },
     {
       "title": "ペットボトル緑茶 値上げの動き 海外の抹茶ブームも影響か",
@@ -26,16 +36,6 @@
       "title": "エプスタイン氏問題 クリントン氏「犯罪行為知らなかった」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062471000",
       "pubDate": "Sat, 28 Feb 2026 12:16:38 +0900"
-    },
-    {
-      "title": "自民税調会長 消費税減税の財源 “租税特別措置見直しなどで”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062861000",
-      "pubDate": "Sat, 28 Feb 2026 12:14:58 +0900"
-    },
-    {
-      "title": "キム総書記の妹 ヨジョン氏が朝鮮労働党「総務部長」に就任",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062881000",
-      "pubDate": "Sat, 28 Feb 2026 15:32:20 +0900"
     }
   ]
 }
