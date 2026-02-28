@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-02-28T15:48:03.658Z",
+  "updated": "2026-02-28T15:58:58.671Z",
   "items": [
+    {
+      "title": "【速報中】米とイスラエルがイランに攻撃 イラン側は報復攻撃",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015062901000",
+      "pubDate": "Sun, 01 Mar 2026 00:36:28 +0900"
+    },
     {
       "title": "イラン外相「最高指導者ハメネイ師は生きている」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015063231000",
@@ -15,12 +20,7 @@
     {
       "title": "NSC＝国家安全保障会議の閣僚会合終わる 今後の対応など協議か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015063071000",
-      "pubDate": "Sun, 01 Mar 2026 00:04:43 +0900"
-    },
-    {
-      "title": "【速報中】米とイスラエルがイランに攻撃 イラン側は報復攻撃",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015062901000",
-      "pubDate": "Sun, 01 Mar 2026 00:36:28 +0900"
+      "pubDate": "Sun, 01 Mar 2026 00:50:32 +0900"
     },
     {
       "title": "ドバイ国際空港などで全便発着を当面停止 日本にも影響",
@@ -35,7 +35,7 @@
     {
       "title": "イラン革命防衛隊が声明 “中東の米軍基地など攻撃の標的に”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015062981000",
-      "pubDate": "Sat, 28 Feb 2026 23:06:55 +0900"
+      "pubDate": "Sun, 01 Mar 2026 00:55:24 +0900"
     }
   ]
 }
