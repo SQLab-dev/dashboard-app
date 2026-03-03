@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-03T20:59:39.361Z",
+  "updated": "2026-03-03T21:42:25.909Z",
   "items": [
+    {
+      "title": "東北新幹線運転見合わせ 大宮～仙台 停電の影響で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015065871000",
+      "pubDate": "Wed, 04 Mar 2026 06:30:00 +0900"
+    },
     {
       "title": "トランプ大統領 イランへの軍事作戦「非常に順調」成果強調",
       "link": "https://news.web.nhk/newsweb/na/na-k10015065791000",
-      "pubDate": "Wed, 04 Mar 2026 05:01:48 +0900"
+      "pubDate": "Wed, 04 Mar 2026 05:59:17 +0900"
     },
     {
       "title": "トランプ大統領 「米海軍がホルムズ海峡のタンカー護衛」SNSに",
@@ -13,9 +18,9 @@
       "pubDate": "Wed, 04 Mar 2026 05:05:05 +0900"
     },
     {
-      "title": "欧州エネルギー市場 天然ガス 原油の供給懸念で先物価格上昇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015065671000",
-      "pubDate": "Wed, 04 Mar 2026 03:56:34 +0900"
+      "title": "米中央軍 作戦開始から72時間の概要公表 計1700か所以上を攻撃",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015065811000",
+      "pubDate": "Wed, 04 Mar 2026 05:58:02 +0900"
     },
     {
       "title": "旧統一教会の解散命令 東京高裁 きょう解散命じるかどうか判断",
@@ -31,11 +36,6 @@
       "title": "石油販売8社を軽油価格カルテル疑い 捜査本格化へ 東京地検",
       "link": "https://news.web.nhk/newsweb/na/na-k10015065741000",
       "pubDate": "Wed, 04 Mar 2026 05:38:14 +0900"
-    },
-    {
-      "title": "株価 NYダウ一時1200ドルあまり大幅な値下がり 事態長期化懸念",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015065721000",
-      "pubDate": "Wed, 04 Mar 2026 00:31:55 +0900"
     }
   ]
 }
