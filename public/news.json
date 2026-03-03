@@ -1,16 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-03T20:31:13.971Z",
+  "updated": "2026-03-03T20:59:39.361Z",
   "items": [
-    {
-      "title": "トランプ大統領 「米海軍がホルムズ海峡のタンカー護衛」SNSに",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015065801000",
-      "pubDate": "Wed, 04 Mar 2026 05:05:05 +0900"
-    },
     {
       "title": "トランプ大統領 イランへの軍事作戦「非常に順調」成果強調",
       "link": "https://news.web.nhk/newsweb/na/na-k10015065791000",
       "pubDate": "Wed, 04 Mar 2026 05:01:48 +0900"
+    },
+    {
+      "title": "トランプ大統領 「米海軍がホルムズ海峡のタンカー護衛」SNSに",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015065801000",
+      "pubDate": "Wed, 04 Mar 2026 05:05:05 +0900"
     },
     {
       "title": "欧州エネルギー市場 天然ガス 原油の供給懸念で先物価格上昇",
@@ -28,14 +28,14 @@
       "pubDate": "Wed, 04 Mar 2026 04:46:55 +0900"
     },
     {
+      "title": "石油販売8社を軽油価格カルテル疑い 捜査本格化へ 東京地検",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015065741000",
+      "pubDate": "Wed, 04 Mar 2026 05:38:14 +0900"
+    },
+    {
       "title": "株価 NYダウ一時1200ドルあまり大幅な値下がり 事態長期化懸念",
       "link": "https://news.web.nhk/newsweb/na/na-k10015065721000",
       "pubDate": "Wed, 04 Mar 2026 00:31:55 +0900"
-    },
-    {
-      "title": "中国 イスラエル 外相電話会談 軍事行動の即時停止を呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015065771000",
-      "pubDate": "Wed, 04 Mar 2026 03:58:37 +0900"
     }
   ]
 }
