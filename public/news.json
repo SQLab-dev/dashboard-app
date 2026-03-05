@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-05T15:58:38.037Z",
+  "updated": "2026-03-05T18:11:25.481Z",
   "items": [
+    {
+      "title": "NYダウ 一時900ドル超の値下がり 原油先物価格の上昇で警戒感",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015067751000",
+      "pubDate": "Fri, 06 Mar 2026 03:04:29 +0900"
+    },
     {
       "title": "イラン情勢 ハメネイ師後継 次男のほかに複数候補 米メディア",
       "link": "https://news.web.nhk/newsweb/na/na-k10015067281000",
@@ -28,14 +33,9 @@
       "pubDate": "Thu, 05 Mar 2026 21:37:19 +0900"
     },
     {
-      "title": "「カイロス3号機」打ち上げ失敗 飛行中断のシステムに問題か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015066591000",
-      "pubDate": "Thu, 05 Mar 2026 19:40:57 +0900"
-    },
-    {
-      "title": "栃木 いちご狩り施設で看板倒れる 3人搬送 強風の影響か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015067091000",
-      "pubDate": "Thu, 05 Mar 2026 23:15:11 +0900"
+      "title": "フィギュア 世界ジュニア 女子シングル 島田麻央がSP首位",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015067761000",
+      "pubDate": "Fri, 06 Mar 2026 02:43:47 +0900"
     }
   ]
 }
