@@ -1,21 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-05T18:11:25.481Z",
+  "updated": "2026-03-05T19:36:09.081Z",
   "items": [
     {
-      "title": "NYダウ 一時900ドル超の値下がり 原油先物価格の上昇で警戒感",
+      "title": "欠航続いたドバイからの便が羽田に到着 イラン 攻撃応酬で影響",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015067721000",
+      "pubDate": "Fri, 06 Mar 2026 03:09:52 +0900"
+    },
+    {
+      "title": "NYダウ 一時1000ドル超値下がり 原油市場 先物は値上がり高値",
       "link": "https://news.web.nhk/newsweb/na/na-k10015067751000",
-      "pubDate": "Fri, 06 Mar 2026 03:04:29 +0900"
-    },
-    {
-      "title": "イラン情勢 ハメネイ師後継 次男のほかに複数候補 米メディア",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015067281000",
-      "pubDate": "Thu, 05 Mar 2026 20:35:02 +0900"
-    },
-    {
-      "title": "“イラン側のミサイル発射 8割以上減少”イランの施設攻撃で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015066921000",
-      "pubDate": "Thu, 05 Mar 2026 21:47:01 +0900"
+      "pubDate": "Fri, 06 Mar 2026 04:03:46 +0900"
     },
     {
       "title": "ホルムズ海峡 約1日半ぶりに貨物船2隻が通過",
@@ -23,9 +18,14 @@
       "pubDate": "Thu, 05 Mar 2026 20:41:13 +0900"
     },
     {
-      "title": "イラン隣国アゼルバイジャン “イランから複数の無人機攻撃”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015067351000",
-      "pubDate": "Thu, 05 Mar 2026 21:17:38 +0900"
+      "title": "“イラン側のミサイル発射 8割以上減少”イランの施設攻撃で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015066921000",
+      "pubDate": "Thu, 05 Mar 2026 21:47:01 +0900"
+    },
+    {
+      "title": "パラリンピック ロシア代表出場に反発し7か国が開会式不参加へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015067741000",
+      "pubDate": "Fri, 06 Mar 2026 03:34:38 +0900"
     },
     {
       "title": "輸入米急増受け 業務用コメ生産者支援へ与党などと調整 農水省",
