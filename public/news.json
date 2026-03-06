@@ -1,11 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-06T13:17:19.278Z",
+  "updated": "2026-03-06T14:03:27.270Z",
   "items": [
     {
-      "title": "トランプ大統領 作戦の見通し「予定より早く進んでいる」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015068581000",
-      "pubDate": "Fri, 06 Mar 2026 19:47:15 +0900"
+      "title": "米 2月雇用統計 就業者は前月比9万2000人減 大幅な減少に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015068861000",
+      "pubDate": "Fri, 06 Mar 2026 22:49:18 +0900"
     },
     {
       "title": "原油市場 WTI先物価格が値上がり 一時1バレル＝86ドル台半ばに",
@@ -13,9 +13,14 @@
       "pubDate": "Fri, 06 Mar 2026 21:58:05 +0900"
     },
     {
-      "title": "【速報】WBC 日本が台湾にコールド勝ち 大谷翔平が先制満塁HR",
+      "title": "トランプ大統領 作戦の見通し「予定より早く進んでいる」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015068581000",
+      "pubDate": "Fri, 06 Mar 2026 19:47:15 +0900"
+    },
+    {
+      "title": "WBC 日本が台湾にコールド勝ち 大谷翔平が先制満塁HR【詳報】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015068491000",
-      "pubDate": "Fri, 06 Mar 2026 21:58:38 +0900"
+      "pubDate": "Fri, 06 Mar 2026 22:37:27 +0900"
     },
     {
       "title": "自民 維新 5類型撤廃し「武器」移転を原則可能とする提言提出",
@@ -25,17 +30,12 @@
     {
       "title": "高市首相 カナダ首相と会談 経済安全保障対話立ち上げなど一致",
       "link": "https://news.web.nhk/newsweb/na/na-k10015068391000",
-      "pubDate": "Fri, 06 Mar 2026 21:12:31 +0900"
+      "pubDate": "Fri, 06 Mar 2026 22:46:56 +0900"
     },
     {
-      "title": "村田製作所 不正アクセスでデータ流出 社外情報含む可能性も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015068641000",
-      "pubDate": "Fri, 06 Mar 2026 20:39:35 +0900"
-    },
-    {
-      "title": "消費者庁 脱毛サロン勧誘めぐり 経営する東京の会社を行政処分",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015068571000",
-      "pubDate": "Fri, 06 Mar 2026 19:44:43 +0900"
+      "title": "気象庁「N-net」沿岸側海底地震計データ 緊急地震速報に活用へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015068821000",
+      "pubDate": "Fri, 06 Mar 2026 22:42:21 +0900"
     }
   ]
 }
