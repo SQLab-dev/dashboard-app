@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-08T21:54:47.507Z",
+  "updated": "2026-03-08T22:21:02.870Z",
   "items": [
+    {
+      "title": "NY原油先物 1バレル＝100ドルを突破 イラン情勢受けて",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015070401000",
+      "pubDate": "Mon, 09 Mar 2026 07:17:45 +0900"
+    },
     {
       "title": "イラン最高指導者にモジタバ師選出 ハメネイ師の次男",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070341000",
@@ -31,11 +36,6 @@
       "title": "石川県知事選挙 新人の山野之義氏 現職ら抑え当選",
       "link": "https://news.web.nhk/newsweb/na/na-k10015066231000",
       "pubDate": "Sun, 08 Mar 2026 23:52:56 +0900"
-    },
-    {
-      "title": "JR東日本 運賃値上げ前に5日間「みどりの窓口」の営業時間延長",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015070161000",
-      "pubDate": "Mon, 09 Mar 2026 06:34:44 +0900"
     }
   ]
 }
