@@ -1,26 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-08T11:35:31.650Z",
+  "updated": "2026-03-08T11:50:55.008Z",
   "items": [
+    {
+      "title": "日本人旅行者ら107人搭乗のチャーター機 成田空港に到着",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015069611000",
+      "pubDate": "Sun, 08 Mar 2026 20:15:00 +0900"
+    },
     {
       "title": "【最新イラン情勢】軍事作戦と報復攻撃続く インフラ施設被害",
       "link": "https://news.web.nhk/newsweb/na/na-k10015069791000",
       "pubDate": "Sun, 08 Mar 2026 19:13:04 +0900"
     },
     {
-      "title": "【速報中】WBC 日本×オーストラリア 投手戦の展開に",
+      "title": "【速報中】WBC日本×オーストラリア 投手戦の展開 2人目に隅田",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070031000",
-      "pubDate": "Sun, 08 Mar 2026 20:29:59 +0900"
-    },
-    {
-      "title": "WBCチケットが500万円？高額転売問題めぐり新たな動きも",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015069841000",
-      "pubDate": "Sun, 08 Mar 2026 19:04:42 +0900"
-    },
-    {
-      "title": "日本人旅行者ら107人搭乗のチャーター機 成田空港に到着",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015069611000",
-      "pubDate": "Sun, 08 Mar 2026 20:15:00 +0900"
+      "pubDate": "Sun, 08 Mar 2026 20:42:05 +0900"
     },
     {
       "title": "イランへの軍事作戦 トランプ氏の熱心な支持者からも不満の声",
@@ -33,9 +28,14 @@
       "pubDate": "Sun, 08 Mar 2026 19:19:44 +0900"
     },
     {
-      "title": "金沢市長選挙 現職の村山卓氏 2回目の当選が確実",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015066241000",
-      "pubDate": "Sun, 08 Mar 2026 20:00:18 +0900"
+      "title": "WBCチケットが500万円？高額転売問題めぐり新たな動きも",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015069841000",
+      "pubDate": "Sun, 08 Mar 2026 19:04:42 +0900"
+    },
+    {
+      "title": "石川県知事選挙 新人の山野氏と現職の馳氏が激しく競り合う",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015066231000",
+      "pubDate": "Sun, 08 Mar 2026 20:48:06 +0900"
     }
   ]
 }
