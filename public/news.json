@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-08T13:12:17.449Z",
+  "updated": "2026-03-08T13:50:42.200Z",
   "items": [
     {
       "title": "【イラン情勢】“新たな最高指導者 一定の合意と示唆” 報道",
@@ -8,14 +8,19 @@
       "pubDate": "Sun, 08 Mar 2026 21:05:06 +0900"
     },
     {
+      "title": "【地震速報】東北地方で震度3 津波の心配なし（22:17）",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015070251000",
+      "pubDate": "Sun, 08 Mar 2026 22:21:54 +0900"
+    },
+    {
       "title": "日本人旅行者ら107人搭乗のチャーター機 成田空港に到着",
       "link": "https://news.web.nhk/newsweb/na/na-k10015069611000",
       "pubDate": "Sun, 08 Mar 2026 20:15:00 +0900"
     },
     {
-      "title": "【速報中】WBC 日本3連勝 オーストラリアに逆転勝ち 1位突破",
+      "title": "WBC 日本3連勝 オーストラリアに逆転勝ち 1位突破【詳報】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070031000",
-      "pubDate": "Sun, 08 Mar 2026 21:58:44 +0900"
+      "pubDate": "Sun, 08 Mar 2026 22:24:59 +0900"
     },
     {
       "title": "イランへの軍事作戦 トランプ氏の熱心な支持者からも不満の声",
@@ -28,14 +33,9 @@
       "pubDate": "Sun, 08 Mar 2026 19:19:44 +0900"
     },
     {
-      "title": "天皇ご一家 WBC 日本×オーストラリアを観戦",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015070201000",
-      "pubDate": "Sun, 08 Mar 2026 20:55:09 +0900"
-    },
-    {
       "title": "石川県知事選挙 新人の山野氏と現職の馳氏が激しく競り合う",
       "link": "https://news.web.nhk/newsweb/na/na-k10015066231000",
-      "pubDate": "Sun, 08 Mar 2026 20:48:06 +0900"
+      "pubDate": "Sun, 08 Mar 2026 22:28:58 +0900"
     }
   ]
 }
