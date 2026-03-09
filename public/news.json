@@ -1,16 +1,26 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-08T23:52:22.954Z",
+  "updated": "2026-03-09T01:16:45.269Z",
   "items": [
+    {
+      "title": "株価 一時3600円を超える急落 原油の安定供給への懸念強まる中",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015070431000",
+      "pubDate": "Mon, 09 Mar 2026 09:58:50 +0900"
+    },
     {
       "title": "NY原油先物 1バレル＝100ドルを突破 イラン情勢受けて",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070401000",
-      "pubDate": "Mon, 09 Mar 2026 07:17:45 +0900"
+      "pubDate": "Mon, 09 Mar 2026 09:27:40 +0900"
     },
     {
       "title": "イラン最高指導者にモジタバ師選出 ハメネイ師の次男",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070341000",
       "pubDate": "Mon, 09 Mar 2026 07:23:53 +0900"
+    },
+    {
+      "title": "1月の実質賃金 前年同月比1.4％増 13か月ぶりのプラス",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015070181000",
+      "pubDate": "Mon, 09 Mar 2026 09:00:32 +0900"
     },
     {
       "title": "新年度予算案 今週中の衆院通過めぐり与野党の対決色強まるか",
@@ -26,16 +36,6 @@
       "title": "WBC 日本3連勝 オーストラリアに逆転勝ち 1位突破【詳報】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070031000",
       "pubDate": "Mon, 09 Mar 2026 02:22:30 +0900"
-    },
-    {
-      "title": "石川県知事選挙 新人の山野之義氏 現職ら抑え当選",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015066231000",
-      "pubDate": "Sun, 08 Mar 2026 23:52:56 +0900"
-    },
-    {
-      "title": "「反撃能力」長射程ミサイル配備へ 発射装置など熊本に搬入",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015070331000",
-      "pubDate": "Mon, 09 Mar 2026 06:33:04 +0900"
     }
   ]
 }
