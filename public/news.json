@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-09T20:54:02.966Z",
+  "updated": "2026-03-09T21:28:21.849Z",
   "items": [
+    {
+      "title": "トランプ大統領「戦争ほぼ完了」 作戦順調を強調か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015071331000",
+      "pubDate": "Tue, 10 Mar 2026 06:13:45 +0900"
+    },
     {
       "title": "トルコ “イランから弾道ミサイル 領空侵入” NATO部隊が迎撃",
       "link": "https://news.web.nhk/newsweb/na/na-k10015071101000",
       "pubDate": "Tue, 10 Mar 2026 05:32:58 +0900"
+    },
+    {
+      "title": "NYダウ 一時800ドル超下落も買い戻しの動き 200ドル超値上がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015071271000",
+      "pubDate": "Tue, 10 Mar 2026 06:09:40 +0900"
     },
     {
       "title": "除染土の福島県外の処分 “理解”重要【震災15年アンケート】",
@@ -26,16 +36,6 @@
       "title": "殺傷能力ある「武器」輸出 賛成32％ 反対53％ NHK世論調査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015070541000",
       "pubDate": "Tue, 10 Mar 2026 05:00:30 +0900"
-    },
-    {
-      "title": "G7財務相会議 フランス「石油備蓄放出含む必要な措置講じる」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015071241000",
-      "pubDate": "Tue, 10 Mar 2026 02:53:39 +0900"
-    },
-    {
-      "title": "新年度予算案 与党側“ここ数日がヤマ場” 野党側は批判",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015071311000",
-      "pubDate": "Tue, 10 Mar 2026 05:14:50 +0900"
     }
   ]
 }
