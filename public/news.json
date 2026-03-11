@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-11T23:42:29.627Z",
+  "updated": "2026-03-11T23:59:35.204Z",
   "items": [
+    {
+      "title": "円安進む 一時1ドル＝159円台まで値下がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073501000",
+      "pubDate": "Thu, 12 Mar 2026 08:40:45 +0900"
+    },
     {
       "title": "トランプ政権 特定製造業での過剰生産能力を調査へ 日本も対象",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073431000",
@@ -20,7 +25,7 @@
     {
       "title": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073331000",
-      "pubDate": "Thu, 12 Mar 2026 08:12:33 +0900"
+      "pubDate": "Thu, 12 Mar 2026 08:45:25 +0900"
     },
     {
       "title": "バーレーン 謎の文明「ディルムン」古墳群で最古の王の墓発見",
@@ -31,11 +36,6 @@
       "title": "政府 石油備蓄放出を決定 ガソリン価格の激変緩和措置も実施へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073261000",
       "pubDate": "Thu, 12 Mar 2026 05:35:44 +0900"
-    },
-    {
-      "title": "G7オンライン首脳会議 高市首相が原油協調備蓄放出を歓迎",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073381000",
-      "pubDate": "Thu, 12 Mar 2026 07:37:30 +0900"
     }
   ]
 }
