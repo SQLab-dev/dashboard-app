@@ -1,21 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-11T21:25:03.724Z",
+  "updated": "2026-03-11T21:54:26.723Z",
   "items": [
-    {
-      "title": "新年度予算案 与党側はあす衆院通過させる構え 野党側は反発",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073291000",
-      "pubDate": "Thu, 12 Mar 2026 06:19:19 +0900"
-    },
     {
       "title": "ホルムズ海峡 事実上封鎖が続く 事態の長期化への懸念強まる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073311000",
       "pubDate": "Thu, 12 Mar 2026 05:59:28 +0900"
-    },
-    {
-      "title": "政府 石油備蓄放出を決定 ガソリン価格の激変緩和措置も実施へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073261000",
-      "pubDate": "Thu, 12 Mar 2026 05:35:44 +0900"
     },
     {
       "title": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
@@ -23,14 +13,24 @@
       "pubDate": "Thu, 12 Mar 2026 04:23:55 +0900"
     },
     {
-      "title": "G7オンライン首脳会議 高市首相が原油協調備蓄放出を歓迎",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073381000",
-      "pubDate": "Thu, 12 Mar 2026 05:15:01 +0900"
-    },
-    {
       "title": "バーレーン 謎の文明「ディルムン」古墳群で最古の王の墓発見",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073061000",
       "pubDate": "Thu, 12 Mar 2026 05:07:20 +0900"
+    },
+    {
+      "title": "政府 石油備蓄放出を決定 ガソリン価格の激変緩和措置も実施へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073261000",
+      "pubDate": "Thu, 12 Mar 2026 05:35:44 +0900"
+    },
+    {
+      "title": "新年度予算案 与党側はあす衆院通過させる構え 野党側は反発",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073291000",
+      "pubDate": "Thu, 12 Mar 2026 06:19:19 +0900"
+    },
+    {
+      "title": "G7オンライン首脳会議 高市首相が原油協調備蓄放出を歓迎",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073381000",
+      "pubDate": "Thu, 12 Mar 2026 05:15:01 +0900"
     },
     {
       "title": "白血病の患者死亡 検出薬の投与記録なし 事件や事故の可能性も",
