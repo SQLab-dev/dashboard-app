@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-12T20:56:30.866Z",
+  "updated": "2026-03-12T21:35:40.051Z",
   "items": [
     {
       "title": "イラン モジタバ師 初声明「ホルムズ海峡の封鎖 確実に継続」",
@@ -8,14 +8,19 @@
       "pubDate": "Fri, 13 Mar 2026 05:18:17 +0900"
     },
     {
+      "title": "湾岸諸国の石油生産量 世界需要の約1割相当が減少 IEA分析",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074131000",
+      "pubDate": "Fri, 13 Mar 2026 06:02:33 +0900"
+    },
+    {
       "title": "新年度予算案 与党側きょう衆院通過させる方針 与野党攻防激化",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074231000",
       "pubDate": "Fri, 13 Mar 2026 05:09:03 +0900"
     },
     {
-      "title": "トランプ大統領 原油価格よりイランの核保有阻止が重要と強調",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074211000",
-      "pubDate": "Fri, 13 Mar 2026 01:20:02 +0900"
+      "title": "“手術中に神経切断”医師に有罪判決 赤穂市民病院 医療事故",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074281000",
+      "pubDate": "Fri, 13 Mar 2026 05:55:25 +0900"
     },
     {
       "title": "ホンダ巨額損失 最終赤字へ 戦略の抜本的見直し迫られることに",
@@ -23,19 +28,14 @@
       "pubDate": "Fri, 13 Mar 2026 05:31:47 +0900"
     },
     {
-      "title": "政府備蓄米の買い入れ 来月初めての入札行う方針固める 農水省",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074111000",
-      "pubDate": "Fri, 13 Mar 2026 05:25:47 +0900"
-    },
-    {
-      "title": "アメリカ中西部ミシガン州のユダヤ教の礼拝所で銃撃事件",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074271000",
-      "pubDate": "Fri, 13 Mar 2026 03:28:11 +0900"
-    },
-    {
       "title": "NYダウ 一時700ドル超値下がり イラン情勢を受け",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074241000",
       "pubDate": "Fri, 13 Mar 2026 02:07:24 +0900"
+    },
+    {
+      "title": "「摂食障害」の表記を「摂食症」に変更 専門学会",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074121000",
+      "pubDate": "Fri, 13 Mar 2026 06:05:58 +0900"
     }
   ]
 }
