@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-12T13:21:53.525Z",
+  "updated": "2026-03-12T14:12:17.823Z",
   "items": [
+    {
+      "title": "イラン モジタバ師が初声明 「ホルムズ海峡封鎖 確実に継続」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074041000",
+      "pubDate": "Thu, 12 Mar 2026 22:30:45 +0900"
+    },
     {
       "title": "アルペン 村岡桃佳が銀 冬季パラ 日本選手最多11個目のメダル",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074021000",
-      "pubDate": "Thu, 12 Mar 2026 22:04:03 +0900"
+      "pubDate": "Thu, 12 Mar 2026 22:53:51 +0900"
     },
     {
       "title": "ホルムズ海峡 事実上の封鎖 長期化懸念広がる【詳しく】",
@@ -16,11 +21,6 @@
       "title": "ホンダ 最大6900億円の最終赤字へ EV見直しで 上場以来初めて",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073871000",
       "pubDate": "Thu, 12 Mar 2026 16:46:58 +0900"
-    },
-    {
-      "title": "白血病の患者死亡 使うはずのない薬液が注射に混入の可能性も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073931000",
-      "pubDate": "Thu, 12 Mar 2026 18:26:46 +0900"
     },
     {
       "title": "自民 坂本予算委員長の解任決議案を野党4党が共同で提出",
