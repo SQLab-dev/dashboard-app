@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-12T19:50:28.376Z",
+  "updated": "2026-03-12T20:19:53.391Z",
   "items": [
+    {
+      "title": "新年度予算案 与党側きょう衆院通過させる方針 与野党攻防激化",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074231000",
+      "pubDate": "Fri, 13 Mar 2026 05:09:03 +0900"
+    },
     {
       "title": "イラン モジタバ師が初声明 「ホルムズ海峡封鎖 確実に継続」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074041000",
@@ -18,6 +23,11 @@
       "pubDate": "Fri, 13 Mar 2026 02:31:40 +0900"
     },
     {
+      "title": "アメリカ中西部ミシガン州のユダヤ教の礼拝所で銃撃事件",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074271000",
+      "pubDate": "Fri, 13 Mar 2026 03:28:11 +0900"
+    },
+    {
       "title": "NYダウ 一時700ドル超値下がり イラン情勢を受け",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074241000",
       "pubDate": "Fri, 13 Mar 2026 02:07:24 +0900"
@@ -26,16 +36,6 @@
       "title": "イージス・システム搭載艦 最新鋭レーダー 米メーカー納入完了",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074181000",
       "pubDate": "Fri, 13 Mar 2026 02:22:51 +0900"
-    },
-    {
-      "title": "アルペン 村岡桃佳が銀 冬季パラ 日本選手最多11個目のメダル",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074021000",
-      "pubDate": "Thu, 12 Mar 2026 23:29:28 +0900"
-    },
-    {
-      "title": "富山湾海底「乱泥流」の明確な痕跡確認 カニ漁獲量減の原因か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074011000",
-      "pubDate": "Thu, 12 Mar 2026 20:37:44 +0900"
     }
   ]
 }
