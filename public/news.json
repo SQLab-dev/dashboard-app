@@ -1,16 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-12T07:30:24.442Z",
+  "updated": "2026-03-12T08:03:22.089Z",
   "items": [
+    {
+      "title": "ホンダ 最大6900億円の最終赤字へ EV見直しで 上場以来初めて",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073871000",
+      "pubDate": "Thu, 12 Mar 2026 16:46:58 +0900"
+    },
     {
       "title": "ホルムズ海峡 事実上の封鎖 長期化懸念広がる【速報中】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073311000",
       "pubDate": "Thu, 12 Mar 2026 15:46:52 +0900"
-    },
-    {
-      "title": "株価 値下がり 今後の安定的な原油供給に対する懸念広がる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073521000",
-      "pubDate": "Thu, 12 Mar 2026 16:06:57 +0900"
     },
     {
       "title": "NY原油市場 先物価格 一時1バレル＝95ドル台まで上昇 高騰続く",
@@ -18,24 +18,24 @@
       "pubDate": "Thu, 12 Mar 2026 13:38:50 +0900"
     },
     {
-      "title": "松本文科相 不倫報道を陳謝 “信頼回復に向け職責果たしたい”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073751000",
-      "pubDate": "Thu, 12 Mar 2026 14:24:23 +0900"
-    },
-    {
       "title": "“エアコンのような性能”うたう商品に注意 国民生活センター",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073691000",
       "pubDate": "Thu, 12 Mar 2026 13:20:34 +0900"
     },
     {
-      "title": "バスケ女子 W杯予選 初戦 日本はハンガリーに敗れ黒星スタート",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015073811000",
-      "pubDate": "Thu, 12 Mar 2026 15:48:24 +0900"
+      "title": "AI 事業者対象に新ガイドライン案 判断に人間が関わる仕組みを",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073851000",
+      "pubDate": "Thu, 12 Mar 2026 16:37:24 +0900"
+    },
+    {
+      "title": "松本文科相 不倫報道を陳謝 “信頼回復に向け職責果たしたい”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015073751000",
+      "pubDate": "Thu, 12 Mar 2026 14:24:23 +0900"
     },
     {
       "title": "WBC 日本の準々決勝はベネズエラと 15日に【全組み合わせ】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015073771000",
-      "pubDate": "Thu, 12 Mar 2026 16:12:10 +0900"
+      "pubDate": "Thu, 12 Mar 2026 17:01:26 +0900"
     }
   ]
 }
