@@ -1,7 +1,17 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-13T07:56:05.751Z",
+  "updated": "2026-03-13T08:41:19.155Z",
   "items": [
+    {
+      "title": "東急東横線とみなとみらい線 運転見合わせ 再開午後6時半以降",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074741000",
+      "pubDate": "Fri, 13 Mar 2026 17:17:06 +0900"
+    },
+    {
+      "title": "声優 池田昌子さん死去 87歳 「銀河鉄道999」のメーテルなど",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075051000",
+      "pubDate": "Fri, 13 Mar 2026 17:15:27 +0900"
+    },
     {
       "title": "トランプ大統領「きょう何が起こるか見て」 さらなる攻撃示唆",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074571000",
@@ -13,29 +23,19 @@
       "pubDate": "Fri, 13 Mar 2026 16:47:26 +0900"
     },
     {
-      "title": "経産相 国家備蓄の原油放出 “現在より抑制された価格水準で”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074781000",
-      "pubDate": "Fri, 13 Mar 2026 16:17:15 +0900"
+      "title": "女児殺害 受刑者に3度目の賠償命令 約7000万円の支払い命じる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074811000",
+      "pubDate": "Fri, 13 Mar 2026 16:53:06 +0900"
     },
     {
-      "title": "東急東横線とみなとみらい線 停電の影響で運転見合わせ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074741000",
-      "pubDate": "Fri, 13 Mar 2026 15:25:30 +0900"
-    },
-    {
-      "title": "時価5100万円相当の“ポケモン”カードだまし取ったか 3人逮捕",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074821000",
-      "pubDate": "Fri, 13 Mar 2026 15:43:08 +0900"
+      "title": "双日 豪でレアアース開発の企業と新鉱山開発に向けて基本合意",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075031000",
+      "pubDate": "Fri, 13 Mar 2026 16:56:03 +0900"
     },
     {
       "title": "「ばけばけ」から「風、薫る」へ 主人公がバトンタッチ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074831000",
       "pubDate": "Fri, 13 Mar 2026 15:59:21 +0900"
-    },
-    {
-      "title": "松任谷由実さんなど6人に放送文化賞 放送記念日を前に記念式典",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074761000",
-      "pubDate": "Fri, 13 Mar 2026 16:39:20 +0900"
     }
   ]
 }
