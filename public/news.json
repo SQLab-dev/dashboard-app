@@ -1,17 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-13T20:40:47.906Z",
+  "updated": "2026-03-13T21:16:21.370Z",
   "items": [
-    {
-      "title": "【地震速報】岩手 盛岡で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015075551000",
-      "pubDate": "Sat, 14 Mar 2026 05:24:35 +0900"
-    },
-    {
-      "title": "新年度予算案 衆院本会議で可決 自民・維新両党など賛成多数で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015075271000",
-      "pubDate": "Sat, 14 Mar 2026 00:42:17 +0900"
-    },
     {
       "title": "JR東日本 きょうから運賃値上げ 消費税対応除き会社発足以来初",
       "link": "https://news.web.nhk/newsweb/na/na-k10015075381000",
@@ -23,19 +13,29 @@
       "pubDate": "Sat, 14 Mar 2026 01:42:44 +0900"
     },
     {
+      "title": "新年度予算案 衆院本会議で可決 自民・維新両党など賛成多数で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075271000",
+      "pubDate": "Sat, 14 Mar 2026 00:42:17 +0900"
+    },
+    {
+      "title": "「トランプ大統領 訪中後 台湾への武器売却承認の可能性」報道",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075521000",
+      "pubDate": "Sat, 14 Mar 2026 05:35:37 +0900"
+    },
+    {
+      "title": "キューバ「米代表と協議」圧力受けるなか歩み寄りの姿勢",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075541000",
+      "pubDate": "Sat, 14 Mar 2026 05:33:38 +0900"
+    },
+    {
+      "title": "原油高でアメリカがロシア産原油の制裁緩和 ウクライナは反発",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075491000",
+      "pubDate": "Sat, 14 Mar 2026 05:39:56 +0900"
+    },
+    {
       "title": "日銀 18日から金融政策決定会合 イラン情勢などの議論が焦点",
       "link": "https://news.web.nhk/newsweb/na/na-k10015075391000",
       "pubDate": "Sat, 14 Mar 2026 05:19:31 +0900"
-    },
-    {
-      "title": "NY原油市場 先物価格 1バレル＝99ドル台に上昇 経済悪影響も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015075531000",
-      "pubDate": "Sat, 14 Mar 2026 04:26:36 +0900"
-    },
-    {
-      "title": "東急東横線 みなとみらい線 9時間半運転見合わせ 12万人余影響",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074741000",
-      "pubDate": "Sat, 14 Mar 2026 00:26:07 +0900"
     }
   ]
 }
