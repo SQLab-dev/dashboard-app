@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-13T04:19:46.488Z",
+  "updated": "2026-03-13T05:29:55.906Z",
   "items": [
+    {
+      "title": "東急東横線とみなとみらい線 停電の影響で運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074741000",
+      "pubDate": "Fri, 13 Mar 2026 14:04:52 +0900"
+    },
     {
       "title": "新年度予算案 衆院本会議で予算委員長の解任決議案 採決へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015074231000",
-      "pubDate": "Fri, 13 Mar 2026 13:13:22 +0900"
+      "pubDate": "Fri, 13 Mar 2026 13:58:15 +0900"
     },
     {
       "title": "イラン モジタバ師 “初の声明”で徹底抗戦を呼びかけ",
@@ -13,9 +18,14 @@
       "pubDate": "Fri, 13 Mar 2026 11:54:28 +0900"
     },
     {
-      "title": "山陽新幹線 運転見合わせ 下り新大阪～博多 上り博多～広島",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074651000",
-      "pubDate": "Fri, 13 Mar 2026 12:51:24 +0900"
+      "title": "米財務省 ロシア産原油など “一時的に各国に取り引き認める”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074411000",
+      "pubDate": "Fri, 13 Mar 2026 11:59:47 +0900"
+    },
+    {
+      "title": "商船三井のコンテナ船損傷 金子国交相“状況を深く懸念”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074631000",
+      "pubDate": "Fri, 13 Mar 2026 13:28:58 +0900"
     },
     {
       "title": "流通経済大 男子サッカー部員の一部 “4年生から大麻買った”",
@@ -23,19 +33,9 @@
       "pubDate": "Fri, 13 Mar 2026 12:47:32 +0900"
     },
     {
-      "title": "米財務省 ロシア産原油など “一時的に各国に取り引き認める”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074411000",
-      "pubDate": "Fri, 13 Mar 2026 11:59:47 +0900"
-    },
-    {
-      "title": "米ホワイトハウス 「遊☆戯☆王」の映像投稿  公式SNS関与否定",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074471000",
-      "pubDate": "Fri, 13 Mar 2026 12:22:07 +0900"
-    },
-    {
-      "title": "水戸 JR常磐線の踏切で特急列車と車衝突 乗用車の男性意識なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015074421000",
-      "pubDate": "Fri, 13 Mar 2026 12:13:32 +0900"
+      "title": "白血病治療の患者死亡 厚労相 “さいたま市と連携し適切対応”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015074611000",
+      "pubDate": "Fri, 13 Mar 2026 13:30:46 +0900"
     }
   ]
 }
