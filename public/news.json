@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-15T17:38:02.240Z",
+  "updated": "2026-03-15T17:58:24.630Z",
   "items": [
     {
       "title": "トランプ氏 戦闘終結に向けた条件「まだ十分に整っていない」",
@@ -18,11 +18,6 @@
       "pubDate": "Sun, 15 Mar 2026 23:28:59 +0900"
     },
     {
-      "title": "スキージャンプ女子W杯 伊藤有希が2年ぶり優勝 2位は丸山希",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015076671000",
-      "pubDate": "Mon, 16 Mar 2026 01:39:20 +0900"
-    },
-    {
       "title": "野球 日本代表 井端弘和監督 WBC今大会かぎりで監督退任の意向",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076631000",
       "pubDate": "Sun, 15 Mar 2026 23:25:45 +0900"
@@ -36,6 +31,11 @@
       "title": "“優勝以外は失敗” 大谷翔平 不完全燃焼も次の戦いへ【解説】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076411000",
       "pubDate": "Sun, 15 Mar 2026 22:12:43 +0900"
+    },
+    {
+      "title": "スキージャンプ女子W杯 伊藤有希が2年ぶり優勝 2位は丸山希",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015076671000",
+      "pubDate": "Mon, 16 Mar 2026 01:39:20 +0900"
     }
   ]
 }
