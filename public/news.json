@@ -1,17 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-15T05:17:54.158Z",
+  "updated": "2026-03-15T06:12:17.897Z",
   "items": [
-    {
-      "title": "【地震速報】群馬県と埼玉県で震度3",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015072111000",
-      "pubDate": "Sun, 15 Mar 2026 14:11:06 +0900"
-    },
-    {
-      "title": "WBC 日本はベネズエラに逆転負け 大会連覇ならず【詳報】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015075921000",
-      "pubDate": "Sun, 15 Mar 2026 14:07:31 +0900"
-    },
     {
       "title": "トランプ大統領 戦闘終結に向けた条件「まだ整っていない」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076161000",
@@ -23,9 +13,19 @@
       "pubDate": "Sun, 15 Mar 2026 12:16:03 +0900"
     },
     {
+      "title": "WBC 日本はベネズエラに逆転負け 大会連覇ならず【詳報】",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015075921000",
+      "pubDate": "Sun, 15 Mar 2026 14:48:18 +0900"
+    },
+    {
       "title": "イラン情勢受け 各党が政府対応めぐり意見交わす 日曜討論",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076151000",
       "pubDate": "Sun, 15 Mar 2026 12:14:19 +0900"
+    },
+    {
+      "title": "自民 小林政調会長 予算案“野党の協力得て年度内成立目指す”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015076221000",
+      "pubDate": "Sun, 15 Mar 2026 14:23:29 +0900"
     },
     {
       "title": "ソウルのカプセルホテルで火事 日本人女性2人意識不明",
