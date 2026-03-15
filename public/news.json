@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-15T14:57:37.372Z",
+  "updated": "2026-03-15T15:34:45.613Z",
   "items": [
+    {
+      "title": "アルペンスキー男子回転 鈴木猛史が銅メダル パラリンピック",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015076611000",
+      "pubDate": "Mon, 16 Mar 2026 00:14:00 +0900"
+    },
+    {
+      "title": "クロスカントリースキー男子  川除大輝が6位 パラリンピック",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015076621000",
+      "pubDate": "Mon, 16 Mar 2026 00:24:18 +0900"
+    },
     {
       "title": "【地震速報】熊本県水俣市で震度4 津波の心配なし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076341000",
       "pubDate": "Sun, 15 Mar 2026 23:28:59 +0900"
-    },
-    {
-      "title": "野球 日本代表 井端弘和監督 WBC今大会かぎりで監督退任の意向",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015076631000",
-      "pubDate": "Sun, 15 Mar 2026 23:25:45 +0900"
     },
     {
       "title": "“優勝以外は失敗” 大谷翔平 不完全燃焼も次の戦いへ【解説】",
@@ -21,11 +26,6 @@
       "title": "前回 世界一からの早すぎる幕切れに WBC 日本代表【解説】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076261000",
       "pubDate": "Sun, 15 Mar 2026 21:46:10 +0900"
-    },
-    {
-      "title": "アルペンスキー男子回転 鈴木猛史が銅メダル パラリンピック",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015076611000",
-      "pubDate": "Sun, 15 Mar 2026 23:54:04 +0900"
     },
     {
       "title": "大相撲 元大関・若嶋津 日高六男さん死去 69歳",
