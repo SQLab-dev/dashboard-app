@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-15T11:42:38.826Z",
+  "updated": "2026-03-15T11:58:24.425Z",
   "items": [
+    {
+      "title": "将棋「棋王戦」五番勝負 第4局 藤井聡太六冠が勝ち 最終局へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015076531000",
+      "pubDate": "Sun, 15 Mar 2026 20:47:48 +0900"
+    },
     {
       "title": "大相撲 元大関・若嶋津 日高六男さん死去 69歳",
       "link": "https://news.web.nhk/newsweb/na/na-k10015076561000",
@@ -30,12 +35,7 @@
     {
       "title": "WBC 日本はベネズエラに逆転負け 大会連覇ならず【詳報】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015075921000",
-      "pubDate": "Sun, 15 Mar 2026 19:59:37 +0900"
-    },
-    {
-      "title": "トランプ氏 ホルムズ海峡安全確保へ 日本などの艦船派遣に期待",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015076011000",
-      "pubDate": "Sun, 15 Mar 2026 18:16:49 +0900"
+      "pubDate": "Sun, 15 Mar 2026 20:49:20 +0900"
     }
   ]
 }
