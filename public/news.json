@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-17T22:55:09.139Z",
+  "updated": "2026-03-17T23:31:25.556Z",
   "items": [
     {
       "title": "トランプ大統領 “NATOや日本など同盟国の支援は必要ない”",
@@ -11,6 +11,11 @@
       "title": "高市首相 19日に日米首脳会談 イラン情勢への対応も焦点に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015078211000",
       "pubDate": "Wed, 18 Mar 2026 05:23:36 +0900"
+    },
+    {
+      "title": "春闘 きょう集中回答日 物価上昇上回る賃上げ実現するかが焦点",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015078201000",
+      "pubDate": "Wed, 18 Mar 2026 08:22:30 +0900"
     },
     {
       "title": "辺野古沖 2人死亡事故 救助された船長「前を進む船が転覆」",
@@ -31,11 +36,6 @@
       "title": "新年度予算案 与党側は年度内成立目指す姿勢 野党側はけん制",
       "link": "https://news.web.nhk/newsweb/na/na-k10015078221000",
       "pubDate": "Wed, 18 Mar 2026 05:17:19 +0900"
-    },
-    {
-      "title": "ロシア高官 欧米の足並みの乱れ強調 さらなる分断図るねらいか",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015078351000",
-      "pubDate": "Wed, 18 Mar 2026 06:49:57 +0900"
     }
   ]
 }
