@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-19T15:07:15.829Z",
+  "updated": "2026-03-19T16:06:14.173Z",
   "items": [
     {
-      "title": "まもなく日米首脳会談 イラン情勢の対応など 意見交わす予定",
+      "title": "日米首脳会談始まる イラン情勢の対応など 意見交わす",
       "link": "https://news.web.nhk/newsweb/na/na-k10015080131000",
-      "pubDate": "Thu, 19 Mar 2026 23:45:26 +0900"
+      "pubDate": "Fri, 20 Mar 2026 01:01:31 +0900"
+    },
+    {
+      "title": "トランプ大統領 高市首相を出迎える ホワイトハウスがSNS投稿",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080181000",
+      "pubDate": "Fri, 20 Mar 2026 00:57:05 +0900"
     },
     {
       "title": "168人が犠牲 香港 高層住宅大規模火災 原因はたばこの不始末か",
@@ -31,11 +36,6 @@
       "title": "ガソリン 激変緩和措置始まる 約1～2週間で小売価格反映見込み",
       "link": "https://news.web.nhk/newsweb/na/na-k10015079001000",
       "pubDate": "Thu, 19 Mar 2026 18:33:00 +0900"
-    },
-    {
-      "title": "原油価格上昇 誤情報や偽画像などSNSで拡散 冷静に対応を",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015079811000",
-      "pubDate": "Thu, 19 Mar 2026 17:36:16 +0900"
     }
   ]
 }
