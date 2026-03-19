@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-19T21:04:09.606Z",
+  "updated": "2026-03-19T21:47:17.385Z",
   "items": [
     {
       "title": "会談終了 高市首相「平和と繁栄もたらせるのはドナルドだけ」",
@@ -18,6 +18,11 @@
       "pubDate": "Fri, 20 Mar 2026 05:36:09 +0900"
     },
     {
+      "title": "日米両政府 対米投資の第2弾候補 共同文書を正式発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080241000",
+      "pubDate": "Fri, 20 Mar 2026 06:37:11 +0900"
+    },
+    {
       "title": "三重 新名神トンネル内で大型トレーラーなど事故 複数人死亡か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015080251000",
       "pubDate": "Fri, 20 Mar 2026 05:50:38 +0900"
@@ -28,14 +33,9 @@
       "pubDate": "Thu, 19 Mar 2026 20:58:45 +0900"
     },
     {
-      "title": "日銀 金融政策維持を決定 “当面はイラン情勢がポイントに”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015079621000",
-      "pubDate": "Thu, 19 Mar 2026 18:31:08 +0900"
-    },
-    {
-      "title": "イラン カタールのLNG施設攻撃 湾岸諸国が非難 【各国の動き】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015079031000",
-      "pubDate": "Thu, 19 Mar 2026 21:16:32 +0900"
+      "title": "新年度予算案 野党側 暫定予算案編成要求 与党側 政府と協議",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080031000",
+      "pubDate": "Fri, 20 Mar 2026 06:32:47 +0900"
     }
   ]
 }
