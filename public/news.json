@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-20T08:56:39.447Z",
+  "updated": "2026-03-20T09:46:16.336Z",
   "items": [
     {
-      "title": "【イラン情勢】トランプ氏作戦前倒し強調 イスラエル イランは",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080161000",
-      "pubDate": "Fri, 20 Mar 2026 17:25:07 +0900"
+      "title": "三重 新名神のトンネル内で事故 6人死亡確認 子ども含む可能性",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080251000",
+      "pubDate": "Fri, 20 Mar 2026 18:19:35 +0900"
+    },
+    {
+      "title": "愛知 新東名のトンネルで事故相次ぐ 車12台が関係 4人軽傷",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080441000",
+      "pubDate": "Fri, 20 Mar 2026 16:13:55 +0900"
+    },
+    {
+      "title": "韓国 自動車関連の工場で火災 約50人けが このうち約20人重傷",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080451000",
+      "pubDate": "Fri, 20 Mar 2026 18:21:55 +0900"
     },
     {
       "title": "【詳しく】高市首相「平和と繁栄もたらせるのはドナルドだけ」",
@@ -23,19 +33,9 @@
       "pubDate": "Fri, 20 Mar 2026 15:05:15 +0900"
     },
     {
-      "title": "三重 新名神高速のトンネル内で事故 6人の死亡を確認",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080251000",
-      "pubDate": "Fri, 20 Mar 2026 16:34:51 +0900"
-    },
-    {
-      "title": "愛知 新東名のトンネルで事故相次ぐ 車12台が関係 4人軽傷",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080441000",
-      "pubDate": "Fri, 20 Mar 2026 16:13:55 +0900"
-    },
-    {
-      "title": "中国 レアアース使った磁石の対日輸出 去年同期比9％余増加",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080481000",
-      "pubDate": "Fri, 20 Mar 2026 16:21:42 +0900"
+      "title": "日米首脳会談 与野党幹部からは評価 要望 抗議",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080491000",
+      "pubDate": "Fri, 20 Mar 2026 18:03:22 +0900"
     }
   ]
 }
