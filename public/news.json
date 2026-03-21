@@ -1,12 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-21T06:45:13.368Z",
+  "updated": "2026-03-21T07:23:03.069Z",
   "items": [
-    {
-      "title": "【地震速報】熊本 水俣で震度3の揺れ 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080731000",
-      "pubDate": "Sat, 21 Mar 2026 15:21:04 +0900"
-    },
     {
       "title": "トランプ氏“段階的縮小を検討”投稿も事態収束の見通し立たず",
       "link": "https://news.web.nhk/newsweb/na/na-k10015080621000",
@@ -18,9 +13,19 @@
       "pubDate": "Sat, 21 Mar 2026 12:30:56 +0900"
     },
     {
+      "title": "高校野球 センバツ 専大松戸が北照に勝ち2回戦へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080951000",
+      "pubDate": "Sat, 21 Mar 2026 15:51:13 +0900"
+    },
+    {
       "title": "福井 防波堤で海に転落 ベトナム国籍の1人死亡 3人行方不明",
       "link": "https://news.web.nhk/newsweb/na/na-k10015080741000",
       "pubDate": "Sat, 21 Mar 2026 12:00:18 +0900"
+    },
+    {
+      "title": "【地震速報】熊本 水俣で震度3の揺れ 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080731000",
+      "pubDate": "Sat, 21 Mar 2026 15:21:04 +0900"
     },
     {
       "title": "政府 シェルター確保で民間との連携推進へ 基本方針案まとめる",
@@ -31,11 +36,6 @@
       "title": "アクション俳優 チャック・ノリスさん死去 86歳",
       "link": "https://news.web.nhk/newsweb/na/na-k10015080901000",
       "pubDate": "Sat, 21 Mar 2026 14:35:53 +0900"
-    },
-    {
-      "title": "鹿児島トカラ列島の鳥 新種と確認 ヤンバルクイナ以来45年ぶり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080871000",
-      "pubDate": "Sat, 21 Mar 2026 12:24:40 +0900"
     }
   ]
 }
