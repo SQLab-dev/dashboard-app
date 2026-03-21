@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-21T22:26:55.977Z",
+  "updated": "2026-03-21T22:51:33.703Z",
   "items": [
     {
       "title": "イラン 核開発拠点あるとされるイスラエル南部を攻撃 応酬続く",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081151000",
       "pubDate": "Sun, 22 Mar 2026 07:25:22 +0900"
+    },
+    {
+      "title": "トランプ大統領 週明けにも空港にICE職員を投入の方針",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081191000",
+      "pubDate": "Sun, 22 Mar 2026 07:43:08 +0900"
     },
     {
       "title": "群馬 上野村 山林火災 延焼の範囲拡大 住民に避難呼びかけ",
@@ -18,6 +23,11 @@
       "pubDate": "Sun, 22 Mar 2026 06:01:53 +0900"
     },
     {
+      "title": "BTS活動再開 ソウルで無料ライブ 会場周辺は厳重な警戒態勢",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081141000",
+      "pubDate": "Sun, 22 Mar 2026 06:36:44 +0900"
+    },
+    {
       "title": "新年度予算案 与党側 暫定予算案の扱いも含め政府と協議へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081111000",
       "pubDate": "Sun, 22 Mar 2026 05:13:56 +0900"
@@ -26,16 +36,6 @@
       "title": "北朝鮮 きょう最高人民会議を開催",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081121000",
       "pubDate": "Sun, 22 Mar 2026 05:12:56 +0900"
-    },
-    {
-      "title": "静岡 山間部で県道脇の斜面崩れ 少なくとも79人が下山できず",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081041000",
-      "pubDate": "Sat, 21 Mar 2026 19:06:03 +0900"
-    },
-    {
-      "title": "BTS活動再開 ソウルで無料ライブ 会場周辺は厳重な警戒態勢",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081141000",
-      "pubDate": "Sun, 22 Mar 2026 06:36:44 +0900"
     }
   ]
 }
