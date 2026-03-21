@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-21T13:25:56.534Z",
+  "updated": "2026-03-21T13:57:27.194Z",
   "items": [
+    {
+      "title": "群馬 上野村で山林火災 延焼拡大 村が7世帯に避難呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081021000",
+      "pubDate": "Sat, 21 Mar 2026 22:17:56 +0900"
+    },
     {
       "title": "福島 トンネル内で車が衝突 40代女性が死亡 子ども含む6人けが",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081001000",
@@ -11,16 +16,6 @@
       "title": "サッカー女子アジア杯決勝 なでしこジャパンが2大会ぶりの優勝",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081091000",
       "pubDate": "Sat, 21 Mar 2026 21:49:49 +0900"
-    },
-    {
-      "title": "【地震速報】熊本で震度4 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080961000",
-      "pubDate": "Sat, 21 Mar 2026 20:45:05 +0900"
-    },
-    {
-      "title": "群馬 上野村で山林火災 延焼拡大 村が7世帯に避難呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081021000",
-      "pubDate": "Sat, 21 Mar 2026 22:17:56 +0900"
     },
     {
       "title": "静岡 山間部で県道脇の斜面崩れ 少なくとも79人が下山できず",
@@ -33,9 +28,14 @@
       "pubDate": "Sat, 21 Mar 2026 19:02:44 +0900"
     },
     {
-      "title": "大相撲春場所 霧島の優勝決まる 3年前の九州場所以来3回目",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080891000",
-      "pubDate": "Sat, 21 Mar 2026 20:03:30 +0900"
+      "title": "イランへの軍事作戦 開始から3週間 事態収束の見通し立たず",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080621000",
+      "pubDate": "Sat, 21 Mar 2026 22:29:48 +0900"
+    },
+    {
+      "title": "【地震速報】熊本で震度4 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015080961000",
+      "pubDate": "Sat, 21 Mar 2026 20:45:05 +0900"
     }
   ]
 }
