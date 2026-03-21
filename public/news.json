@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-21T21:40:09.478Z",
+  "updated": "2026-03-21T21:55:59.122Z",
   "items": [
+    {
+      "title": "イラン 核開発拠点あるとされるイスラエル南部を攻撃 応酬続く",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081151000",
+      "pubDate": "Sun, 22 Mar 2026 06:41:22 +0900"
+    },
     {
       "title": "“ロシアが交換条件の提案 アメリカは拒否” 政治専門サイト",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081161000",
       "pubDate": "Sun, 22 Mar 2026 06:01:53 +0900"
+    },
+    {
+      "title": "群馬 上野村 山林火災 延焼の範囲拡大 鎮火のめど立たず",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081171000",
+      "pubDate": "Sun, 22 Mar 2026 06:50:45 +0900"
     },
     {
       "title": "新年度予算案 与党側 暫定予算案の扱いも含め政府と協議へ",
@@ -18,24 +28,14 @@
       "pubDate": "Sun, 22 Mar 2026 05:12:56 +0900"
     },
     {
-      "title": "イランへの軍事作戦 開始から3週間 事態収束の見通し立たず",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015080621000",
-      "pubDate": "Sun, 22 Mar 2026 05:26:31 +0900"
-    },
-    {
-      "title": "群馬 上野村で山林火災 延焼拡大 村が7世帯に避難呼びかけ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081021000",
-      "pubDate": "Sat, 21 Mar 2026 22:17:56 +0900"
-    },
-    {
-      "title": "福島 トンネル内で車が衝突 40代女性が死亡 子ども含む6人けが",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081001000",
-      "pubDate": "Sat, 21 Mar 2026 20:22:49 +0900"
-    },
-    {
       "title": "静岡 山間部で県道脇の斜面崩れ 少なくとも79人が下山できず",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081041000",
       "pubDate": "Sat, 21 Mar 2026 19:06:03 +0900"
+    },
+    {
+      "title": "BTS活動再開 ソウルで無料ライブ 会場周辺は厳重な警戒態勢",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081141000",
+      "pubDate": "Sun, 22 Mar 2026 06:36:44 +0900"
     }
   ]
 }
