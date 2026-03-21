@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-21T22:51:33.703Z",
+  "updated": "2026-03-21T23:14:16.810Z",
   "items": [
     {
       "title": "イラン 核開発拠点あるとされるイスラエル南部を攻撃 応酬続く",
@@ -23,6 +23,11 @@
       "pubDate": "Sun, 22 Mar 2026 06:01:53 +0900"
     },
     {
+      "title": "高校野球 センバツ【大会4日目の見どころ】1回戦3試合",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081061000",
+      "pubDate": "Sun, 22 Mar 2026 05:59:40 +0900"
+    },
+    {
       "title": "BTS活動再開 ソウルで無料ライブ 会場周辺は厳重な警戒態勢",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081141000",
       "pubDate": "Sun, 22 Mar 2026 06:36:44 +0900"
@@ -31,11 +36,6 @@
       "title": "新年度予算案 与党側 暫定予算案の扱いも含め政府と協議へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081111000",
       "pubDate": "Sun, 22 Mar 2026 05:13:56 +0900"
-    },
-    {
-      "title": "北朝鮮 きょう最高人民会議を開催",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081121000",
-      "pubDate": "Sun, 22 Mar 2026 05:12:56 +0900"
     }
   ]
 }
