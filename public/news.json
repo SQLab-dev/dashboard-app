@@ -1,21 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-23T09:13:21.678Z",
+  "updated": "2026-03-23T10:15:20.835Z",
   "items": [
-    {
-      "title": "暫定予算案 政府が編成する方向で検討開始 自民が立民に伝達",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081771000",
-      "pubDate": "Mon, 23 Mar 2026 17:33:21 +0900"
-    },
     {
       "title": "NY ラガーディア空港で航空機と車両衝突 2人死亡か 現地報道",
       "link": "https://news.web.nhk/newsweb/na/na-k10015081921000",
       "pubDate": "Mon, 23 Mar 2026 18:08:24 +0900"
-    },
-    {
-      "title": "高市首相 “ホルムズ海峡で要請 できることできないこと説明”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081981000",
-      "pubDate": "Mon, 23 Mar 2026 17:38:33 +0900"
     },
     {
       "title": "米 “ホルムズ海峡開放しなければ攻撃” 期限まで24時間切る",
@@ -23,14 +13,24 @@
       "pubDate": "Mon, 23 Mar 2026 17:33:54 +0900"
     },
     {
-      "title": "“紀州のドン・ファン”殺害事件2審 元妻に1審に続き無罪判決",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081741000",
-      "pubDate": "Mon, 23 Mar 2026 15:05:57 +0900"
+      "title": "高市首相 “ホルムズ海峡で要請 できることできないこと説明”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081981000",
+      "pubDate": "Mon, 23 Mar 2026 17:38:33 +0900"
     },
     {
-      "title": "証券口座乗っ取り事件 会社社長に有罪判決 相場操縦などの罪",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015082061000",
-      "pubDate": "Mon, 23 Mar 2026 18:00:05 +0900"
+      "title": "暫定予算案 政府が編成する方向で検討開始 自民が立民に伝達",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081771000",
+      "pubDate": "Mon, 23 Mar 2026 18:35:38 +0900"
+    },
+    {
+      "title": "“紀州のドン・ファン”殺害事件2審 元妻に1審に続き無罪判決",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081741000",
+      "pubDate": "Mon, 23 Mar 2026 18:48:38 +0900"
+    },
+    {
+      "title": "スーパー コメ平均価格 5キロ3980円 約7か月ぶり3000円台",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015081991000",
+      "pubDate": "Mon, 23 Mar 2026 18:50:01 +0900"
     },
     {
       "title": "代理出産実施 国内初公表の産婦人科病院 不妊治療の診療終了へ",
