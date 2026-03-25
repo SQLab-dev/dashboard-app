@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-25T09:31:31.995Z",
+  "updated": "2026-03-25T10:28:29.604Z",
   "items": [
     {
-      "title": "“米 戦闘終結へ15項目の計画送付” イラン側 協議自体否定",
+      "title": "ホンダとソニー EVの開発と発売を中止",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015084021000",
+      "pubDate": "Wed, 25 Mar 2026 19:12:19 +0900"
+    },
+    {
+      "title": "“米 戦闘終結へ15項目の計画送付” イラン側 協議否定し反発",
       "link": "https://news.web.nhk/newsweb/na/na-k10015083481000",
-      "pubDate": "Wed, 25 Mar 2026 18:16:27 +0900"
+      "pubDate": "Wed, 25 Mar 2026 19:08:13 +0900"
     },
     {
       "title": "高市首相 “機雷掃海目的の自衛隊派遣 決まっていることない”",
@@ -13,9 +18,9 @@
       "pubDate": "Wed, 25 Mar 2026 17:28:40 +0900"
     },
     {
-      "title": "大阪市の住宅街などで相次ぎ目撃のシカ 25日昼すぎ捕獲される",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015083841000",
-      "pubDate": "Wed, 25 Mar 2026 15:33:30 +0900"
+      "title": "ガソリン小売価格 1リットル177.7円 前週から13.1円値下がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015083601000",
+      "pubDate": "Wed, 25 Mar 2026 18:47:16 +0900"
     },
     {
       "title": "ホルムズ海峡付近 船舶の位置情報など通信妨害か 研究者が分析",
@@ -28,14 +33,9 @@
       "pubDate": "Wed, 25 Mar 2026 17:43:12 +0900"
     },
     {
-      "title": "“休憩時間がない” LCC客室乗務員が会社訴えた裁判 調停成立",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015083811000",
-      "pubDate": "Wed, 25 Mar 2026 16:28:15 +0900"
-    },
-    {
-      "title": "同性婚訴訟 最高裁が大法廷で審理へ 初めて憲法判断か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015083961000",
-      "pubDate": "Wed, 25 Mar 2026 18:13:31 +0900"
+      "title": "大阪 住宅街などで目撃のシカ捕獲 府内で受け入れ先を調整",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015083841000",
+      "pubDate": "Wed, 25 Mar 2026 18:39:28 +0900"
     }
   ]
 }
