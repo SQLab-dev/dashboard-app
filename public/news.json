@@ -1,7 +1,17 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-25T11:23:37.231Z",
+  "updated": "2026-03-25T12:01:04.973Z",
   "items": [
+    {
+      "title": "【地震速報】京都と兵庫で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015082261000",
+      "pubDate": "Wed, 25 Mar 2026 20:41:23 +0900"
+    },
+    {
+      "title": "【地震速報】福岡、佐賀、熊本で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015084181000",
+      "pubDate": "Wed, 25 Mar 2026 20:39:22 +0900"
+    },
     {
       "title": "“米 戦闘終結へ15項目の計画送付” イラン側 協議否定し反発",
       "link": "https://news.web.nhk/newsweb/na/na-k10015083481000",
@@ -26,16 +36,6 @@
       "title": "【都道府県一覧】ガソリン小売価格 全国平均6週ぶり値下がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015083601000",
       "pubDate": "Wed, 25 Mar 2026 18:47:16 +0900"
-    },
-    {
-      "title": "ウクライナに大規模攻撃 世界遺産の登録地区も被害",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015084061000",
-      "pubDate": "Wed, 25 Mar 2026 20:01:31 +0900"
-    },
-    {
-      "title": "袴田巌さんの姉 “再審制度見直し 政府案は不十分”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015084071000",
-      "pubDate": "Wed, 25 Mar 2026 20:16:54 +0900"
     }
   ]
 }
