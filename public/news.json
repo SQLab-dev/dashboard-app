@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-26T14:08:02.282Z",
+  "updated": "2026-03-26T15:39:06.640Z",
   "items": [
     {
       "title": "池袋サンシャインシティ 女性が男に刺され死亡 刺した男も死亡",
       "link": "https://news.web.nhk/newsweb/na/na-k10015085011000",
-      "pubDate": "Thu, 26 Mar 2026 22:21:50 +0900"
+      "pubDate": "Fri, 27 Mar 2026 00:12:21 +0900"
+    },
+    {
+      "title": "【地震速報】岩手で震度4 津波被害の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015085101000",
+      "pubDate": "Fri, 27 Mar 2026 00:30:57 +0900"
     },
     {
       "title": "アメリカとイランの主張 食い違い続く 先行き なお不透明",
@@ -28,14 +33,9 @@
       "pubDate": "Thu, 26 Mar 2026 22:01:10 +0900"
     },
     {
-      "title": "筋肉維持に必要な重力は“火星より重く地球より軽い環境”JAXA",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015085021000",
-      "pubDate": "Thu, 26 Mar 2026 21:40:29 +0900"
-    },
-    {
-      "title": "プロ野球あす開幕 12球団監督の決意と開幕カードの見どころは",
+      "title": "プロ野球きょう開幕 12球団監督の決意 開幕カードの見どころは",
       "link": "https://news.web.nhk/newsweb/na/na-k10015084471000",
-      "pubDate": "Thu, 26 Mar 2026 20:53:50 +0900"
+      "pubDate": "Fri, 27 Mar 2026 00:13:10 +0900"
     }
   ]
 }
