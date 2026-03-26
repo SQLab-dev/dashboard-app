@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-26T06:46:14.130Z",
+  "updated": "2026-03-26T07:48:14.403Z",
   "items": [
+    {
+      "title": "【地震速報】岩手で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015084491000",
+      "pubDate": "Thu, 26 Mar 2026 16:41:46 +0900"
+    },
     {
       "title": "米大統領”イラン合意したがっている” イランは協議を否定",
       "link": "https://news.web.nhk/newsweb/na/na-k10015084361000",
-      "pubDate": "Thu, 26 Mar 2026 14:39:32 +0900"
+      "pubDate": "Thu, 26 Mar 2026 16:07:22 +0900"
     },
     {
       "title": "営業秘密持ち出し 楽天モバイルへの賠償請求認めず 東京地裁",
@@ -18,6 +23,11 @@
       "pubDate": "Thu, 26 Mar 2026 14:35:03 +0900"
     },
     {
+      "title": "古い蛍光灯器具にLED 発火のおそれ 適切な方法で交換を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015084461000",
+      "pubDate": "Thu, 26 Mar 2026 16:39:27 +0900"
+    },
+    {
       "title": "北海道新幹線 開業10年 計画の遅れや利用客の伸び悩みなど課題",
       "link": "https://news.web.nhk/newsweb/na/na-k10015084701000",
       "pubDate": "Thu, 26 Mar 2026 14:14:39 +0900"
@@ -26,16 +36,6 @@
       "title": "石油の「国家備蓄」の放出始まる 安定供給につなげたい考え",
       "link": "https://news.web.nhk/newsweb/na/na-k10015084541000",
       "pubDate": "Thu, 26 Mar 2026 12:20:42 +0900"
-    },
-    {
-      "title": "大阪 熊取町 給食のパンで食中毒 製造業者を営業停止処分",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015084501000",
-      "pubDate": "Thu, 26 Mar 2026 11:41:04 +0900"
-    },
-    {
-      "title": "未成年SNS依存訴訟 メタとグーグルに約9億5000万円賠償命じる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015084601000",
-      "pubDate": "Thu, 26 Mar 2026 12:28:26 +0900"
     }
   ]
 }
