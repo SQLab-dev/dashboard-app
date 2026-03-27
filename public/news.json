@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-27T16:33:38.005Z",
+  "updated": "2026-03-27T17:30:40.343Z",
   "items": [
     {
       "title": "NY市場 1ドル＝160円台に 2024年7月以来 イラン情勢背景",
@@ -23,11 +23,6 @@
       "pubDate": "Sat, 28 Mar 2026 00:13:50 +0900"
     },
     {
-      "title": "税務署職員が公文書偽造か 停職6か月の懲戒処分 東京国税局",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086211000",
-      "pubDate": "Fri, 27 Mar 2026 23:54:59 +0900"
-    },
-    {
       "title": "香港 パスワード提供拒否で刑事罰 米が自国民に注意呼びかけ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086151000",
       "pubDate": "Fri, 27 Mar 2026 22:30:37 +0900"
@@ -36,6 +31,11 @@
       "title": "巨人 竹丸が球団史上初 ロッテ毛利は76年ぶり 新人が開幕勝利",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086351000",
       "pubDate": "Sat, 28 Mar 2026 01:18:24 +0900"
+    },
+    {
+      "title": "卓球 Ｔリーグ 木下マイスター東京が2季ぶり5回目の優勝",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086251000",
+      "pubDate": "Sat, 28 Mar 2026 01:30:03 +0900"
     }
   ]
 }
