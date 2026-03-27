@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-27T15:37:39.612Z",
+  "updated": "2026-03-27T16:33:38.005Z",
   "items": [
+    {
+      "title": "NY市場 1ドル＝160円台に 2024年7月以来 イラン情勢背景",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086331000",
+      "pubDate": "Sat, 28 Mar 2026 01:08:35 +0900"
+    },
     {
       "title": "トランプ氏“施設攻撃は10日間猶予”兵士追加派遣検討の報道も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015085251000",
@@ -28,14 +33,9 @@
       "pubDate": "Fri, 27 Mar 2026 22:30:37 +0900"
     },
     {
-      "title": "KDDI 不正取引確認の子会社 2社のネット広告代理事業を廃止へ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086161000",
-      "pubDate": "Fri, 27 Mar 2026 22:31:55 +0900"
-    },
-    {
-      "title": "Jリーグ特別大会 J1第5節 ヴィッセル神戸がWESTの首位に浮上",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086241000",
-      "pubDate": "Fri, 27 Mar 2026 23:10:40 +0900"
+      "title": "巨人 竹丸が球団史上初 ロッテ毛利は76年ぶり 新人が開幕勝利",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086351000",
+      "pubDate": "Sat, 28 Mar 2026 01:18:24 +0900"
     }
   ]
 }
