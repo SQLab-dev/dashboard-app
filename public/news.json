@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-28T05:46:29.465Z",
+  "updated": "2026-03-28T06:40:23.763Z",
   "items": [
+    {
+      "title": "東京でサクラが満開 去年より2日 平年より3日早く",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086601000",
+      "pubDate": "Sat, 28 Mar 2026 15:03:50 +0900"
+    },
     {
       "title": "イラン軍事作戦1か月 米国務長官 “作戦は数週間で終わる”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086371000",
-      "pubDate": "Sat, 28 Mar 2026 12:13:54 +0900"
+      "pubDate": "Sat, 28 Mar 2026 15:07:30 +0900"
+    },
+    {
+      "title": "ドジャース 大谷翔平 ノーヒットも得点に絡む チーム開幕2連勝",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086531000",
+      "pubDate": "Sat, 28 Mar 2026 15:21:44 +0900"
     },
     {
       "title": "スラムダンク“聖地”踏切でAIカメラ実証実験 迷惑行為を記録",
@@ -13,9 +23,9 @@
       "pubDate": "Sat, 28 Mar 2026 12:19:17 +0900"
     },
     {
-      "title": "東京 目黒川 “桜まつり”を彩る並木道",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015081811000",
-      "pubDate": "Sat, 28 Mar 2026 13:13:38 +0900"
+      "title": "フィギュア 坂本花織が世界選手権で優勝 現役最後の大会で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086421000",
+      "pubDate": "Sat, 28 Mar 2026 08:45:05 +0900"
     },
     {
       "title": "全国の博物館収蔵庫 6割余が「満杯状態」 日本博物館協会調査",
@@ -23,19 +33,9 @@
       "pubDate": "Sat, 28 Mar 2026 06:16:35 +0900"
     },
     {
-      "title": "フィギュア 坂本花織が世界選手権で優勝 現役最後の大会で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086421000",
-      "pubDate": "Sat, 28 Mar 2026 08:45:05 +0900"
-    },
-    {
-      "title": "エンジェルス 菊池雄星 5回途中2失点 勝ち負けつかず",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086581000",
-      "pubDate": "Sat, 28 Mar 2026 14:27:39 +0900"
-    },
-    {
-      "title": "ブルージェイズ 岡本和真 2安打デビュー「いいチームに来た」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086541000",
-      "pubDate": "Sat, 28 Mar 2026 13:11:22 +0900"
+      "title": "ヤンキース ジャッジ ABS成功後に今季初HR 判断と勝負強さ光る",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086611000",
+      "pubDate": "Sat, 28 Mar 2026 15:22:35 +0900"
     }
   ]
 }
