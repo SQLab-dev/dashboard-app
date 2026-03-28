@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-28T23:01:42.239Z",
+  "updated": "2026-03-28T23:41:19.139Z",
   "items": [
     {
       "title": "米中央軍“1万1000余の標的を攻撃” イランも湾岸諸国を攻撃",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086831000",
       "pubDate": "Sun, 29 Mar 2026 07:24:54 +0900"
+    },
+    {
+      "title": "米各地でトランプ大統領への抗議デモ 軍事作戦に反対する声も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086891000",
+      "pubDate": "Sun, 29 Mar 2026 08:13:19 +0900"
     },
     {
       "title": "山上徹也被告 NHKの文書での取材に応じる 安倍元首相銃撃事件",
@@ -23,11 +28,6 @@
       "pubDate": "Sat, 28 Mar 2026 20:57:45 +0900"
     },
     {
-      "title": "米FBI長官にサイバー攻撃 “イラン関わる”ハッカー集団が声明",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015086571000",
-      "pubDate": "Sat, 28 Mar 2026 15:39:15 +0900"
-    },
-    {
       "title": "中東産原油 愛媛県沖に到着 イラン軍事作戦開始後初めて日本へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086681000",
       "pubDate": "Sat, 28 Mar 2026 18:38:00 +0900"
@@ -35,7 +35,7 @@
     {
       "title": "サッカー日本代表 スコットランドに1対0 伊東純也が決勝ゴール",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086751000",
-      "pubDate": "Sun, 29 Mar 2026 07:26:00 +0900"
+      "pubDate": "Sun, 29 Mar 2026 08:14:56 +0900"
     }
   ]
 }
