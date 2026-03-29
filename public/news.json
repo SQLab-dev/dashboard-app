@@ -1,12 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-29T09:39:22.339Z",
+  "updated": "2026-03-29T10:04:22.168Z",
   "items": [
-    {
-      "title": "将棋 棋王戦 藤井聡太六冠が増田康宏八段に勝ち タイトル4連覇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015087081000",
-      "pubDate": "Sun, 29 Mar 2026 18:28:03 +0900"
-    },
     {
       "title": "米軍がイランへの圧力強める 仲介役のパキスタンは外交活発化",
       "link": "https://news.web.nhk/newsweb/na/na-k10015086831000",
@@ -28,14 +23,19 @@
       "pubDate": "Sun, 29 Mar 2026 18:09:42 +0900"
     },
     {
-      "title": "立民 党大会 来春統一地方選 中道と合流せず 独自候補擁立方針",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015087031000",
-      "pubDate": "Sun, 29 Mar 2026 17:30:12 +0900"
+      "title": "将棋 棋王戦 藤井聡太六冠が増田康宏八段に勝ち タイトル4連覇",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015087081000",
+      "pubDate": "Sun, 29 Mar 2026 18:28:03 +0900"
     },
     {
       "title": "中東産原油 愛媛の製油所に到着 ホルムズ海峡通らないルートで",
       "link": "https://news.web.nhk/newsweb/na/na-k10015087051000",
       "pubDate": "Sun, 29 Mar 2026 17:53:40 +0900"
+    },
+    {
+      "title": "立民 党大会 来春統一地方選 中道と合流せず 独自候補擁立方針",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015087031000",
+      "pubDate": "Sun, 29 Mar 2026 17:30:12 +0900"
     }
   ]
 }
