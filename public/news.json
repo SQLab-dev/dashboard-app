@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-30T21:50:34.011Z",
+  "updated": "2026-03-30T22:20:57.353Z",
   "items": [
+    {
+      "title": "トランプ氏 軍事作戦終結に向けた協議を主張 イランは否定",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015088071000",
+      "pubDate": "Tue, 31 Mar 2026 06:56:11 +0900"
+    },
     {
       "title": "中東情勢受け 赤澤経産相中心に石油製品の安定供給の確保へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015087971000",
@@ -31,11 +36,6 @@
       "title": "KDDI 子会社による架空取引問題 きょう調査結果公表へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015087991000",
       "pubDate": "Tue, 31 Mar 2026 06:30:29 +0900"
-    },
-    {
-      "title": "ブロッコリー4月から指定野菜に 追加はじゃがいも以来52年ぶり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015088001000",
-      "pubDate": "Tue, 31 Mar 2026 06:34:19 +0900"
     }
   ]
 }
