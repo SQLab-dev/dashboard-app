@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-30T18:06:48.088Z",
+  "updated": "2026-03-30T19:16:56.667Z",
   "items": [
+    {
+      "title": "【地震速報】岩手と宮城で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015086281000",
+      "pubDate": "Tue, 31 Mar 2026 04:08:47 +0900"
+    },
     {
       "title": "イラン情勢 トランプ大統領 カーグ島を占領する可能性も示唆",
       "link": "https://news.web.nhk/newsweb/na/na-k10015087241000",
@@ -13,9 +18,9 @@
       "pubDate": "Mon, 30 Mar 2026 19:01:53 +0900"
     },
     {
-      "title": "静岡 伊東市の田久保前市長を在宅起訴 卒業証書偽造などの罪で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015087711000",
-      "pubDate": "Mon, 30 Mar 2026 19:32:07 +0900"
+      "title": "高年齢者の労災防止の取り組み 4月1日から企業の努力義務に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015087811000",
+      "pubDate": "Tue, 31 Mar 2026 03:22:26 +0900"
     },
     {
       "title": "中国の海洋調査船 日本のEEZで活動 海保が中止求める",
@@ -23,19 +28,14 @@
       "pubDate": "Mon, 30 Mar 2026 22:46:09 +0900"
     },
     {
-      "title": "新年度の暫定予算 賛成多数で可決・成立",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015087151000",
-      "pubDate": "Mon, 30 Mar 2026 19:06:07 +0900"
-    },
-    {
       "title": "未成年女性に対する性的暴行事件 約10年たって起訴 島根",
       "link": "https://news.web.nhk/newsweb/na/na-k10015088121000",
       "pubDate": "Mon, 30 Mar 2026 23:20:02 +0900"
     },
     {
-      "title": "27年前の女性殺害事件 遺族が被告に損害賠償求め提訴 名古屋",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015087841000",
-      "pubDate": "Mon, 30 Mar 2026 19:30:47 +0900"
+      "title": "静岡 伊東市の田久保前市長を在宅起訴 卒業証書偽造などの罪で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015087711000",
+      "pubDate": "Mon, 30 Mar 2026 19:32:07 +0900"
     }
   ]
 }
