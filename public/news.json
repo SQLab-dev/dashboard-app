@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-03-31T09:18:10.780Z",
+  "updated": "2026-03-31T10:16:40.857Z",
   "items": [
     {
       "title": "KDDI 架空取引問題で約330億円が外部流出 子会社社長ら6人辞任",
       "link": "https://news.web.nhk/newsweb/na/na-k10015088541000",
-      "pubDate": "Tue, 31 Mar 2026 17:42:57 +0900"
+      "pubDate": "Tue, 31 Mar 2026 19:11:59 +0900"
+    },
+    {
+      "title": "“受刑者の選挙権を制限 公職選挙法は憲法違反” 高松地裁",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015088841000",
+      "pubDate": "Tue, 31 Mar 2026 18:23:06 +0900"
+    },
+    {
+      "title": "「国家情報局」設置の法案 与野党2日に審議入りで合意",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015088641000",
+      "pubDate": "Tue, 31 Mar 2026 18:24:02 +0900"
     },
     {
       "title": "4月値上げの食品は2798品目に 去年10月以来の2000品目超",
@@ -13,29 +23,19 @@
       "pubDate": "Tue, 31 Mar 2026 17:54:05 +0900"
     },
     {
-      "title": "センバツ大阪桐蔭が優勝 4年ぶり5回目 春夏通算10回目【詳報】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015087691000",
-      "pubDate": "Tue, 31 Mar 2026 18:09:56 +0900"
-    },
-    {
-      "title": "東京大学 汚職事件医師を懲戒解雇処分 調査で研究費私的流用も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015088731000",
-      "pubDate": "Tue, 31 Mar 2026 16:51:37 +0900"
-    },
-    {
-      "title": "世界選手権優勝の坂本花織が帰国「ホッとしている」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015088771000",
-      "pubDate": "Tue, 31 Mar 2026 18:12:57 +0900"
-    },
-    {
-      "title": "日本・インドネシア首脳会談 エネルギー安全保障分野 連携確認",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015088551000",
-      "pubDate": "Tue, 31 Mar 2026 17:34:25 +0900"
-    },
-    {
       "title": "米報道官“軍事作戦期間 変わりない” イラン側反撃構え崩さず",
       "link": "https://news.web.nhk/newsweb/na/na-k10015088071000",
       "pubDate": "Tue, 31 Mar 2026 18:16:39 +0900"
+    },
+    {
+      "title": "浜岡原発データ不正処理問題 中部電力 社内調査など報告書提出",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015088501000",
+      "pubDate": "Tue, 31 Mar 2026 18:47:27 +0900"
+    },
+    {
+      "title": "数学の難問「ABC予想」 国際研究プロジェクトが新手法で検証",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015088851000",
+      "pubDate": "Tue, 31 Mar 2026 19:00:09 +0900"
     }
   ]
 }
