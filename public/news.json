@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-01T10:38:51.146Z",
+  "updated": "2026-04-01T11:35:28.675Z",
   "items": [
+    {
+      "title": "イラン情勢 トランプ大統領 日本時間2日 国民向けに演説",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015089331000",
+      "pubDate": "Wed, 01 Apr 2026 19:39:06 +0900"
+    },
     {
       "title": "日仏首脳会談 イラン情勢 引き続き緊密に意思疎通で一致",
       "link": "https://news.web.nhk/newsweb/na/na-k10015089651000",
       "pubDate": "Wed, 01 Apr 2026 19:27:27 +0900"
+    },
+    {
+      "title": "各地の企業で入社式 リーダーが新入社員を激励",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015089811000",
+      "pubDate": "Wed, 01 Apr 2026 19:44:20 +0900"
     },
     {
       "title": "日仏の外務・防衛閣僚“イラン情勢沈静化向け意思疎通続ける”",
@@ -18,24 +28,14 @@
       "pubDate": "Wed, 01 Apr 2026 18:54:39 +0900"
     },
     {
-      "title": "イラン情勢 トランプ大統領 日本時間のあす 国民向けに演説",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015089331000",
-      "pubDate": "Wed, 01 Apr 2026 19:00:04 +0900"
-    },
-    {
-      "title": "日本で働く外国人増 入社式も様変わり ルールは？【Q＆A】",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015089831000",
-      "pubDate": "Wed, 01 Apr 2026 19:32:08 +0900"
-    },
-    {
       "title": "新年度スタート 制度や税制で変わったことは？【詳しく】",
       "link": "https://news.web.nhk/newsweb/na/na-k10015089621000",
       "pubDate": "Wed, 01 Apr 2026 18:43:26 +0900"
     },
     {
-      "title": "円相場 値上がり イラン情勢の長期化懸念和らぐ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015090081000",
-      "pubDate": "Wed, 01 Apr 2026 18:35:04 +0900"
+      "title": "仏大統領 イラン情勢 “当事国以外も加わる解決の枠組み必要”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015089981000",
+      "pubDate": "Wed, 01 Apr 2026 19:41:43 +0900"
     }
   ]
 }
