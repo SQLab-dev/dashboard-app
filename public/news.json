@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-03T11:10:24.415Z",
+  "updated": "2026-04-03T11:53:11.418Z",
   "items": [
+    {
+      "title": "商船三井LNG運搬船 ホルムズ海峡通過 軍事作戦後 日本関係で初",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015091851000",
+      "pubDate": "Fri, 03 Apr 2026 20:43:22 +0900"
+    },
     {
       "title": "米軍がテヘラン郊外の橋を攻撃 イラン側反発 徹底抗戦の構え",
       "link": "https://news.web.nhk/newsweb/na/na-k10015091101000",
-      "pubDate": "Fri, 03 Apr 2026 19:18:57 +0900"
+      "pubDate": "Fri, 03 Apr 2026 20:22:51 +0900"
     },
     {
       "title": "京都 南丹 男児不明 ため池捜索も新たな手がかり見つからず",
@@ -31,11 +36,6 @@
       "title": "スーパーのコメ平均価格 5キロ 3935円 7週連続で値下がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015091621000",
       "pubDate": "Fri, 03 Apr 2026 18:27:34 +0900"
-    },
-    {
-      "title": "マイクロソフト 日本国内でのAI開発に約1兆6000億円投資",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015091261000",
-      "pubDate": "Fri, 03 Apr 2026 17:20:55 +0900"
     }
   ]
 }
