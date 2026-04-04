@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-04T14:54:36.713Z",
+  "updated": "2026-04-04T15:28:19.623Z",
   "items": [
+    {
+      "title": "新入社員の給料が年々上昇 既存社員の待遇改善も新たな課題に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092311000",
+      "pubDate": "Sat, 04 Apr 2026 23:55:41 +0900"
+    },
     {
       "title": "強風など各地で大荒れの天気 東・北日本は明け方にかけ警戒を",
       "link": "https://news.web.nhk/newsweb/na/na-k10015092141000",
@@ -31,11 +36,6 @@
       "title": "東大 特任准教授ら21人処分 5万円の飲食接待も 不祥事受け調査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015092191000",
       "pubDate": "Sat, 04 Apr 2026 15:34:20 +0900"
-    },
-    {
-      "title": "【プロ野球結果】ヤクルト 先発全員ヒットで勝利 試合動画も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092301000",
-      "pubDate": "Sat, 04 Apr 2026 22:16:53 +0900"
     }
   ]
 }
