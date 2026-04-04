@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-04T12:34:38.362Z",
+  "updated": "2026-04-04T13:37:34.461Z",
   "items": [
+    {
+      "title": "“米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092011000",
+      "pubDate": "Sat, 04 Apr 2026 22:25:11 +0900"
+    },
+    {
+      "title": "【プロ野球結果】ヤクルト 先発全員ヒットで勝利 試合動画も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092301000",
+      "pubDate": "Sat, 04 Apr 2026 22:16:53 +0900"
+    },
     {
       "title": "原油 来年の年明けまで確保できると見込む 政府",
       "link": "https://news.web.nhk/newsweb/na/na-k10015092241000",
-      "pubDate": "Sat, 04 Apr 2026 19:23:35 +0900"
+      "pubDate": "Sat, 04 Apr 2026 21:57:41 +0900"
     },
     {
       "title": "トリカブトを誤食 80代男性が死亡 北海道",
@@ -26,16 +36,6 @@
       "title": "ノロウイルス 新たな変異ウイルスが国内外で拡大 研究グループ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015092091000",
       "pubDate": "Sat, 04 Apr 2026 10:55:01 +0900"
-    },
-    {
-      "title": "“米軍戦闘機など2機 イランの攻撃で墜落 1人行方不明” 報道",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092011000",
-      "pubDate": "Sat, 04 Apr 2026 19:52:52 +0900"
-    },
-    {
-      "title": "【地震速報】岩手 宮城で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092201000",
-      "pubDate": "Sat, 04 Apr 2026 19:58:08 +0900"
     }
   ]
 }
