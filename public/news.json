@@ -1,31 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-05T23:44:01.929Z",
+  "updated": "2026-04-06T01:04:44.697Z",
   "items": [
+    {
+      "title": "長期金利 一時2.4％まで上昇 約27年ぶりの高い水準に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092851000",
+      "pubDate": "Mon, 06 Apr 2026 09:06:31 +0900"
+    },
+    {
+      "title": "OPECプラスの主な産油国 原油増産へ 輸送本格再開への備えか",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092761000",
+      "pubDate": "Mon, 06 Apr 2026 06:22:11 +0900"
+    },
     {
       "title": "トランプ大統領 “エネルギー施設の破壊行わない期限”延長か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015092771000",
       "pubDate": "Mon, 06 Apr 2026 05:37:57 +0900"
-    },
-    {
-      "title": "政府 原油の調達“来年の年明けまで必要な量を確保できる”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092621000",
-      "pubDate": "Mon, 06 Apr 2026 05:34:19 +0900"
-    },
-    {
-      "title": "NY原油市場 先物価格 一時1バレル＝115ドル台まで上昇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092801000",
-      "pubDate": "Mon, 06 Apr 2026 07:19:26 +0900"
-    },
-    {
-      "title": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092791000",
-      "pubDate": "Mon, 06 Apr 2026 06:25:53 +0900"
-    },
-    {
-      "title": "ドジャース 大谷翔平 2試合ぶり先制2号ソロホームラン",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092781000",
-      "pubDate": "Mon, 06 Apr 2026 05:27:26 +0900"
     },
     {
       "title": "今年度予算案 自然成立前に与野党の最終調整行われる見通し",
@@ -33,9 +23,19 @@
       "pubDate": "Mon, 06 Apr 2026 05:42:21 +0900"
     },
     {
-      "title": "福島第二原発1号機 燃料プール冷却停止 “直ちに問題起きず”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015092741000",
-      "pubDate": "Sun, 05 Apr 2026 22:36:51 +0900"
+      "title": "ドジャース 大谷翔平 2試合ぶり先制2号ソロホームラン",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092781000",
+      "pubDate": "Mon, 06 Apr 2026 09:50:17 +0900"
+    },
+    {
+      "title": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092791000",
+      "pubDate": "Mon, 06 Apr 2026 06:25:53 +0900"
+    },
+    {
+      "title": "NY原油市場 先物価格 一時1バレル＝115ドル台まで上昇",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015092801000",
+      "pubDate": "Mon, 06 Apr 2026 08:53:36 +0900"
     }
   ]
 }
