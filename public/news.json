@@ -1,16 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-06T16:10:46.320Z",
+  "updated": "2026-04-06T17:06:36.994Z",
   "items": [
+    {
+      "title": "【ライブ配信予定】トランプ大統領 記者会見",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015093571000",
+      "pubDate": "Tue, 07 Apr 2026 01:14:15 +0900"
+    },
     {
       "title": "トランプ氏 エネルギー施設攻撃延期か 停戦条件協議との報道も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015092771000",
       "pubDate": "Mon, 06 Apr 2026 21:37:26 +0900"
     },
     {
-      "title": "再審制度見直し “証拠開示あり方も政府案は不十分” 自民会議",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015093431000",
-      "pubDate": "Mon, 06 Apr 2026 20:50:43 +0900"
+      "title": "“イランがアメリカに停戦拒否の回答” イラン国営通信",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015093611000",
+      "pubDate": "Tue, 07 Apr 2026 00:54:08 +0900"
     },
     {
       "title": "「武器」移転を原則可能とする案 政府が自民党の会合で示す",
@@ -18,24 +23,19 @@
       "pubDate": "Mon, 06 Apr 2026 19:43:38 +0900"
     },
     {
-      "title": "6日は気温上昇 7日は沖縄と鹿児島で非常に激しい雨のおそれ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015093421000",
-      "pubDate": "Mon, 06 Apr 2026 19:48:48 +0900"
-    },
-    {
       "title": "生活保護受給者状況 20代単身受給者が増加 25年前と比べ7倍に",
       "link": "https://news.web.nhk/newsweb/na/na-k10015093371000",
       "pubDate": "Mon, 06 Apr 2026 19:47:48 +0900"
     },
     {
+      "title": "中国 遼寧省で無差別切りつけ事件か 複数の香港メディア報道",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015093581000",
+      "pubDate": "Mon, 06 Apr 2026 23:01:25 +0900"
+    },
+    {
       "title": "京都 南丹 男児不明 小学校で保護者説明会開かれる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015093481000",
       "pubDate": "Mon, 06 Apr 2026 21:12:46 +0900"
-    },
-    {
-      "title": "沖縄 辺野古沖の転覆事故 京都府が高校に複数回聞き取り調査",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015093491000",
-      "pubDate": "Mon, 06 Apr 2026 21:10:19 +0900"
     }
   ]
 }
