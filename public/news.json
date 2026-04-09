@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-09T20:10:45.632Z",
+  "updated": "2026-04-09T21:03:28.688Z",
   "items": [
+    {
+      "title": "レバノンへの攻撃続く イラン大統領「交渉を無意味なものに」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015096141000",
+      "pubDate": "Fri, 10 Apr 2026 05:54:49 +0900"
+    },
     {
       "title": "大阪 和泉 母娘2人殺害 トラブル相談なし 死亡は午前4時ごろか",
       "link": "https://news.web.nhk/newsweb/na/na-k10015096211000",
@@ -13,14 +18,14 @@
       "pubDate": "Fri, 10 Apr 2026 04:35:16 +0900"
     },
     {
-      "title": "ホルムズ海峡 停戦合意後に通過の船舶３隻のみ 位置情報の分析",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015095751000",
-      "pubDate": "Thu, 09 Apr 2026 21:40:40 +0900"
-    },
-    {
       "title": "ゼレンスキー大統領 “ロシア産原油など制裁緩和の根拠ない”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015096151000",
       "pubDate": "Fri, 10 Apr 2026 05:02:53 +0900"
+    },
+    {
+      "title": "台風4号が発生 日本のはるか南の海上 今後の情報に注意 気象庁",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015096221000",
+      "pubDate": "Fri, 10 Apr 2026 05:56:24 +0900"
     },
     {
       "title": "英国防相 “周辺海域でロシア潜水艦が秘密作戦” ロシアに警告",
@@ -28,14 +33,9 @@
       "pubDate": "Fri, 10 Apr 2026 05:00:31 +0900"
     },
     {
-      "title": "レバノンで大規模攻撃 停戦の合意内容めぐり認識の相違",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015095271000",
-      "pubDate": "Thu, 09 Apr 2026 21:47:40 +0900"
-    },
-    {
-      "title": "戦後50年の沖縄県戦没者追悼式に大使出席を検討 韓国外交文書",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015096041000",
-      "pubDate": "Fri, 10 Apr 2026 04:57:46 +0900"
+      "title": "ガザ地区 停戦合意発効から半年 発効後の死者は730人超",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015096031000",
+      "pubDate": "Fri, 10 Apr 2026 05:40:24 +0900"
     }
   ]
 }
