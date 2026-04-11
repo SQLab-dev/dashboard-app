@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-11T05:17:03.572Z",
+  "updated": "2026-04-11T06:15:56.246Z",
   "items": [
+    {
+      "title": "米とイラン きょうパキスタンで協議予定 イラン代表団が到着",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015096981000",
+      "pubDate": "Sat, 11 Apr 2026 12:09:38 +0900"
+    },
     {
       "title": "大谷翔平 44試合連続出塁 大リーグ 日本選手の最長記録更新",
       "link": "https://news.web.nhk/newsweb/na/na-k10015097171000",
@@ -13,9 +18,9 @@
       "pubDate": "Sat, 11 Apr 2026 11:33:23 +0900"
     },
     {
-      "title": "米とイラン きょうパキスタンで協議予定 イラン代表団が到着",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015096981000",
-      "pubDate": "Sat, 11 Apr 2026 12:09:38 +0900"
+      "title": "京急線 品川～京急蒲田 上下線で運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015097221000",
+      "pubDate": "Sat, 11 Apr 2026 14:44:42 +0900"
     },
     {
       "title": "月探査「アルテミス計画」宇宙船 太平洋に着水し地球に帰還",
@@ -28,14 +33,9 @@
       "pubDate": "Sat, 11 Apr 2026 12:09:13 +0900"
     },
     {
-      "title": "トランプ政権が徴収した相互関税など 返還申請受け付けへ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015097161000",
-      "pubDate": "Sat, 11 Apr 2026 12:05:48 +0900"
-    },
-    {
-      "title": "レッドソックス 吉田正尚 3試合ぶり出場で3打数1安打",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015097201000",
-      "pubDate": "Sat, 11 Apr 2026 14:08:37 +0900"
+      "title": "“アンソロピック新AIモデルめぐり米財務長官ら緊急会合”報道",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015097101000",
+      "pubDate": "Sat, 11 Apr 2026 11:54:35 +0900"
     }
   ]
 }
