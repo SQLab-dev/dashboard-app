@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-11T07:29:42.925Z",
+  "updated": "2026-04-11T08:04:22.330Z",
   "items": [
     {
       "title": "米とイラン きょうパキスタンで協議予定 米代表団も到着",
       "link": "https://news.web.nhk/newsweb/na/na-k10015096981000",
       "pubDate": "Sat, 11 Apr 2026 15:51:15 +0900"
+    },
+    {
+      "title": "沖縄 辺野古沖の転覆事故 学校法人同志社に現地調査へ 文科省",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015097241000",
+      "pubDate": "Sat, 11 Apr 2026 16:31:46 +0900"
     },
     {
       "title": "大谷翔平 44試合連続出塁 大リーグ 日本選手の最長記録更新",
@@ -18,24 +23,19 @@
       "pubDate": "Sat, 11 Apr 2026 11:33:23 +0900"
     },
     {
-      "title": "NBA レイカーズ 八村塁 13得点あげチームも快勝",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015097231000",
-      "pubDate": "Sat, 11 Apr 2026 16:23:37 +0900"
-    },
-    {
-      "title": "京急線 運転再開",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015097221000",
-      "pubDate": "Sat, 11 Apr 2026 16:05:04 +0900"
-    },
-    {
       "title": "月探査「アルテミス計画」宇宙船 太平洋に着水し地球に帰還",
       "link": "https://news.web.nhk/newsweb/na/na-k10015096901000",
       "pubDate": "Sat, 11 Apr 2026 15:21:55 +0900"
     },
     {
-      "title": "東～西日本 気温上昇 熱中症に注意 北日本は荒天",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015096971000",
-      "pubDate": "Sat, 11 Apr 2026 12:09:13 +0900"
+      "title": "レッドソックス 吉田正尚 3試合ぶり出場で3打数1安打",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015097201000",
+      "pubDate": "Sat, 11 Apr 2026 16:39:15 +0900"
+    },
+    {
+      "title": "NBA レイカーズ 八村塁 13得点あげチームも快勝",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015097231000",
+      "pubDate": "Sat, 11 Apr 2026 16:23:37 +0900"
     }
   ]
 }
