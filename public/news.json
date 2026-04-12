@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-12T07:42:29.589Z",
+  "updated": "2026-04-12T08:30:05.392Z",
   "items": [
+    {
+      "title": "京都 南丹 山中で靴 男児のものと特徴似る 警察が確認進める",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015093751000",
+      "pubDate": "Sun, 12 Apr 2026 16:56:34 +0900"
+    },
     {
       "title": "大分 豊後大野 山中で遺体見つかる 行方不明女性の可能性 警察",
       "link": "https://news.web.nhk/newsweb/na/na-k10015097631000",
@@ -11,11 +16,6 @@
       "title": "米バンス副大統領「合意に至らず」イラン側「意見の相違残る」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015097451000",
       "pubDate": "Sun, 12 Apr 2026 16:12:46 +0900"
-    },
-    {
-      "title": "ドジャース大谷翔平 HR含む2安打1打点 連続出塁記録も45試合に",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015097571000",
-      "pubDate": "Sun, 12 Apr 2026 15:16:00 +0900"
     },
     {
       "title": "熊本地震からまもなく10年 甚大被害の益城町で犠牲者の追悼式",
@@ -28,14 +28,14 @@
       "pubDate": "Sun, 12 Apr 2026 15:45:26 +0900"
     },
     {
+      "title": "ドジャース大谷翔平 HR含む2安打1打点 連続出塁記録も45試合に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015097571000",
+      "pubDate": "Sun, 12 Apr 2026 15:16:00 +0900"
+    },
+    {
       "title": "「低たんぱく食」でマウスの内臓脂肪が減少 代謝改善の可能性",
       "link": "https://news.web.nhk/newsweb/na/na-k10015097511000",
       "pubDate": "Sun, 12 Apr 2026 11:15:00 +0900"
-    },
-    {
-      "title": "ソフトバンク 杉山一樹 ベンチ殴り左手骨折 1軍登録を外れる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015097611000",
-      "pubDate": "Sun, 12 Apr 2026 15:41:05 +0900"
     }
   ]
 }
