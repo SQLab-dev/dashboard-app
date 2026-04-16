@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-16T16:11:46.345Z",
+  "updated": "2026-04-16T17:44:01.285Z",
   "items": [
     {
       "title": "京都 11歳男児遺体遺棄事件 父親が殺害も認める供述",
       "link": "https://news.web.nhk/newsweb/na/na-k10015100451000",
       "pubDate": "Thu, 16 Apr 2026 20:16:24 +0900"
+    },
+    {
+      "title": "トランプ氏 イスラエルとレバノン 10日間の停戦で合意と発表",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015101301000",
+      "pubDate": "Fri, 17 Apr 2026 02:31:17 +0900"
     },
     {
       "title": "アメリカとイラン 来週が期限の停戦 2週間延長を検討か",
@@ -28,14 +33,9 @@
       "pubDate": "Fri, 17 Apr 2026 00:19:22 +0900"
     },
     {
-      "title": "滋賀銀行と池田泉州HD 資本業務提携で最終調整",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015101121000",
-      "pubDate": "Thu, 16 Apr 2026 21:07:34 +0900"
-    },
-    {
-      "title": "オーストラリア 国内燃料需要10％生産の製油所で火災 影響懸念",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015101251000",
-      "pubDate": "Thu, 16 Apr 2026 23:36:58 +0900"
+      "title": "ウクライナ全土で少なくとも15人死亡 ロシア軍による攻撃",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015101071000",
+      "pubDate": "Fri, 17 Apr 2026 00:33:49 +0900"
     }
   ]
 }
