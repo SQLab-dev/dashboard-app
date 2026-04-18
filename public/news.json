@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-18T07:46:18.050Z",
+  "updated": "2026-04-18T08:31:50.476Z",
   "items": [
     {
       "title": "【地震情報】長野県北部で震度5強 地震相次ぐ 津波の心配なし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015097971000",
       "pubDate": "Sat, 18 Apr 2026 14:38:38 +0900"
-    },
-    {
-      "title": "【地震情報】長野県北部で震度3 津波の心配なし（16:21）",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015102541000",
-      "pubDate": "Sat, 18 Apr 2026 16:24:23 +0900"
     },
     {
       "title": "【地震 影響や被害は】長野県北部で震度5強",
@@ -23,19 +18,24 @@
       "pubDate": "Sat, 18 Apr 2026 16:38:32 +0900"
     },
     {
-      "title": "【長野 地震】 専門家「同じような規模の地震 続く可能性も」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015102441000",
-      "pubDate": "Sat, 18 Apr 2026 15:54:20 +0900"
-    },
-    {
       "title": "京都 男児遺体遺棄事件 自宅と小学校の間のトイレを現場検証",
       "link": "https://news.web.nhk/newsweb/na/na-k10015102221000",
       "pubDate": "Sat, 18 Apr 2026 15:03:44 +0900"
     },
     {
+      "title": "京都 男児遺体遺棄事件 誤った情報がSNSで拡散 発信元の確認を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015102291000",
+      "pubDate": "Sat, 18 Apr 2026 17:20:37 +0900"
+    },
+    {
+      "title": "イラン革命防衛隊元司令官“米が脅すかぎりホルムズ海峡封鎖”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015102521000",
+      "pubDate": "Sat, 18 Apr 2026 17:21:26 +0900"
+    },
+    {
       "title": "イラン側「米海上封鎖なら自由通航認めず」数日以内に協議か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015102261000",
-      "pubDate": "Sat, 18 Apr 2026 14:09:14 +0900"
+      "pubDate": "Sat, 18 Apr 2026 16:56:07 +0900"
     }
   ]
 }
