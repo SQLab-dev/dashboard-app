@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-19T12:25:56.618Z",
+  "updated": "2026-04-19T13:39:19.743Z",
   "items": [
+    {
+      "title": "トランプ大統領「私の代表団がパキスタンへ向かっている」",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015103161000",
+      "pubDate": "Sun, 19 Apr 2026 22:34:44 +0900"
+    },
     {
       "title": "仙台 住宅街にとどまったクマを麻酔銃による緊急銃猟で捕獲",
       "link": "https://news.web.nhk/newsweb/na/na-k10015102821000",
@@ -28,14 +33,9 @@
       "pubDate": "Sun, 19 Apr 2026 19:45:56 +0900"
     },
     {
-      "title": "池袋暴走事故から7年 遺族が追悼 交通事故防止への思い訴え",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015102981000",
-      "pubDate": "Sun, 19 Apr 2026 15:07:39 +0900"
-    },
-    {
-      "title": "体操 全日本選手権 男子 橋本大輝が大会6連覇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015102971000",
-      "pubDate": "Sun, 19 Apr 2026 19:00:51 +0900"
+      "title": "【プロ野球結果】阪神逆転勝ちで3連勝 オリックス同率で首位",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015103141000",
+      "pubDate": "Sun, 19 Apr 2026 22:27:44 +0900"
     }
   ]
 }
