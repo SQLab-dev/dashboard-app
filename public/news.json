@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-19T23:06:48.401Z",
+  "updated": "2026-04-19T23:51:19.322Z",
   "items": [
     {
       "title": "米「代表団が2回目の協議へ」 イラン国営通信「参加を拒否」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015103161000",
-      "pubDate": "Mon, 20 Apr 2026 06:35:02 +0900"
+      "pubDate": "Mon, 20 Apr 2026 08:09:24 +0900"
+    },
+    {
+      "title": "NY原油先物価格上昇 1バレル91ドル台に 米イラン協議不透明で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015103241000",
+      "pubDate": "Mon, 20 Apr 2026 08:13:20 +0900"
     },
     {
       "title": "「国家情報局」設置法案 与野党が衆院採決で日程協議の見通し",
@@ -31,11 +36,6 @@
       "title": "ウクライナ ゼレンスキー大統領 米の対ロシア制裁解除に懸念",
       "link": "https://news.web.nhk/newsweb/na/na-k10015103181000",
       "pubDate": "Mon, 20 Apr 2026 05:16:14 +0900"
-    },
-    {
-      "title": "韓国メディア “統一相発言に米抗議 北朝鮮情報の提供制限か”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015103151000",
-      "pubDate": "Sun, 19 Apr 2026 21:22:13 +0900"
     }
   ]
 }
