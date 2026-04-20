@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-20T12:55:45.690Z",
+  "updated": "2026-04-20T14:51:07.351Z",
   "items": [
     {
-      "title": "東北 秋田 山形の各新幹線 全区間で運転再開",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015104001000",
-      "pubDate": "Mon, 20 Apr 2026 21:26:12 +0900"
-    },
-    {
-      "title": "【津波情報】北海道～福島に津波注意報 久慈港で80cm津波観測",
+      "title": "北海道～福島 津波注意報 すべて解除",
       "link": "https://news.web.nhk/newsweb/na/na-k10015103601000",
-      "pubDate": "Mon, 20 Apr 2026 21:46:34 +0900"
+      "pubDate": "Mon, 20 Apr 2026 23:47:41 +0900"
     },
     {
       "title": "北海道・三陸沖後発地震注意情報 “巨大地震の可能性高まる”",
@@ -18,14 +13,14 @@
       "pubDate": "Mon, 20 Apr 2026 20:26:42 +0900"
     },
     {
-      "title": "気象庁・内閣府が会見「日頃からの備えを確認して」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015103751000",
-      "pubDate": "Mon, 20 Apr 2026 20:31:11 +0900"
+      "title": "津波警報直後から SNSで偽情報・偽動画相次ぐ 注意を",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015103911000",
+      "pubDate": "Mon, 20 Apr 2026 20:34:09 +0900"
     },
     {
-      "title": "5道県 17万6828人に「避難指示」 総務省（20日19時45分時点）",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015103891000",
-      "pubDate": "Mon, 20 Apr 2026 20:20:47 +0900"
+      "title": "中国 東シナ海で新たな構造物設置の動き 日本政府が強く抗議",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015103861000",
+      "pubDate": "Mon, 20 Apr 2026 19:39:06 +0900"
     },
     {
       "title": "【地震情報】青森県階上町で震度5強 青森 岩手 宮城で震度5弱",
@@ -36,6 +31,11 @@
       "title": "イラン 米との協議に現時点で応じない姿勢示す 実現は不透明",
       "link": "https://news.web.nhk/newsweb/na/na-k10015103351000",
       "pubDate": "Mon, 20 Apr 2026 21:17:28 +0900"
+    },
+    {
+      "title": "サッカーW杯 日本代表のサポートにU19日本代表の約20人が帯同",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015104091000",
+      "pubDate": "Mon, 20 Apr 2026 22:16:41 +0900"
     }
   ]
 }
