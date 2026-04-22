@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-22T17:17:19.795Z",
+  "updated": "2026-04-22T18:15:31.652Z",
   "items": [
+    {
+      "title": "【地震速報】長野県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015105161000",
+      "pubDate": "Thu, 23 Apr 2026 03:10:28 +0900"
+    },
     {
       "title": "岩手 大槌町の山林火災延焼続く 消火活動23日朝に再開へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015105551000",
@@ -16,11 +21,6 @@
       "title": "「国家情報局」設置法案 衆院内閣委員会で賛成多数で可決",
       "link": "https://news.web.nhk/newsweb/na/na-k10015105371000",
       "pubDate": "Wed, 22 Apr 2026 19:32:30 +0900"
-    },
-    {
-      "title": "欧州の航空会社の大幅減便相次ぐ イラン情勢受け燃料価格高騰",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015105931000",
-      "pubDate": "Wed, 22 Apr 2026 21:35:14 +0900"
     },
     {
       "title": "東京ドームシティ 遊具点検中の事故 操作盤に誰も触れずか",
