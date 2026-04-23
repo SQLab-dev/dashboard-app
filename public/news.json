@@ -1,16 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-23T14:05:46.975Z",
+  "updated": "2026-04-23T17:42:22.253Z",
   "items": [
+    {
+      "title": "トランプ大統領 ホルムズ海峡で機雷敷設の船舶への攻撃を命令",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106881000",
+      "pubDate": "Fri, 24 Apr 2026 00:21:55 +0900"
+    },
     {
       "title": "岩手 大槌町の山林火災 延焼続く 夜を徹して消火活動や警戒へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015106021000",
       "pubDate": "Thu, 23 Apr 2026 19:45:59 +0900"
-    },
-    {
-      "title": "米 海上封鎖で経済的圧力 各国の外交続くも協議開催は不透明",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015105831000",
-      "pubDate": "Thu, 23 Apr 2026 19:02:43 +0900"
     },
     {
       "title": "春のクマ ことしは目撃3倍に 例年少ないこの時期になぜ",
@@ -18,9 +18,14 @@
       "pubDate": "Thu, 23 Apr 2026 21:40:28 +0900"
     },
     {
+      "title": "東京 江戸川区 生活困窮の相談で誤説明 国求める研修未実施",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106731000",
+      "pubDate": "Fri, 24 Apr 2026 00:03:30 +0900"
+    },
+    {
       "title": "EU ウクライナへ16兆円規模の融資 すべての加盟国が承認",
       "link": "https://news.web.nhk/newsweb/na/na-k10015106811000",
-      "pubDate": "Thu, 23 Apr 2026 21:33:12 +0900"
+      "pubDate": "Thu, 23 Apr 2026 23:36:45 +0900"
     },
     {
       "title": "アルツハイマー病の記憶障害 ドーパミン不足関与か 東北大など",
@@ -28,14 +33,9 @@
       "pubDate": "Thu, 23 Apr 2026 18:50:25 +0900"
     },
     {
-      "title": "欧州 EV新車販売が大幅増 イラン情勢で燃料上昇や補助金影響か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015106861000",
-      "pubDate": "Thu, 23 Apr 2026 22:31:16 +0900"
-    },
-    {
-      "title": "【プロ野球結果】首位ヤクルト2連勝 勝ち越し「10」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015106701000",
-      "pubDate": "Thu, 23 Apr 2026 22:46:34 +0900"
+      "title": "台湾TSMC 2029年から1.3ナノメートル級半導体量産へ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106891000",
+      "pubDate": "Thu, 23 Apr 2026 23:41:09 +0900"
     }
   ]
 }
