@@ -1,11 +1,16 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-22T23:25:47.406Z",
+  "updated": "2026-04-23T00:09:11.389Z",
   "items": [
     {
-      "title": "岩手 大槌町の山林火災 23日午前5時ごろから消火活動再開",
+      "title": "株価 最高値更新 イラン情勢 戦闘再開への懸念いったん和らぐ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106061000",
+      "pubDate": "Thu, 23 Apr 2026 09:06:58 +0900"
+    },
+    {
+      "title": "岩手 大槌町の山林火災 23日朝から消火活動再開 鎮火急ぐ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015106021000",
-      "pubDate": "Thu, 23 Apr 2026 06:38:01 +0900"
+      "pubDate": "Thu, 23 Apr 2026 08:54:28 +0900"
     },
     {
       "title": "「国家情報局」設置法案 きょう衆院通過へ 今国会で成立見通し",
@@ -31,11 +36,6 @@
       "title": "三陸沖 地震活動続く 後発地震注意情報“日頃の備え確認を”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015105821000",
       "pubDate": "Thu, 23 Apr 2026 05:51:02 +0900"
-    },
-    {
-      "title": "原子力規制委員長「後発地震注意情報 原発では慎重に作業を」",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015105971000",
-      "pubDate": "Thu, 23 Apr 2026 05:56:42 +0900"
     }
   ]
 }
