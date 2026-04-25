@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-25T21:05:29.191Z",
+  "updated": "2026-04-25T21:50:25.120Z",
   "items": [
-    {
-      "title": "JR横須賀線と東海道線 運転見合わせ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015108501000",
-      "pubDate": "Sun, 26 Apr 2026 05:54:29 +0900"
-    },
     {
       "title": "岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108391000",
-      "pubDate": "Sun, 26 Apr 2026 05:37:11 +0900"
+      "pubDate": "Sun, 26 Apr 2026 06:39:00 +0900"
     },
     {
       "title": "北海道・三陸沖後発地震注意情報 日頃の備え確認を",
@@ -18,24 +13,29 @@
       "pubDate": "Sun, 26 Apr 2026 06:00:32 +0900"
     },
     {
+      "title": "イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015108471000",
+      "pubDate": "Sun, 26 Apr 2026 06:18:37 +0900"
+    },
+    {
+      "title": "JR横須賀線と東海道線 運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015108501000",
+      "pubDate": "Sun, 26 Apr 2026 05:54:29 +0900"
+    },
+    {
       "title": "JR福知山線脱線事故 “最後の生存者”が語ったこと",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108351000",
       "pubDate": "Sat, 25 Apr 2026 21:12:29 +0900"
     },
     {
-      "title": "東電 次期会長に産業革新投資機構の横尾社長を招く方向で調整",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015108381000",
-      "pubDate": "Sat, 25 Apr 2026 21:03:56 +0900"
+      "title": "出生前検査 「NIPT」導入後 より負担大きい「羊水検査」が減少",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015108371000",
+      "pubDate": "Sun, 26 Apr 2026 06:11:11 +0900"
     },
     {
       "title": "篠原勝之さん死去「ゲージツ家のクマさん」の愛称で親しまれる",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108431000",
       "pubDate": "Sat, 25 Apr 2026 21:30:26 +0900"
-    },
-    {
-      "title": "Jリーグ特別大会 J1第12節 WEST 名古屋グランパス勝ち 2位浮上",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015108451000",
-      "pubDate": "Sat, 25 Apr 2026 22:42:09 +0900"
     }
   ]
 }
