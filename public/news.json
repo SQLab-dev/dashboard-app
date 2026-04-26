@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-26T16:59:12.422Z",
+  "updated": "2026-04-26T17:50:25.814Z",
   "items": [
+    {
+      "title": "【地震速報】岩手県盛岡市で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106031000",
+      "pubDate": "Mon, 27 Apr 2026 02:18:21 +0900"
+    },
     {
       "title": "トランプ大統領が参加した夕食会で銃撃事件 容疑者拘束で捜査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108571000",
@@ -31,11 +36,6 @@
       "title": "福島 喜多方 山林火災 消火活動 27日朝に再開へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108641000",
       "pubDate": "Sun, 26 Apr 2026 21:04:40 +0900"
-    },
-    {
-      "title": "男子マラソンで初の2時間切り ケニア選手が世界新記録",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015108871000",
-      "pubDate": "Sun, 26 Apr 2026 22:04:38 +0900"
     }
   ]
 }
