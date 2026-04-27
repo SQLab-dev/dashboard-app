@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-27T15:15:45.411Z",
+  "updated": "2026-04-27T16:57:51.711Z",
   "items": [
+    {
+      "title": "地震で相次いだ「沖出し」 ルール策定は北海道で3漁協のみ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015109561000",
+      "pubDate": "Mon, 27 Apr 2026 23:47:20 +0900"
+    },
     {
       "title": "岩手 大槌町の山林火災 発生後初めての雨 28日も消火活動予定",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108891000",
@@ -31,11 +36,6 @@
       "title": "日立が過去最高益 イラン情勢で生産・原材料調達などに影響も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015109551000",
       "pubDate": "Mon, 27 Apr 2026 20:28:50 +0900"
-    },
-    {
-      "title": "ユニセフ 中東地域で子どもの犠牲者増加に懸念 戦闘2か月",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109411000",
-      "pubDate": "Mon, 27 Apr 2026 21:04:39 +0900"
     }
   ]
 }
