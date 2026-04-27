@@ -1,21 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-26T23:41:14.176Z",
+  "updated": "2026-04-27T01:14:50.119Z",
   "items": [
+    {
+      "title": "株価 300円以上値上がり6万円台に 取り引き時間中の最高値更新",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015109121000",
+      "pubDate": "Mon, 27 Apr 2026 09:15:06 +0900"
+    },
     {
       "title": "【地震速報】北海道十勝南部で震度5強 津波の心配なし",
       "link": "https://news.web.nhk/newsweb/na/na-k10015108931000",
-      "pubDate": "Mon, 27 Apr 2026 07:57:13 +0900"
+      "pubDate": "Mon, 27 Apr 2026 09:24:32 +0900"
     },
     {
       "title": "気象庁が会見「今後1週間程度 同程度の地震に注意」",
       "link": "https://news.web.nhk/newsweb/na/na-k10015109001000",
-      "pubDate": "Mon, 27 Apr 2026 08:08:22 +0900"
-    },
-    {
-      "title": "【地震速報】長野 大町市で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109051000",
-      "pubDate": "Mon, 27 Apr 2026 07:58:00 +0900"
+      "pubDate": "Mon, 27 Apr 2026 09:23:47 +0900"
     },
     {
       "title": "岩手 大槌町の山林火災 発生6日目も延焼続く",
@@ -23,19 +23,19 @@
       "pubDate": "Mon, 27 Apr 2026 08:30:47 +0900"
     },
     {
-      "title": "去年の世界の軍事費 前年比2.9％増加で最大規模を更新",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015108751000",
-      "pubDate": "Mon, 27 Apr 2026 08:05:24 +0900"
-    },
-    {
-      "title": "ドジャース 大谷翔平 12試合ぶり6号ソロホームラン",
+      "title": "ドジャース 大谷翔平 12試合ぶり6号ソロHR 3安打1打点の活躍",
       "link": "https://news.web.nhk/newsweb/na/na-k10015109061000",
-      "pubDate": "Mon, 27 Apr 2026 07:27:57 +0900"
+      "pubDate": "Mon, 27 Apr 2026 09:00:11 +0900"
     },
     {
-      "title": "ブルージェイズ 岡本和真 3打数ノーヒット チームは2連勝",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109081000",
-      "pubDate": "Mon, 27 Apr 2026 08:02:32 +0900"
+      "title": "トランプ大統領が参加した夕食会で銃撃事件 動機の解明進める",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015108961000",
+      "pubDate": "Mon, 27 Apr 2026 06:53:26 +0900"
+    },
+    {
+      "title": "トランプ大統領は主導権を強調 イラン側は外交を活発化",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015108941000",
+      "pubDate": "Mon, 27 Apr 2026 06:57:16 +0900"
     }
   ]
 }
