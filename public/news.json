@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-04-28T11:24:43.241Z",
+  "updated": "2026-04-28T13:10:13.638Z",
   "items": [
+    {
+      "title": "UAE OPECとOPECプラスから脱退へ 国営通信が伝える",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110641000",
+      "pubDate": "Tue, 28 Apr 2026 21:42:56 +0900"
+    },
     {
       "title": "岩手 大槌町の山林火災 2日連続の雨 消火活動続く",
       "link": "https://news.web.nhk/newsweb/na/na-k10015109691000",
@@ -13,29 +18,24 @@
       "pubDate": "Tue, 28 Apr 2026 19:05:36 +0900"
     },
     {
+      "title": "NY原油100ドル超に値上がり 今月中旬以来",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110631000",
+      "pubDate": "Tue, 28 Apr 2026 21:38:37 +0900"
+    },
+    {
       "title": "ホンダ “2040年販売の新車すべてをEV等とする”目標を撤回へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015110341000",
       "pubDate": "Tue, 28 Apr 2026 17:52:42 +0900"
     },
     {
-      "title": "【詳しく】日銀 利上げ見送り “物価上振れリスクに注意必要”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109901000",
-      "pubDate": "Tue, 28 Apr 2026 19:12:59 +0900"
+      "title": "岩手 紫波町 発見の遺体は不明の女性と確認 クマに襲われ死亡",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110541000",
+      "pubDate": "Tue, 28 Apr 2026 20:59:57 +0900"
     },
     {
-      "title": "東京ガス“中東情勢の影響で9月ごろから料金上昇の可能性”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110511000",
-      "pubDate": "Tue, 28 Apr 2026 19:46:19 +0900"
-    },
-    {
-      "title": "韓国ユン前大統領のキム・ゴニ夫人 2審は懲役4年の判決",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110501000",
-      "pubDate": "Tue, 28 Apr 2026 19:45:07 +0900"
-    },
-    {
-      "title": "広島 製薬会社の工場で「タンクが爆発」 作業員5人けが",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110111000",
-      "pubDate": "Tue, 28 Apr 2026 19:09:37 +0900"
+      "title": "沖縄 尖閣諸島沖 中国海警局の船2隻 領海出る",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110601000",
+      "pubDate": "Tue, 28 Apr 2026 21:16:23 +0900"
     }
   ]
 }
