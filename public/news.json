@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-01T17:14:02.361Z",
+  "updated": "2026-05-01T18:12:52.550Z",
   "items": [
+    {
+      "title": "【地震速報】北海道根室市・浜中町で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015111091000",
+      "pubDate": "Sat, 02 May 2026 02:46:22 +0900"
+    },
     {
       "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113081000",
@@ -26,11 +31,6 @@
       "title": "こう着するイラン情勢 トランプ大統領に新たな軍事作戦説明か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015112321000",
       "pubDate": "Fri, 01 May 2026 22:35:24 +0900"
-    },
-    {
-      "title": "将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015113191000",
-      "pubDate": "Fri, 01 May 2026 22:33:54 +0900"
     },
     {
       "title": "大阪 母娘殺害事件 娘殺害疑いで51歳容疑者逮捕 元交際相手か",
