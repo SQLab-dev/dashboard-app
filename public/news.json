@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-01T15:13:49.228Z",
+  "updated": "2026-05-01T16:12:09.183Z",
   "items": [
     {
       "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
@@ -23,6 +23,11 @@
       "pubDate": "Fri, 01 May 2026 21:53:03 +0900"
     },
     {
+      "title": "こう着するイラン情勢 トランプ大統領に新たな軍事作戦説明か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015112321000",
+      "pubDate": "Fri, 01 May 2026 22:35:24 +0900"
+    },
+    {
       "title": "将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113191000",
       "pubDate": "Fri, 01 May 2026 22:33:54 +0900"
@@ -31,11 +36,6 @@
       "title": "大阪 母娘殺害事件 娘殺害疑いで51歳容疑者逮捕 元交際相手か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113021000",
       "pubDate": "Fri, 01 May 2026 21:18:22 +0900"
-    },
-    {
-      "title": "ラグビーリーグワン 最下位D-Rocks 首位ワイルドナイツ破る",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015113201000",
-      "pubDate": "Fri, 01 May 2026 23:11:31 +0900"
     }
   ]
 }
