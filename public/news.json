@@ -1,7 +1,12 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-01T20:33:23.486Z",
+  "updated": "2026-05-01T21:30:45.995Z",
   "items": [
+    {
+      "title": "東北 上越 北陸 山形 秋田の各新幹線 始発から平常運行見込み",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015113231000",
+      "pubDate": "Sat, 02 May 2026 05:51:30 +0900"
+    },
     {
       "title": "旭山動物園 遺体損壊事件 事件当日夜 防犯カメラに容疑者の姿",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113181000",
@@ -18,24 +23,19 @@
       "pubDate": "Sat, 02 May 2026 05:14:52 +0900"
     },
     {
+      "title": "茂木外相 アンゴラ産原油取り引き 日本企業の参画 後押しへ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015113221000",
+      "pubDate": "Sat, 02 May 2026 05:32:06 +0900"
+    },
+    {
+      "title": "NPT再検討会議 広島の「胎内被爆者」核兵器の非人道性訴え",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015113171000",
+      "pubDate": "Sat, 02 May 2026 05:53:43 +0900"
+    },
+    {
       "title": "中国で“スパイ容疑”拘束 北海道教育大学の元教授釈放",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113211000",
       "pubDate": "Sat, 02 May 2026 05:30:31 +0900"
-    },
-    {
-      "title": "秋田 風車事故1年 死亡の経緯は今も不明 遺族“真相を”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015113101000",
-      "pubDate": "Sat, 02 May 2026 05:05:08 +0900"
-    },
-    {
-      "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015113081000",
-      "pubDate": "Fri, 01 May 2026 23:07:07 +0900"
-    },
-    {
-      "title": "2日は東北で暴風のおそれ 東北新幹線など運休や遅れの可能性",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015112291000",
-      "pubDate": "Fri, 01 May 2026 19:19:35 +0900"
     }
   ]
 }
