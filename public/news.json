@@ -1,12 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-01T18:12:52.550Z",
+  "updated": "2026-05-01T19:40:07.840Z",
   "items": [
-    {
-      "title": "【地震速報】北海道根室市・浜中町で震度3 津波の心配なし",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015111091000",
-      "pubDate": "Sat, 02 May 2026 02:46:22 +0900"
-    },
     {
       "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113081000",
@@ -36,6 +31,11 @@
       "title": "大阪 母娘殺害事件 娘殺害疑いで51歳容疑者逮捕 元交際相手か",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113021000",
       "pubDate": "Fri, 01 May 2026 21:18:22 +0900"
+    },
+    {
+      "title": "【地震速報】北海道根室市・浜中町で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015111091000",
+      "pubDate": "Sat, 02 May 2026 02:46:22 +0900"
     }
   ]
 }
