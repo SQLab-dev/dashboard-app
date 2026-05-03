@@ -1,12 +1,7 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-03T18:01:30.342Z",
+  "updated": "2026-05-03T19:13:06.661Z",
   "items": [
-    {
-      "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015113771000",
-      "pubDate": "Sun, 03 May 2026 20:25:12 +0900"
-    },
     {
       "title": "高市首相 オーストラリア着 エネルギー円滑流通で共同声明へ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114151000",
@@ -16,6 +11,11 @@
       "title": "OPECプラス主要産油国 UAE抜きで増産決定",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114171000",
       "pubDate": "Sun, 03 May 2026 22:28:09 +0900"
+    },
+    {
+      "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015113771000",
+      "pubDate": "Sun, 03 May 2026 20:25:12 +0900"
     },
     {
       "title": "日本とケニアの外相 OSA活用含め安全保障協力の強化で一致",
@@ -33,9 +33,9 @@
       "pubDate": "Sun, 03 May 2026 22:47:37 +0900"
     },
     {
-      "title": "ワールドクライミングシリーズで安楽宙斗がボルダー開幕戦優勝",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015114221000",
-      "pubDate": "Mon, 04 May 2026 00:03:04 +0900"
+      "title": "車いすラグビー国際大会 パラリンピック2連覇目指す日本が優勝",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015114071000",
+      "pubDate": "Sun, 03 May 2026 19:24:57 +0900"
     }
   ]
 }
