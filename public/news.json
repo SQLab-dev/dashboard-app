@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-03T14:36:53.926Z",
+  "updated": "2026-05-03T15:27:42.391Z",
   "items": [
     {
       "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
@@ -23,11 +23,6 @@
       "pubDate": "Sun, 03 May 2026 22:31:04 +0900"
     },
     {
-      "title": "猪苗代湖で水上バイク転覆 2人が意識不明で搬送 福島",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015114091000",
-      "pubDate": "Sun, 03 May 2026 20:53:17 +0900"
-    },
-    {
       "title": "改憲「必要」「どちらとも」38％「必要ない」20％ NHK世論調査",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113971000",
       "pubDate": "Sun, 03 May 2026 17:04:57 +0900"
@@ -36,6 +31,11 @@
       "title": "【プロ野球結果】セ・リーグ首位の阪神 巨人に勝ち首位キープ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114201000",
       "pubDate": "Sun, 03 May 2026 22:47:37 +0900"
+    },
+    {
+      "title": "ワールドクライミングシリーズで安楽宙斗がボルダー開幕戦優勝",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015114221000",
+      "pubDate": "Mon, 04 May 2026 00:03:04 +0900"
     }
   ]
 }
