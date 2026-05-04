@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-04T18:25:16.100Z",
+  "updated": "2026-05-04T20:01:40.925Z",
   "items": [
     {
       "title": "冥王星より外側の天体に大気の存在を確認 国立天文台など発表",
@@ -8,14 +8,19 @@
       "pubDate": "Tue, 05 May 2026 00:00:06 +0900"
     },
     {
+      "title": "片山財務相 ADBと連携し途上国支援に貢献する考え強調",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015114681000",
+      "pubDate": "Tue, 05 May 2026 04:53:12 +0900"
+    },
+    {
+      "title": "山口 車どうしの衝突事故 2人意識不明 1人は小学生",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015114701000",
+      "pubDate": "Tue, 05 May 2026 04:39:54 +0900"
+    },
+    {
       "title": "低気圧の影響で各地に強風被害 東北は暴風警戒 関東は真夏日も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114191000",
       "pubDate": "Mon, 04 May 2026 20:30:39 +0900"
-    },
-    {
-      "title": "倒木がベッドに落下 数センチで直撃免れる 和歌山 白浜町",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015114371000",
-      "pubDate": "Mon, 04 May 2026 18:52:39 +0900"
     },
     {
       "title": "大規模災害にDMAT迅速派遣 北海道と福岡に事務局新設へ 厚労省",
@@ -31,11 +36,6 @@
       "title": "ホルムズ海峡 米が船舶通過支援 イラン“接近・侵入なら攻撃”",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114261000",
       "pubDate": "Mon, 04 May 2026 18:58:12 +0900"
-    },
-    {
-      "title": "急速に円高進む 一時1ドル155円台に 再び市場介入との見方も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015114421000",
-      "pubDate": "Mon, 04 May 2026 18:04:14 +0900"
     }
   ]
 }
