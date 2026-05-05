@@ -1,6 +1,6 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-04T23:12:57.884Z",
+  "updated": "2026-05-05T00:09:35.346Z",
   "items": [
     {
       "title": "冥王星より外側の天体に大気の存在を確認 国立天文台など発表",
@@ -23,6 +23,11 @@
       "pubDate": "Tue, 05 May 2026 07:09:37 +0900"
     },
     {
+      "title": "山口 美祢 車どうしが衝突 8歳の男の子と20代男性の2人死亡",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015114701000",
+      "pubDate": "Tue, 05 May 2026 08:50:32 +0900"
+    },
+    {
       "title": "東北や関東など各地で強風被害 北海道は6日にかけ風強く",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114621000",
       "pubDate": "Tue, 05 May 2026 07:02:16 +0900"
@@ -31,11 +36,6 @@
       "title": "保育施設の5％近くがスポットワーク保育士等活用 こども家庭庁",
       "link": "https://news.web.nhk/newsweb/na/na-k10015114591000",
       "pubDate": "Tue, 05 May 2026 05:32:04 +0900"
-    },
-    {
-      "title": "15歳未満の子どもの数1329万人 45年連続で減少 総務省推計",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015114411000",
-      "pubDate": "Mon, 04 May 2026 17:03:58 +0900"
     }
   ]
 }
