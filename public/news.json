@@ -1,11 +1,21 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-06T04:45:18.512Z",
+  "updated": "2026-05-06T07:27:09.305Z",
   "items": [
+    {
+      "title": "京都 南丹 小学生男児の遺体遺棄事件 父親を殺人容疑で再逮捕",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115361000",
+      "pubDate": "Wed, 06 May 2026 16:17:50 +0900"
+    },
     {
       "title": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
       "link": "https://news.web.nhk/newsweb/na/na-k10015115221000",
-      "pubDate": "Wed, 06 May 2026 11:57:52 +0900"
+      "pubDate": "Wed, 06 May 2026 15:03:58 +0900"
+    },
+    {
+      "title": "岩手 大槌町「山林が燃えている」通報 消防",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115341000",
+      "pubDate": "Wed, 06 May 2026 15:03:16 +0900"
     },
     {
       "title": "トランプ大統領“ホルムズ海峡通過させる取り組み短期間停止”",
@@ -13,9 +23,9 @@
       "pubDate": "Wed, 06 May 2026 10:23:05 +0900"
     },
     {
-      "title": "米アンソロピック 「ミュトス」に中国が追いつく可能性 言及",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015115281000",
-      "pubDate": "Wed, 06 May 2026 12:52:44 +0900"
+      "title": "急速に円高進み 一時1ドル＝155円台に 再び市場介入との見方も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115351000",
+      "pubDate": "Wed, 06 May 2026 15:37:45 +0900"
     },
     {
       "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
@@ -23,19 +33,9 @@
       "pubDate": "Wed, 06 May 2026 09:15:12 +0900"
     },
     {
-      "title": "ホンダ カナダEV工場計画を無期限凍結へ 戦略見直しで",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015115311000",
-      "pubDate": "Wed, 06 May 2026 13:33:02 +0900"
-    },
-    {
-      "title": "【ライブ】5連休最終日 高速道路の上り線は各地で渋滞",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015113121000",
-      "pubDate": "Wed, 06 May 2026 11:52:43 +0900"
-    },
-    {
-      "title": "ブルージェイズ 岡本和真 10号HR 日本選手12人目のふた桁HR",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015115251000",
-      "pubDate": "Wed, 06 May 2026 11:42:06 +0900"
+      "title": "5連休最終日 新幹線や高速道路 空港はUターンで混雑",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015114731000",
+      "pubDate": "Wed, 06 May 2026 14:42:34 +0900"
     }
   ]
 }
