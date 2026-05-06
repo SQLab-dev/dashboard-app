@@ -1,16 +1,11 @@
 {
   "source": "NHKONEニュース",
-  "updated": "2026-05-06T11:29:56.265Z",
+  "updated": "2026-05-06T13:17:27.008Z",
   "items": [
     {
-      "title": "福岡と大分の県境の山国川 男性が流され死亡 10代か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015115441000",
-      "pubDate": "Wed, 06 May 2026 20:14:34 +0900"
-    },
-    {
-      "title": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
+      "title": "磐越道 マイクロバスなど3台の事故 男子高校生死亡 26人搬送",
       "link": "https://news.web.nhk/newsweb/na/na-k10015115221000",
-      "pubDate": "Wed, 06 May 2026 19:00:55 +0900"
+      "pubDate": "Wed, 06 May 2026 21:36:45 +0900"
     },
     {
       "title": "京都 南丹 小学生男児の遺体遺棄事件 父親を殺人容疑で再逮捕",
@@ -18,24 +13,29 @@
       "pubDate": "Wed, 06 May 2026 19:08:47 +0900"
     },
     {
+      "title": "福岡・大分県境の山国川 中学1年の男子生徒が溺れて死亡",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115441000",
+      "pubDate": "Wed, 06 May 2026 21:54:19 +0900"
+    },
+    {
+      "title": "NY原油市場 一時90ドル割れ イラン情勢緊張緩和への期待感から",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115581000",
+      "pubDate": "Wed, 06 May 2026 21:55:33 +0900"
+    },
+    {
+      "title": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115041000",
+      "pubDate": "Wed, 06 May 2026 21:39:00 +0900"
+    },
+    {
       "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015115241000",
-      "pubDate": "Wed, 06 May 2026 20:16:14 +0900"
+      "pubDate": "Wed, 06 May 2026 20:50:55 +0900"
     },
     {
       "title": "岩手 大槌町 山林火災2週間 別の場所で新たに火災が発生",
       "link": "https://news.web.nhk/newsweb/na/na-k10015115341000",
       "pubDate": "Wed, 06 May 2026 19:13:51 +0900"
-    },
-    {
-      "title": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015115041000",
-      "pubDate": "Wed, 06 May 2026 19:33:17 +0900"
-    },
-    {
-      "title": "5連休最終日 新幹線や高速道路 空港はUターンで混雑",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015114731000",
-      "pubDate": "Wed, 06 May 2026 19:13:28 +0900"
     }
   ]
 }
